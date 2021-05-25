@@ -15,10 +15,12 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - 30 Magic Jewels -> 1 Random Rainbow Facet
 - Identify Scroll -> Magic-Find Ring
 - Town Portal Scroll -> Mercenary Cap
+- Secret Cow Level doesn't need Wirt's Leg anymore.
 ## Inventory.txt
 - Bigger inventory & cube.
 ## Levels.txt
 - Hell monster desities & unique monster count is doubled.
+- Cow levels' cows' levels are now 30/67/85, greatly increased cow's density and unique cow count.
 ## Misc.txt
 - Arrows & Bolts' max stack size is increased to 500.
 ## SetItems.txt & Sets.txt
