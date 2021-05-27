@@ -707,9 +707,9 @@ Council (H)			3	993	993	1024	1024		"gld,mul=2048"	9	Act 4 (H) Equip A	15	Act 4 (
 Griswold			-3						Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Griswold (N)			-3						Act 1 (N) Uitem C	1	Act 1 (N) Melee B	2																				0
 Griswold (H)			-3						Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Cow			1						gld	0	Act 5 Equip A	19	Act 5 Junk	0	Act 5 Good	3																0
-Cow (N)			1						gld	0	Act 5 (N) Equip A	19	Act 5 (N) Junk	0	Act 5 (N) Good	3																0
-Cow (H)			1						gld	0	Act 5 (H) Equip B	19	Act 5 (H) Junk	0	Act 5 (H) Good	3																0
+Cow			1					87	gld	0	Act 5 Equip A	10	Act 5 Junk	0	Act 5 Good	3																0
+Cow (N)			1					87	gld	0	Act 5 (N) Equip A	10	Act 5 (N) Junk	0	Act 5 (N) Good	3																0
+Cow (H)			1					87	gld	0	Act 5 (H) Equip B	10	Act 5 (H) Junk	0	Act 5 (H) Good	3																0
 Trapped Soul			1						gld	19	Act 4 Equip A	8	Act 4 Junk	33																		0
 Trapped Soul (N)			1						gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																		0
 Trapped Soul (H)			1						gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																		0
