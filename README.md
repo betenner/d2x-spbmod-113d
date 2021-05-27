@@ -36,7 +36,7 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - Unique monsters (including super uniques) now have 33x unique & set drop rate and 100% rare & magic drop rate.
 - Act bosses now have 50x unique drop rate and 100% set, rare & magic drop rate.
 ## UniqueItems.txt
-- All unique items now have same rarity.
+- Higher level unique items in the same type group have higher drop rate.
 - All unique items can be dropped multiple times in a same game.
 ## Weapons.txt
 - All throwable weapons' max stack size are increased to 500.
