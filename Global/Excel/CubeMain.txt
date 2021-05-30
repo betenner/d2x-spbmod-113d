@@ -168,3 +168,5 @@ set socket	1			100					4	"weap,set,nos"	r15	r16	r17				"useitem,sock=1"									
 set socket	1			100					4	"armo,set,nos"	r15	r16	r17				"useitem,sock=1"																																																																																							0
 rare socket	1			100					3	"weap,rar,nos"	r15	r16					"useitem,sock=1"																																																																																							0
 rare socket	1			100					3	"armo,rar,nos"	r15	r16					"useitem,sock=1"																																																																																							0
+weapon ethereal	1			100					4	"weap,noe"	r26	r27	r28				useitem				ethereal			1	1																																																																															0
+armor ethereal	1			100					4	"armo,noe"	r25	r26	r27				useitem				ethereal			1	1																																																																															0

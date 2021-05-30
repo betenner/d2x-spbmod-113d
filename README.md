@@ -16,6 +16,8 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - Identify Scroll -> Magic-Find Ring
 - Town Portal Scroll -> Mercenary Cap
 - Secret Cow Level doesn't need Wirt's Leg anymore.
+- Non-ethereal weapon + Rune #26 + Rune #27 + Rune #28 -> Ethereal
+- Non-ethereal armor + Rune #25 + Rune #26 + Rune #27 -> Ethereal
 ## Inventory.txt
 - Bigger inventory & cube.
 ## Levels.txt
