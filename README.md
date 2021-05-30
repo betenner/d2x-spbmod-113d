@@ -6,8 +6,12 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - All classes are created with Horadrac Cube.
 ## CubeMain.txt
 - All ladder-only recipes can be used in single-player.
-- No Socket Magic Weapon + 6 Perfect Gems + Rune #15-#19 -> Superior Same Type Weapon with 2-6 Sockets
-- No Socket Magic Armor + 6 Perfect Gems + Rune #15-#17 -> Superior Same Type Armor with 2-4 Sockets
+- Magic Weapon + 6 Perfect Gems + Rune #15-#19 -> Superior Same Type Weapon with 2-6 Sockets
+- Magic Armor + 6 Perfect Gems + Rune #15-#17 -> Superior Same Type Armor with 2-4 Sockets
+- Superior Weapon + 6 Flawless Gems + Rune #15-#19 -> Superior Same Type Weapon with 2-6 Sockets
+- Superior Armor + 6 Flawless Gems + Rune #15-#17 -> Superior Same Type Armor with 2-4 Sockets
+- Normal Weapon + 6 Normal Gems + Rune #15-#19 -> Superior Same Type Weapon with 2-6 Sockets
+- Normal Armor + 6 Normal Gems + Rune #15-#17 -> Superior Same Type Armor with 2-4 Sockets
 - No Socket Rare Item + Rune #15 + Rune #16 -> Add 1 Socket
 - No Socket Set Item + Rune #15 + Rune #16 + Rune #17 -> Add 1 Socket
 - No Socket Unique Item + Rune #15 + Rune #16 + Rune #17 + Rune #18 -> Add 1 Socket
