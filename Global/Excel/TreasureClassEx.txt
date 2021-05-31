@@ -12,18 +12,18 @@ Ammo			1					1	aqv	0	cqv	0																				0
 Misc 0			1					1	key	0	tsc	0	isc	0	opl	0	gpl	0														0
 Misc 1			1					1	key	0	tsc	0	isc	0	opm	0	gpm	0														0
 Misc 2			1					1	key	0	tsc	0	isc	0	ops	0	gps	0														0
-Hpotion 1			1					8	hp1	0	hp2	0	mp1	0	mp2	0	rvl	1														0
-Hpotion 2			1					6	hp1	0	hp2	0	hp3	0	mp2	0	mp3	0	rvl	1												0
-Hpotion 3			1					6	hp2	0	hp3	0	hp4	0	mp3	0	mp4	0	rvl	1												0
-Hpotion 4			1					6	hp3	0	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1												0
-Hpotion 5			1					6	hp3	0	hp4	0	hp5	0	mp5	0	rvl	1														0
-Hpotion 6			1					8	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1														0
-Potion 1			1					15	hp1	0	hp2	0	mp1	0	mp2	0	rvl	1	vps	0												0
-Potion 2			1					15	hp1	0	hp2	0	hp3	0	mp2	0	mp3	0	rvl	1	vps	0	yps	0	wms	0						0
-Potion 3			1					14	hp2	0	hp3	0	hp4	0	mp3	0	mp4	0	rvl	1	vps	0	yps	0	wms	0						0
-Potion 4			1					14	hp3	0	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1	vps	0	yps	0	wms	0						0
-Potion 5			1					15	hp3	0	hp4	0	hp5	0	mp5	0	rvl	1	vps	0	yps	0	wms	0								0
-Potion 6			1					13	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1	vps	0	yps	0	wms	0								0
+Hpotion 1			1					19	hp1	0	hp2	0	mp1	0	mp2	0	rvl	1														0
+Hpotion 2			1					19	hp1	0	hp2	0	hp3	0	mp2	0	mp3	0	rvl	1												0
+Hpotion 3			1					19	hp2	0	hp3	0	hp4	0	mp3	0	mp4	0	rvl	1												0
+Hpotion 4			1					19	hp3	0	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1												0
+Hpotion 5			1					19	hp3	0	hp4	0	hp5	0	mp5	0	rvl	1														0
+Hpotion 6			1					19	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1														0
+Potion 1			1					49	hp1	0	hp2	0	mp1	0	mp2	0	rvl	1	vps	0												0
+Potion 2			1					49	hp1	0	hp2	0	hp3	0	mp2	0	mp3	0	rvl	1	vps	0	yps	0	wms	0						0
+Potion 3			1					49	hp2	0	hp3	0	hp4	0	mp3	0	mp4	0	rvl	1	vps	0	yps	0	wms	0						0
+Potion 4			1					49	hp3	0	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1	vps	0	yps	0	wms	0						0
+Potion 5			1					49	hp3	0	hp4	0	hp5	0	mp5	0	rvl	1	vps	0	yps	0	wms	0								0
+Potion 6			1					49	hp4	0	hp5	0	mp4	0	mp5	0	rvl	1	vps	0	yps	0	wms	0								0
 Runes 1			1						r01	3	r02	2																				0
 Runes 2			1						r03	3	r04	2	Runes 1	1																		0
 Runes 3			1						r05	3	r06	2	Runes 2	5																		0
@@ -493,33 +493,33 @@ Act 5 Cpot A	12	32	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 5 Cpot B	12	34	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 5 Cpot C	12	36	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 1 (N) Cpot A	12	38	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
-Act 1 (N) Cpot B	12	40	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 1 (N) Cpot C	12	41	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot A	12	42	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot B	12	44	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot C	12	45	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 3 (N) Cpot A	12	46	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (N) Cpot B	12	48	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (N) Cpot C	12	50	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (N) Cpot A	12	51	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (N) Cpot B	12	54	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (N) Cpot A	12	57	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (N) Cpot B	12	60	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (N) Cpot C	12	62	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 (H) Cpot A	12	63	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 (H) Cpot B	12	66	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 1 (H) Cpot C	12	68	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 2 (H) Cpot A	12	69	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 2 (H) Cpot B	12	71	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 2 (H) Cpot C	12	72	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (H) Cpot A	12	74	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (H) Cpot B	12	75	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 3 (H) Cpot C	12	77	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (H) Cpot A	12	78	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 4 (H) Cpot B	12	80	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (H) Cpot A	12	81	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (H) Cpot B	12	83	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
-Act 5 (H) Cpot C	12	85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (N) Cpot B	12	40	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 1 (N) Cpot C	12	41	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 2 (N) Cpot A	12	42	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 2 (N) Cpot B	12	44	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 2 (N) Cpot C	12	45	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 3 (N) Cpot A	12	46	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 3 (N) Cpot B	12	48	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 3 (N) Cpot C	12	50	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 4 (N) Cpot A	12	51	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 4 (N) Cpot B	12	54	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 5 (N) Cpot A	12	57	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 5 (N) Cpot B	12	60	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 5 (N) Cpot C	12	62	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 1 (H) Cpot A	12	63	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 1 (H) Cpot B	12	66	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 1 (H) Cpot C	12	68	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 2 (H) Cpot A	12	69	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 2 (H) Cpot B	12	71	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 2 (H) Cpot C	12	72	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 3 (H) Cpot A	12	74	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 3 (H) Cpot B	12	75	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 3 (H) Cpot C	12	77	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 4 (H) Cpot A	12	78	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 4 (H) Cpot B	12	80	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 5 (H) Cpot A	12	81	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 5 (H) Cpot B	12	83	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Act 5 (H) Cpot C	12	85	2					75	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
 Act 1 Champ A	13	0	-2					0	Act 1 Citem A	1	Act 1 Cpot A	2																				0
 Act 1 Champ B	13	5	-2					0	Act 1 Citem B	1	Act 1 Cpot B	1																				0
 Act 1 Champ C	13	9	-2					0	Act 1 Citem C	1	Act 1 Cpot C	1																				0
