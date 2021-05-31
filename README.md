@@ -2,6 +2,8 @@
 Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 
 # List of modifications:
+## Armors.txt
+- All armors have same rarity.
 ## CharStats.txt
 - All classes are created with Horadrac Cube.
 ## CubeMain.txt
@@ -46,3 +48,4 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - All unique items can be dropped multiple times in a same game.
 ## Weapons.txt
 - All throwable weapons' max stack size are increased to 500.
+- All weapons have same rarity.
