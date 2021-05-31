@@ -208,21 +208,21 @@ Act 4 (H) Magic B	4	80	1					1	tsc	0	isc	0	mp4	0	mp5	0																0
 Act 5 (H) Magic A	4	82	1					1	tsc	0	isc	0	mp4	0	mp5	0																0
 Act 5 (H) Magic B	4	83	1					1	tsc	0	isc	0	mp4	0	mp5	0																0
 Act 5 (H) Magic C	4	85	1					1	tsc	0	isc	0	mp4	0	mp5	0																0
-Act 1 Good	5	0	1						Jewelry A	5	Chipped Gem	5																				0
-Act 2 Good	5	12	1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 2	3														0
-Act 3 Good	5	18	1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3														0
-Act 4 Good	5	26	1						Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	14	Runes 6	7												0
-Act 5 Good	5	32	1						Jewelry C	50	Chipped Gem	6	Flawed Gem	8	Normal Gem	24	Flawless Gem	4	Runes 7	10												0
-Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	6	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	14												0
-Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	14												0
-Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	14												0
-Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	14												0
-Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	14												0
-Act 1 (H) Good	5	66	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 13	14												0
-Act 2 (H) Good	5	72	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 14	14												0
-Act 3 (H) Good	5	78	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 15	14												0
-Act 4 (H) Good	5	82	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 16	14												0
-Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 17	14												0
+Act 1 Good	5	0	1					5	Jewelry A	5	Chipped Gem	1																				0
+Act 2 Good	5	12	1					20	Jewelry B	20	Chipped Gem	3	Flawed Gem	1	Runes 1	3	Runes 2	3														0
+Act 3 Good	5	18	1					20	Jewelry C	20	Chipped Gem	2	Flawed Gem	2	Runes 3	3	Runes 4	3														0
+Act 4 Good	5	26	1					50	Jewelry C	50	Chipped Gem	3	Flawed Gem	7	Normal Gem	10	Runes 5	14	Runes 6	7												0
+Act 5 Good	5	32	1					50	Jewelry C	50	Chipped Gem	2	Flawed Gem	2	Normal Gem	6	Flawless Gem	1	Runes 7	10												0
+Act 1 (N) Good	5	38	1					60	Jewelry C	60	Chipped Gem	2	Flawed Gem	2	Normal Gem	7	Flawless Gem	4	Runes 8	14												0
+Act 2 (N) Good	5	42	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 9	14												0
+Act 3 (N) Good	5	46	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 10	14												0
+Act 4 (N) Good	5	51	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 11	14												0
+Act 5 (N) Good	5	57	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 12	14												0
+Act 1 (H) Good	5	66	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 13	14												0
+Act 2 (H) Good	5	72	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 14	14												0
+Act 3 (H) Good	5	78	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 15	14												0
+Act 4 (H) Good	5	82	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 16	14												0
+Act 5 (H) Good	5	85	1					60	Jewelry C	60	Chipped Gem	1	Flawed Gem	3	Normal Gem	3	Flawless Gem	7	Runes 17	14												0
 Act 1 Chest A	6	0	4						gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
 Act 1 Chest B	6	5	4						gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
 Act 1 Chest C	6	9	4						gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
