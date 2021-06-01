@@ -34,6 +34,7 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
     2 Identify Scrolls -> Charm of Swift
     3 Identify Scrolls -> Charm of Safty
     1 Identify Book -> Charm of Experience
+    2 Identify Books -> Charm of Teleport
 ## Inventory.txt
 - Bigger inventory & cube.
 ## Levels.txt
