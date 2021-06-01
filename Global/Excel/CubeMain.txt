@@ -195,3 +195,4 @@ Charm of Damage	1			100					3	"yps,qty=3"							"Charm of Damage,uni"	99								
 Charm of Magic Find	1			100					1	isc							"Charm of Magic Find,uni"	99																																																																																						0
 Charm of Swift	1			100					2	"isc,qty=2"							"Charm of Swift,uni"	99																																																																																						0
 Charm of Safty	1			100					3	"isc,qty=3"							"Charm of Safty,uni"	99																																																																																						0
+Charm of Experience	1			100					1	ibk							"Charm of Experience,uni"	99																																																																																						0

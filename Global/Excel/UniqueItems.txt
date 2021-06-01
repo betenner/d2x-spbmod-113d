@@ -411,3 +411,4 @@ Charm of Damage	100	1		1	1	99	1	cm1	charm			3	500								dmg%		100	100	dmg-fire	
 Charm of Magic Find	100	1		1	1	99	1	cm1	charm			3	500								mag%		100	100																																													0
 Charm of Swift	100	1		1	1	99	1	cm1	charm			3	500								swing3		50	50	cast3		50	50	balance3		50	50	move3		30	30																																	0
 Charm of Safty	100	1		1	1	99	1	cm1	charm			3	500								red-dmg		50	50	red-mag		50	50																																									0
+Charm of Experience	100	1		1	1	99	1	cm1	charm			3	500								addxp		100	100																																													0
