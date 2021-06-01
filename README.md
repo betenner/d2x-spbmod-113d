@@ -27,12 +27,12 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
     1 Key -> Charm of Skill
     2 Keys -> Charm of Attributes
     3 Keys -> Charm of Resistances
-    4 Keys -> Charm of Hit
-    5 Keys -> Charm of Defense
-    6 Keys -> Charm of Damage
-    7 Keys -> Charm of Magic Find
-    8 Keys -> Charm of Swift
-    9 Keys -> Charm of Safty
+    1 Antidote Potion -> Charm of Hit
+    2 Antidote Potions -> Charm of Defense
+    3 Antidote Potions -> Charm of Damage
+    1 Identify Scroll -> Charm of Magic Find
+    2 Identify Scrolls -> Charm of Swift
+    3 Identify Scrolls -> Charm of Safty
 ## Inventory.txt
 - Bigger inventory & cube.
 ## Levels.txt

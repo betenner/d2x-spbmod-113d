@@ -189,9 +189,9 @@ armor ethereal	1			100					4	"armo,noe"	r25	r26	r27				useitem				ethereal			1	1
 Charm of Skill	1			100					1	key							"Charm of Skill,uni"	99																																																																																						0
 Charm of Attributes	1			100					2	"key,qty=2"							"Charm of Attributes,uni"	99																																																																																						0
 Charm of Resistances	1			100					3	"key,qty=3"							"Charm of Resistances,uni"	99																																																																																						0
-Charm of Hit	1			100					4	"key,qty=4"							"Charm of Hit,uni"	99																																																																																						0
-Charm of Defense	1			100					5	"key,qty=5"							"Charm of Defense,uni"	99																																																																																						0
-Charm of Damage	1			100					6	"key,qty=6"							"Charm of Damage,uni"	99																																																																																						0
-Charm of Magic Find	1			100					7	"key,qty=7"							"Charm of Magic Find,uni"	99																																																																																						0
-Charm of Swift	1			100					8	"key,qty=8"							"Charm of Swift,uni"	99																																																																																						0
-Charm of Safty	1			100					9	"key,qty=9"							"Charm of Safty,uni"	99																																																																																						0
+Charm of Hit	1			100					1	yps							"Charm of Hit,uni"	99																																																																																						0
+Charm of Defense	1			100					2	"yps,qty=2"							"Charm of Defense,uni"	99																																																																																						0
+Charm of Damage	1			100					3	"yps,qty=3"							"Charm of Damage,uni"	99																																																																																						0
+Charm of Magic Find	1			100					1	isc							"Charm of Magic Find,uni"	99																																																																																						0
+Charm of Swift	1			100					2	"isc,qty=2"							"Charm of Swift,uni"	99																																																																																						0
+Charm of Safty	1			100					3	"isc,qty=3"							"Charm of Safty,uni"	99																																																																																						0
