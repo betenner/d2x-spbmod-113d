@@ -19,11 +19,20 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - No Socket Unique Item + Rune #15 + Rune #16 + Rune #17 + Rune #18 -> Add 1 Socket
 - 5 Rare Jewels -> 1 Random Rainbow Facet
 - 30 Magic Jewels -> 1 Random Rainbow Facet
-- Identify Scroll -> Magic-Find Ring
-- Town Portal Scroll -> Mercenary Cap
 - Secret Cow Level doesn't need Wirt's Leg anymore.
 - Non-ethereal weapon + Rune #26 + Rune #27 + Rune #28 -> Ethereal
 - Non-ethereal armor + Rune #25 + Rune #26 + Rune #27 -> Ethereal
+- Added following cheat items:
+    Town Portal Scroll -> Mercenary Cap
+    1 Key -> Charm of Skill
+    2 Keys -> Charm of Attributes
+    3 Keys -> Charm of Resistances
+    4 Keys -> Charm of Hit
+    5 Keys -> Charm of Defense
+    6 Keys -> Charm of Damage
+    7 Keys -> Charm of Magic Find
+    8 Keys -> Charm of Swift
+    9 Keys -> Charm of Safty
 ## Inventory.txt
 - Bigger inventory & cube.
 ## Levels.txt
@@ -32,7 +41,6 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 ## Misc.txt
 - Arrows & Bolts' max stack size is increased to 500.
 ## SetItems.txt & Sets.txt
-- Added Magic-Find set.
 - Added Mercenary set.
 - All set items now have same rarity.
 ## TreasureClassEx.txt
