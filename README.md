@@ -46,6 +46,8 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 ## SetItems.txt & Sets.txt
 - Added Mercenary set.
 - All set items now have same rarity.
+## Skills.txt
+- Blessed Hammer now projects like nova (greatly increased power!)
 ## TreasureClassEx.txt
 - Monsters do not drop any junk.
 - Monsters only drop Full Rejuvenation Potion.
