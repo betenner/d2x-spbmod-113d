@@ -405,7 +405,7 @@ SPB Mod																																																																					0
 Charm of Skill	100	1		1	1	99	1	cm1	charm			3	500								allskills		5	5																																													0
 Charm of Attributes	100	1		1	1	99	1	cm1	charm			3	500								all-stats		50	50																																													0
 Charm of Resistances	100	1		1	1	99	1	cm1	charm			3	500								res-all		50	50																																													0
-Charm of Hit	100	1		1	1	99	1	cm1	charm			3	500								ignore-ac		1	1	noheal		1	1	att%		100	100																																					0
+Charm of Hit	100	1		1	1	99	1	cm1	charm			3	500								ignore-ac		1	1	noheal		1	1	att%		100	100	openwounds		100	100	att		500	500																													0
 Charm of Defense	100	1		1	1	99	1	cm1	charm			3	500								ac%		100	100	nofreeze		1	1																																									0
 Charm of Damage	100	1		1	1	99	1	cm1	charm			3	500								dmg%		100	100	dmg-fire		100	100	dmg-cold		100	100	dmg-ltng		100	100	dmg		100	100																													0
 Charm of Magic Find	100	1		1	1	99	1	cm1	charm			3	500								mag%		100	100																																													0
@@ -413,3 +413,4 @@ Charm of Swift	100	1		1	1	99	1	cm1	charm			3	500								swing3		50	50	cast3		50	
 Charm of Safty	100	1		1	1	99	1	cm1	charm			3	500								red-dmg		50	50	red-mag		50	50																																									0
 Charm of Experience	100	1		1	1	99	1	cm1	charm			3	500								addxp		100	100																																													0
 Charm of Teleport	100	1		1	1	99	1	cm1	charm			3	500								oskill	Teleport	1	1																																													0
+Charm of Energy	100	1		1	1	99	1	cm1	charm			3	500								enr		100	100	regen-mana		100	100	mana		500	500	stam		100	100	regen-stam		100	100																													0

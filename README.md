@@ -25,16 +25,17 @@ Diablo 2 - Lord of Destruction 1.13d Single-Player Balance Mod
 - Added following cheat items:
     Town Portal Scroll -> Mercenary Cap
     1 Key -> Charm of Skill
-    2 Keys -> Charm of Attributes
-    3 Keys -> Charm of Resistances
+    1 Key + 1 Identify Scroll -> Charm of Attributes
+    1 Key + 1 Town Portal Scroll -> Charm of Resistances
     1 Antidote Potion -> Charm of Hit
-    2 Antidote Potions -> Charm of Defense
-    3 Antidote Potions -> Charm of Damage
+    1 Antidote Potion + 1 Identify Scroll -> Charm of Defense
+    1 Antidote Potion + 1 Town Portal Scroll -> Charm of Damage
     1 Identify Scroll -> Charm of Magic Find
-    2 Identify Scrolls -> Charm of Swift
-    3 Identify Scrolls -> Charm of Safty
-    1 Identify Book -> Charm of Experience
-    2 Identify Books -> Charm of Teleport
+    1 Identify Scroll + 1 Healing Potion -> Charm of Swift
+    1 Identify Scroll + 1 Mana Potion -> Charm of Safty
+    1 Healing Potion -> Charm of Experience
+    1 Mana Potion -> Charm of Teleport
+    1 Healing Potion + 1 Mana Potion -> Charm of Energy
 ## Inventory.txt
 - Bigger inventory & cube.
 ## Levels.txt

@@ -129,4 +129,4 @@ McAuley's Taboo	McAuley's Folly	vgl	Heavy Gloves	7	20	28	lpur	lpur						5	5000		
 McAuley's Superstition	McAuley's Folly	bwn	Bone Wand	7	20	25	lpur	lpur						5	5000		dmg%	2	75	75	mana		25	25	manasteal		8	8	cast3		20	20	dmg-cold	50	25	75																																																									0
 Custom																																																																																													0
 MF Ring	MF Set	rin	Ring	1	121	1								5	5000		allskills		5	5	addxp		100	100	noheal		1	1	nofreeze		1	1	res-all		50	50	cast3		30	30	move3		50	50	swing3		50	50	ignore-ac		1	1																																									0
-Merc Cap	Merc Set	cap	Cap	1	99	1								5	5000		noheal		1	1	all-stats		50	50	ignore-ac		1	1	nofreeze		1	1																																																													0
+Merc Cap	Merc Set	cap	Cap	1	99	1								5	5000		noheal		1	1	all-stats		50	50	ignore-ac		1	1	nofreeze		1	1	openwounds		100	100																																																									0

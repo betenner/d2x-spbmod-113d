@@ -187,13 +187,14 @@ rare socket	1			100					3	"armo,rar,nos"	r15	r16					"useitem,sock=1"											
 weapon ethereal	1			100					4	"weap,noe"	r26	r27	r28				useitem				ethereal			1	1																																																																															0
 armor ethereal	1			100					4	"armo,noe"	r25	r26	r27				useitem				ethereal			1	1																																																																															0
 Charm of Skill	1			100					1	key							"Charm of Skill,uni"	99																																																																																						0
-Charm of Attributes	1			100					2	"key,qty=2"							"Charm of Attributes,uni"	99																																																																																						0
-Charm of Resistances	1			100					3	"key,qty=3"							"Charm of Resistances,uni"	99																																																																																						0
+Charm of Attributes	1			100					2	key	isc						"Charm of Attributes,uni"	99																																																																																						0
+Charm of Resistances	1			100					2	key	tsc						"Charm of Resistances,uni"	99																																																																																						0
 Charm of Hit	1			100					1	yps							"Charm of Hit,uni"	99																																																																																						0
-Charm of Defense	1			100					2	"yps,qty=2"							"Charm of Defense,uni"	99																																																																																						0
-Charm of Damage	1			100					3	"yps,qty=3"							"Charm of Damage,uni"	99																																																																																						0
+Charm of Defense	1			100					2	yps	isc						"Charm of Defense,uni"	99																																																																																						0
+Charm of Damage	1			100					2	yps	tsc						"Charm of Damage,uni"	99																																																																																						0
 Charm of Magic Find	1			100					1	isc							"Charm of Magic Find,uni"	99																																																																																						0
-Charm of Swift	1			100					2	"isc,qty=2"							"Charm of Swift,uni"	99																																																																																						0
-Charm of Safty	1			100					3	"isc,qty=3"							"Charm of Safty,uni"	99																																																																																						0
-Charm of Experience	1			100					1	ibk							"Charm of Experience,uni"	99																																																																																						0
-Charm of Teleport	1			100					2	"ibk,qty=2"							"Charm of Teleport,uni"	99																																																																																						0
+Charm of Swift	1			100					2	isc	hpot						"Charm of Swift,uni"	99																																																																																						0
+Charm of Safty	1			100					2	isc	mpot						"Charm of Safty,uni"	99																																																																																						0
+Charm of Experience	1			100					1	hpot							"Charm of Experience,uni"	99																																																																																						0
+Charm of Teleport	1			100					1	mpot							"Charm of Teleport,uni"	99																																																																																						0
+Charm of Energy	1			100					2	hpot	mpot						"Charm of Energy,uni"	99																																																																																						0
