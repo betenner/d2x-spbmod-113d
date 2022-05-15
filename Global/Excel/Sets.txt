@@ -33,4 +33,4 @@ Cow King's Leathers	Cow King's Leathers	100	20	res-pois		25	25																		
 Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175																													allskills		1	1	regen		10	10	dex		15	15	res-all		50	50	str		20	20	mana		100	100									0
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
 Minor Buff																																																																				
-Mercenary Set	Mercenary Set	100	99																																	swing3		5000	5000	res-all		200	200	att%		5000	5000	nofreeze		1	1	ac%		5000	5000	red-dmg		5000	5000	red-mag		5000	5000	addxp		5000	5000	0
+Mercenary Set	Mercenary Set	100	99																																	swing3		5000	5000	res-all		200	200	att%		5000	5000	nofreeze		1	1	ac%		5000	5000	red-dmg		5000	5000	red-mag		5000	5000	balance2		5000	5000	0
