@@ -12,18 +12,18 @@ Ammo			1						aqv	1	cqv	1																				0
 Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
 Misc 1			1						key	3	tsc	3	isc	3	opm	2	gpm	2														0
 Misc 2			1						key	3	tsc	3	isc	3	ops	2	gps	2														0
-Hpotion 1			1						hp1	8	hp2	3	mp1	3	mp2	2	rvs	1														0
-Hpotion 2			1						hp1	1	hp2	4	hp3	3	mp2	2	mp3	2	rvs	1												0
-Hpotion 3			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1												0
-Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
-Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
-Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1														0
-Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4												0
-Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1						0
-Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
+Hpotion 1			1					11	hp1	0	hp2	3	mp1	0	mp2	2	rvs	1														0
+Hpotion 2			1					7	hp1	0	hp2	0	hp3	3	mp2	0	mp3	2	rvs	1												0
+Hpotion 3			1					7	hp2	0	hp3	0	hp4	3	mp3	0	mp4	2	rvs	1												0
+Hpotion 4			1					7	hp3	0	hp4	0	hp5	0	mp4	2	mp5	2	rvs	1												0
+Hpotion 5			1					5	hp3	0	hp4	0	hp5	4	mp5	4	rvs	1														0
+Hpotion 6			1					6	hp4	0	hp5	6	mp4	0	mp5	4	rvs	1														0
+Potion 1			1					21	hp1	0	hp2	4	mp1	0	mp2	4	rvs	1	vps	0												0
+Potion 2			1					20	hp1	0	hp2	0	hp3	5	mp2	0	mp3	5	rvs	1	vps	0	yps	0	wms	0						0
+Potion 3			1					20	hp2	0	hp3	0	hp4	4	mp3	0	mp4	3	rvs	1	vps	0	yps	0	wms	0						0
+Potion 4			1					20	hp3	0	hp4	0	hp5	4	mp4	0	mp5	3	rvs	1	vps	0	yps	0	wms	0						0
+Potion 5			1					15	hp3	0	hp4	0	hp5	6	mp5	5	rvs	1	vps	0	yps	0	wms	0								0
+Potion 6			1					12	hp4	0	hp5	8	mp4	0	mp5	5	rvs	1	vps	0	yps	0	wms	0								0
 Runes 1			1						r01	3	r02	2																				0
 Runes 2			1						r03	3	r04	2	Runes 1	1																		0
 Runes 3			1						r05	3	r06	2	Runes 2	1																		0
@@ -41,21 +41,21 @@ Runes 14			1						r27	3	r28	2	Runes 13	217																		0
 Runes 15			1						r29	3	r30	2	Runes 14	394																		0
 Runes 16			1						r31	3	r32	2	Runes 15	395																		0
 Runes 17			1						r33	1	Runes 16	517																				0
-Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
-Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
-Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0
-Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																0
-Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																0
-Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 1 Junk			1						Potion 1	8	Misc 0	0	Ammo	0																		0
+Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	0	Ammo	0																0
+Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	0	Ammo	0																0
+Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	0	Ammo	0																0
+Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	0	Ammo	0																0
+Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
+Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	0	Ammo	0																0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
