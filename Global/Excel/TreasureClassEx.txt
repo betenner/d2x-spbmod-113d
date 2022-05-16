@@ -25,12 +25,12 @@ Potion 4			1					20	hp3	0	hp4	0	hp5	4	mp4	0	mp5	3	rvs	1	vps	0	yps	0	wms	0						0
 Potion 5			1					15	hp3	0	hp4	0	hp5	6	mp5	5	rvs	1	vps	0	yps	0	wms	0								0
 Potion 6			1					12	hp4	0	hp5	8	mp4	0	mp5	5	rvs	1	vps	0	yps	0	wms	0								0
 Runes 1			1						r01	3	r02	2																				0
-Runes 2			1						r03	3	r04	2	Runes 1	1																		0
-Runes 3			1						r05	3	r06	2	Runes 2	1																		0
-Runes 4			1						r07	3	r08	2	Runes 3	1																		0
-Runes 5			1						r09	3	r10	2	Runes 4	1																		0
-Runes 6			1						r11	3	r12	2	Runes 5	2																		0
-Runes 7			1						r13	3	r14	2	Runes 6	4																		0
+Runes 2			1						r03	3	r04	2	Runes 1	5																		0
+Runes 3			1						r05	3	r06	2	Runes 2	5																		0
+Runes 4			1						r07	3	r08	2	Runes 3	5																		0
+Runes 5			1						r09	3	r10	2	Runes 4	5																		0
+Runes 6			1						r11	3	r12	2	Runes 5	5																		0
+Runes 7			1						r13	3	r14	2	Runes 6	5																		0
 Runes 8			1						r15	3	r16	2	Runes 7	9																		0
 Runes 9			1						r17	3	r18	2	Runes 8	18																		0
 Runes 10			1						r19	3	r20	2	Runes 9	36																		0
