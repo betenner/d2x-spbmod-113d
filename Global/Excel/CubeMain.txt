@@ -151,3 +151,4 @@ Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal														
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 Mercenary Set	1			100					1	hpot							"Mercenary Cap,set"	99																																																																																						0
+Charm of Infinity Energy	1			100					1	mpot							"Charm of Infinity Energy,uni"	99																																																																																						0
