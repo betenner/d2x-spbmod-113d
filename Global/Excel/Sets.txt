@@ -33,5 +33,5 @@ Cow King's Leathers	Cow King's Leathers	100	20	res-pois		25	25	ac		100	100						
 Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175	mag%/lvl	12																											allskills		1	1	regen		20	20	dex		15	15	res-all		50	50	str		20	20	mana		100	100	fireskill		2	2	hp%		12	12	0
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
 Custom																																																																				
-Merc Set	Merc Set	100	99																																	swing3		50000	50000	red-dmg		50000	50000	red-mag		50000	50000	att%		50000	50000	res-all		500	500	dmg%		5000	5000	regen		50000	50000	move2		50000	50000	0
+Merc Set	Merc Set	100	99																																	swing3		50000	50000	red-dmg		50000	50000	red-mag		50000	50000	att%		50000	50000	mag%		5000	5000	dmg%		5000	5000	regen		50000	50000	move2		50000	50000	0
 Mage Ring	Mage Ring	100	99																																	regen-mana		50000	50000	cast2		50000	50000	balance2		50000	50000																					0
