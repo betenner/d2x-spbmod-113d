@@ -168,3 +168,4 @@ Charm of Defense	1			100					1	yps							"Charm of Defense,uni"	99														
 Charm of Attack	1			100					2	weap	key						"Charm of Attack,uni"	99																																																																																						0
 Charm of Experience	1			100					2	vps	yps						"Charm of Experience,uni"	99																																																																																						0
 Charm of Curse	1			100					2	"yps,qty=2"							"Charm of Curse,uni"	99																																																																																						0
+Charm of Knockback	1			100					2	weap	yps						"Charm of Knockback,uni"	99																																																																																						0
