@@ -169,4 +169,4 @@ Charm of Attack	1			100					2	weap	key						"Charm of Attack,uni"	99												
 Charm of Experience	1			100					2	vps	yps						"Charm of Experience,uni"	99																																																																																						0
 Charm of Curse	1			100					2	"yps,qty=2"							"Charm of Curse,uni"	99																																																																																						0
 Charm of Knockback	1			100					2	weap	yps						"Charm of Knockback,uni"	99																																																																																						0
-Charm of Elements	1			100					4	gcr	gcg	gcy	gcb				"Charm of Elements,uni"	99																																																																																						0
+Charm of Elements	1			100					3	gcr	gcy	gcb					"Charm of Elements,uni"	99																																																																																						0
