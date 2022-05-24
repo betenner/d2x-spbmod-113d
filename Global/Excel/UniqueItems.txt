@@ -410,3 +410,4 @@ Charm of Attack	100	1		1	1	99	1	cm1	charm			3	5000								att		1000	1000	att%		4
 Charm of Experience	100	1		1	1	99	1	cm1	charm			3	5000								addxp		100	100																																													0
 Charm of Curse	100	1		1	1	99	1	cm1	charm			3	5000								hit-skill	Amplify Damage	100	1																																													0
 Charm of Knockback	100	1		1	1	99	1	cm1	charm			3	5000								knock		1	1																																													0
+Charm of Elements	100	1		1	1	99	1	cm1	charm			3	5000								dmg-fire		250	500	dmg-cold	256	250	500	dmg-ltng		60	1000	dmg-pois	512	1000	1000																																	0
