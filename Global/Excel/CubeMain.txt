@@ -174,3 +174,4 @@ Charm of Leech	1			100					3	mpot	hpot	skc					"Charm of Leech,uni"	99										
 Charm of Resistance	1			100					4	mpot	hpot	yps	vps				"Charm of Resistance,uni"	99																																																																																						0
 Charm of Elemental	1			100					4	gcr	gcg	gcy	gcb				"Charm of Elemental,uni"	99																																																																																						0
 Charm of Damage	1			100					2	gcv	gcw						"Charm of Damage,uni"	99																																																																																						0
+Leveling Ring	1			100					1	isc							"Leveling Ring,set"	99																																																																																						0
