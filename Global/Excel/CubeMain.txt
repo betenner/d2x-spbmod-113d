@@ -155,23 +155,22 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				1
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1			100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1			100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
 Mercenary Cap	1			100					1	hpot							"Merc Cap,set"	99																																																																																						0
-Charm of Energy	1			100					1	mpot							"Charm of Energy,uni"	99																																																																																						0
-Charm of Fortune	1			100					1	key							"Charm of Fortune,uni"	99																																																																																						0
 1 Lum Rune + 1 Lem Rune + 3 Perfect Topaz + 1 Magic Torso Armor -> Socketed Superior Torso Armor	1			100					6	"tors,mag"	r17	r20	"gpy,qty=3"				"usetype,hiq"			100	sock			1	6																																																																															0
 1 Ko Rune + 1 Pul Rune + 3 Perfect Amethyst + 1 Magic Weapon -> Socketed Superior Weapon	1			100					6	"weap,mag"	r18	r21	"gpv,qty=3"				"usetype,hiq"			100	sock			1	6																																																																															0
 1 Ko Rune + 1 Lem Rune + 3 Perfect Sapphire + 1 Magic Helm -> Socketed Superior Helm	1			100					6	"helm,mag"	r18	r20	"gpb,qty=3"				"usetype,hiq"			100	sock			1	6																																																																															0
 1 Lum Rune + 1 Pul Rune + 3 Perfect Ruby + 1 Magic Shield -> Socketed Superior Shield	1			100					6	"shld,mag"	r17	r21	"gpr,qty=3"				"usetype,hiq"			100	sock			1	6																																																																															0
-rejuv	1			0					6	"rvs,qty=6"							rvl																													rvl																																																										0
-rejuv	1			0					9	"rvs,qty=9"							rvl																													rvl																													rvl																													0
-Charm of Stamina	1			100					1	vps							"Charm of Stamina,uni"	99																																																																																						0
-Charm of Defense	1			100					2	armo	key						"Charm of Defense,uni"	99																																																																																						0
-Charm of Attack	1			100					2	weap	key						"Charm of Attack,uni"	99																																																																																						0
-Charm of Experience	1			100					2	vps	yps						"Charm of Experience,uni"	99																																																																																						0
-Charm of Curse	1			100					2	"yps,qty=2"							"Charm of Curse,uni"	99																																																																																						0
-Charm of Knockback	1			100					2	weap	yps						"Charm of Knockback,uni"	99																																																																																						0
-Charm of Trigger	1			100					3	gcr	gcy	gcb					"Charm of Trigger,uni"	99																																																																																						0
-Charm of Leech	1			100					3	mpot	hpot	skc					"Charm of Leech,uni"	99																																																																																						0
-Charm of Resistance	1			100					4	mpot	hpot	yps	vps				"Charm of Resistance,uni"	99																																																																																						0
-Charm of Elemental	1			100					4	gcr	gcg	gcy	gcb				"Charm of Elemental,uni"	99																																																																																						0
-Charm of Damage	1			100					2	gcv	gcw						"Charm of Damage,uni"	99																																																																																						0
-Leveling Ring	1			100					1	isc							"Leveling Ring,set"	99																																																																																						0
+6 Rejuvenation Potion -> 2 Full Rejuvenation Potion	1			0					6	"rvs,qty=6"							rvl																													rvl																																																										0
+9 Rejuvenation Potion -> 3 Full Rejuvenation Potion	1			0					9	"rvs,qty=9"							rvl																													rvl																													rvl																													0
+Charm of Energy	1			100					1	mpot							"Charm of Energy,uni"	99																																																																																						0
+Charm of Fortune	1			100					2	"mpot,qty=2"							"Charm of Fortune,uni"	99																																																																																						0
+Charm of Stamina	1			100					3	"mpot,qty=3"							"Charm of Stamina,uni"	99																																																																																						0
+Charm of Defense	1			100					1	yps							"Charm of Defense,uni"	99																																																																																						0
+Charm of Attack	1			100					2	"yps,qty=2"							"Charm of Attack,uni"	99																																																																																						0
+Charm of Experience	1			100					3	"yps,qty=3"							"Charm of Experience,uni"	99																																																																																						0
+Charm of Curse	1			100					1	vps							"Charm of Curse,uni"	99																																																																																						0
+Charm of Knockback	1			100					2	"vps,qty=2"							"Charm of Knockback,uni"	99																																																																																						0
+Charm of Trigger	1			100					3	"vps,qty=3"							"Charm of Trigger,uni"	99																																																																																						0
+Charm of Leech	1			100					1	key							"Charm of Leech,uni"	99																																																																																						0
+Charm of Resistance	1			100					2	"key,qty=2"							"Charm of Resistance,uni"	99																																																																																						0
+Charm of Elemental	1			100					3	"key,qty=3"							"Charm of Elemental,uni"	99																																																																																						0
+Charm of Damage	1			100					1	isc							"Charm of Damage,uni"	99																																																																																						0
