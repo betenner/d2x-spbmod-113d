@@ -174,3 +174,4 @@ Charm of Leech	1			100					1	key							"Charm of Leech,uni"	99																		
 Charm of Resistance	1			100					2	"key,qty=2"							"Charm of Resistance,uni"	99																																																																																						0
 Charm of Elemental	1			100					3	"key,qty=3"							"Charm of Elemental,uni"	99																																																																																						0
 Charm of Damage	1			100					1	isc							"Charm of Damage,uni"	99																																																																																						0
+Charm of Teleport	1			100					2	"isc,qty=2"							"Charm of Teleport,uni"	99																																																																																						0
