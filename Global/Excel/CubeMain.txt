@@ -232,3 +232,7 @@ Charm of Elemental	1			100					3	"key,qty=3"							"Charm of Elemental,uni"	99		
 Charm of Damage	1			100					1	isc							"Charm of Damage,uni"	99																																																																																						0
 Charm of Teleport	1			100					2	"isc,qty=2"							"Charm of Teleport,uni"	99																																																																																						0
 Charm of Agility	1			100					3	"isc,qty=3"							"Charm of Agility,uni"	99																																																																																						0
+Charm of Fire	1			100					1	tsc							"Charm of Fire,uni"	99																																																																																						0
+Charm of Cold	1			100					2	"tsc,qty=2"							"Charm of Cold,uni"	99																																																																																						0
+Charm of Lightning	1			100					3	"tsc,qty=3"							"Charm of Lightning,uni"	99																																																																																						0
+Charm of Conviction	1			100					1	wms							"Charm of Conviction,uni"	99																																																																																						0

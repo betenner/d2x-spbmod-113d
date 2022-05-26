@@ -417,3 +417,7 @@ Charm of Damage	100	1		1	1	99	1	cm1	charm			3	5000								dmg%		250	250	dmg-norm
 Charm of Elemental	100	1		1	1	99	1	cm1	charm			3	5000								dmg-fire		250	500	dmg-cold	256	250	500	dmg-ltng		60	1000	dmg-pois	512	1024	1024																																	0
 Charm of Teleport	100	1		1	1	99	1	cm1	charm			3	5000								oskill	Teleport	99	99																																													0
 Charm of Agility	100	1		1	1	99	1	cm1	charm			3	5000								swing2		100	100	cast2		100	100	balance2		100	100	move2		30	30																																	0
+Charm of Fire	100	1		1	1	99	1	cm1	charm			3	5000								extra-fire		100	100																																													0
+Charm of Cold	100	1		1	1	99	1	cm1	charm			3	5000								extra-cold		100	100																																													0
+Charm of Lightning	100	1		1	1	99	1	cm1	charm			3	5000								extra-ltng		100	100																																													0
+Charm of Conviction	100	1		1	1	99	1	cm1	charm			3	5000								hit-skill	Lower Resist	100	35																																													0
