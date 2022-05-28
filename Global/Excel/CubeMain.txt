@@ -218,6 +218,9 @@ Skull Combine 2-2	1			100					27	"skf,qty=27"							skz																									
 Skull Combine 3	1			100					9	"sku,qty=9"							skz																																																																																							0
 Skull Combine 4-1	1			100					6	"skl,qty=6"							skz																													skz																																																										0
 Skull Combine 4-2	1			100					9	"skl,qty=9"							skz																													skz																													skz																													0
+Gem -> Rune 20	1			100					14	"gpr,qty=2"	"gpg,qty=2"	"gpy,qty=2"	"gpb,qty=2"	"gpv,qty=2"	"gpw,qty=2"	"skz,qty=2"	r20																																																																																							0
+Gem -> Rune 25	1			100					42	"gpr,qty=6"	"gpg,qty=6"	"gpy,qty=6"	"gpb,qty=6"	"gpv,qty=6"	"gpw,qty=6"	"skz,qty=6"	r25																																																																																							0
+Gem -> Rune 30	1			100					77	"gpr,qty=11"	"gpg,qty=11"	"gpy,qty=11"	"gpb,qty=11"	"gpv,qty=11"	"gpw,qty=11"	"skz,qty=11"	r30																																																																																							0
 Charm of Energy	1			100					1	mpot							"Charm of Energy,uni"	99																																																																																						0
 Charm of Fortune	1			100					2	"mpot,qty=2"							"Charm of Fortune,uni"	99																																																																																						0
 Charm of Stamina	1			100					3	"mpot,qty=3"							"Charm of Stamina,uni"	99																																																																																						0
