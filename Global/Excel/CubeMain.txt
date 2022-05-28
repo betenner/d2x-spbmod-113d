@@ -218,6 +218,8 @@ Skull Combine 2-2	1			100					27	"skf,qty=27"							skz																									
 Skull Combine 3	1			100					9	"sku,qty=9"							skz																																																																																							0
 Skull Combine 4-1	1			100					6	"skl,qty=6"							skz																													skz																																																										0
 Skull Combine 4-2	1			100					9	"skl,qty=9"							skz																													skz																													skz																													0
+Lem Rune + Normal No Socket Armor -> Make Ethereal	1			100					2	"armo,nor,nos"	r20						useitem				ethereal			1	1																																																																															0
+Pul Rune + Normal No Socket Weapon -> Make Ethereal	1			100					2	"weap,nor,nos"	r21						useitem				ethereal			1	1																																																																															0
 Charm of Energy	1			100					1	mpot							"Charm of Energy,uni"	99																																																																																						0
 Charm of Fortune	1			100					2	"mpot,qty=2"							"Charm of Fortune,uni"	99																																																																																						0
 Charm of Stamina	1			100					3	"mpot,qty=3"							"Charm of Stamina,uni"	99																																																																																						0
