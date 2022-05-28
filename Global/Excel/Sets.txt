@@ -34,3 +34,4 @@ Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175	mag%/lvl	12														
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
 Custom																																																																				
 Merc Set	Merc Set	100	99																																	red-dmg		50000	50000	red-mag		50000	50000	regen		50000	50000	move2		50000	50000	all-stats		200	200													0
+Invincible Set	Invincible Set	100	99																																	red-dmg		50000	50000	red-mag		50000	50000	regen		50000	50000																					0
