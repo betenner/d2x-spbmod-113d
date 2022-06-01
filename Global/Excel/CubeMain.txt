@@ -241,3 +241,35 @@ Charm of Fire	1			100					1	tsc							"Charm of Fire,uni"	99																				
 Charm of Cold	1			100					2	"tsc,qty=2"							"Charm of Cold,uni"	99																																																																																						0
 Charm of Lightning	1			100					3	"tsc,qty=3"							"Charm of Lightning,uni"	99																																																																																						0
 Charm of Conviction	1			100					1	wms							"Charm of Conviction,uni"	99																																																																																						0
+Rune Downgrade	1			100					2	r33	key						r32																													r32																																																										0
+Rune Downgrade	1			100					2	r32	key						r31																													r31																																																										0
+Rune Downgrade	1			100					2	r31	key						r30																													r30																																																										0
+Rune Downgrade	1			100					2	r30	key						r29																													r29																																																										0
+Rune Downgrade	1			100					2	r29	key						r28																													r28																																																										0
+Rune Downgrade	1			100					2	r28	key						r27																													r27																																																										0
+Rune Downgrade	1			100					2	r27	key						r26																													r26																																																										0
+Rune Downgrade	1			100					2	r26	key						r25																													r25																																																										0
+Rune Downgrade	1			100					2	r25	key						r24																													r24																																																										0
+Rune Downgrade	1			100					2	r24	key						r23																													r23																																																										0
+Rune Downgrade	1			100					2	r23	key						r22																													r22																																																										0
+Rune Downgrade	1			100					2	r22	key						r21																													r21																																																										0
+Rune Downgrade	1			100					2	r21	key						r20																													r20																																																										0
+Rune Downgrade	1			100					2	r20	key						r19																													r19																																																										0
+Rune Downgrade	1			100					2	r19	key						r18																													r18																																																										0
+Rune Downgrade	1			100					2	r18	key						r17																													r17																																																										0
+Rune Downgrade	1			100					2	r17	key						r16																													r16																																																										0
+Rune Downgrade	1			100					2	r16	key						r15																													r15																																																										0
+Rune Downgrade	1			100					2	r15	key						r14																													r14																																																										0
+Rune Downgrade	1			100					2	r14	key						r13																													r13																																																										0
+Rune Downgrade	1			100					2	r13	key						r12																													r12																																																										0
+Rune Downgrade	1			100					2	r12	key						r11																													r11																																																										0
+Rune Downgrade	1			100					2	r11	key						r10																													r10																																																										0
+Rune Downgrade	1			100					2	r10	key						r09																													r09																																																										0
+Rune Downgrade	1			100					2	r09	key						r08																													r08																																																										0
+Rune Downgrade	1			100					2	r08	key						r07																													r07																																																										0
+Rune Downgrade	1			100					2	r07	key						r06																													r06																																																										0
+Rune Downgrade	1			100					2	r06	key						r05																													r05																																																										0
+Rune Downgrade	1			100					2	r05	key						r04																													r04																																																										0
+Rune Downgrade	1			100					2	r04	key						r03																													r03																																																										0
+Rune Downgrade	1			100					2	r03	key						r02																													r02																																																										0
+Rune Downgrade	1			100					2	r02	key						r01																													r01																																																										0
