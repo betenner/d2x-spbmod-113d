@@ -221,7 +221,7 @@ Skull Combine 4-2	1			100					9	"skl,qty=9"							skz																											
 Lem Rune + Normal No Socket Armor + 20 Perfect Gems -> Make Ethereal	1			100					22	"armo,nor,nos"	r20	"gem4,qty=20"					useitem				ethereal			1	1																																																																															0
 Pul Rune + Normal No Socket Weapon + 30 Perfect Gems -> Make Ethereal	1			100					32	"weap,nor,nos"	r21	"gem4,qty=30"					useitem				ethereal			1	1																																																																															0
 Shimmering Grand Charm	1			100					19	"cm3,mag"	"gpr,qty=3"	"gpg,qty=3"	"gpy,qty=3"	"gpb,qty=3"	"gpv,qty=3"	"gpw,qty=3"	"usetype,mag,pre=319"			100																																																																																				0
-Shimmering Small Charm	1			100					19	"cm1,mag"	"gpr,qty=3"	"gpg,qty=3"	"gpy,qty=3"	"gpb,qty=3"	"gpv,qty=3"	"gpw,qty=3"	"usetype,mag,pre=322"			100																																																																																				0
+Shimmering Small Charm	1			100					7	"cm1,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,mag,pre=322"			100																																																																																				0
 Charm of Energy	1			100					1	mpot							"Charm of Energy,uni"	99																																																																																						0
 Charm of Fortune	1			100					2	"mpot,qty=2"							"Charm of Fortune,uni"	99																																																																																						0
 Charm of Stamina	1			100					3	"mpot,qty=3"							"Charm of Stamina,uni"	99																																																																																						0
