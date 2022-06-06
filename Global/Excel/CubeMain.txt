@@ -155,7 +155,8 @@ Rare Reroll	1			100					1	"any,rar"							"usetype,rar"			100																			
 Set Reroll	1			100					1	"any,set"							"usetype,set"			100																																																																																				0
 Unique Reroll	1			100					1	"any,uni"							"usetype,uni"			100																																																																																				0
 Low Reroll	1			100					1	"any,low"							"usetype,hiq"			100																																																																																				0
-Normal Reroll	1			100					1	"any,nor"							"usetype,hiq"			100																																																																																				0
+Normal Reroll	1			100					1	"weap,nor"							"usetype,hiq"			100																																																																																				0
+Normal Reroll	1			100					1	"armo,nor"							"usetype,hiq"			100																																																																																				0
 Superior Reroll	1			100					1	"any,hiq"							"usetype,hiq"			100																																																																																				0
 Superior -> Magic	1			100					2	"any,hiq"	tsc						"usetype,mag"			100																																																																																				0
 Magic -> Rare	1			100					2	"any,mag"	tsc						"usetype,rar"			100																																																																																				0
