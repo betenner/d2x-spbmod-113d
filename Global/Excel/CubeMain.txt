@@ -216,3 +216,5 @@ Small Charm Gen	1			100					1	yps							"sc1,mag"		100																										
 Grand Charm Gen	1			100					1	vps							"sc3,mag"		100																																																																																					0
 Repair + Recharge	1			100					2	weap	hpot						"useitem,rep,rch,qty=500"																																																																																							0
 Repair + Recharge	1			100					2	armo	hpot						"useitem,rep,rch,qty=500"																																																																																							0
+Ring Gen	1			100					1	hpot							"rin,mag"		100																																																																																					0
+Amulet Gen	1			100					1	mpot							"amu,mag"		100																																																																																					0
