@@ -219,3 +219,4 @@ Repair + Recharge	1			100					2	weap	hpot						"useitem,rep,rch,qty=500"								
 Repair + Recharge	1			100					2	armo	hpot						"useitem,rep,rch,qty=500"																																																																																							0
 Ring Gen	1			100					1	hpot							"rin,mag"		100																																																																																					0
 Amulet Gen	1			100					1	mpot							"amu,mag"		100																																																																																					0
+Jewel Gen	1			100					2	hpot	mpot						"jew,mag"		100																																																																																					0
