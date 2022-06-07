@@ -220,3 +220,41 @@ Repair + Recharge	1			100					2	armo	hpot						"useitem,rep,rch,qty=500"								
 Ring Gen	1			100					1	hpot							"rin,mag"		100																																																																																					0
 Amulet Gen	1			100					1	mpot							"amu,mag"		100																																																																																					0
 Jewel Gen	1			100					2	hpot	mpot						"jew,mag"		100																																																																																					0
+Gem Generation	1			100					1	isc							gcr																													gcg																													gcy																													0
+Gem Generation	1			100					1	tsc							gcb																													gcv																													gcw																													0
+Skull Generation	1			100					2	isc	tsc						skc																																																																																							0
+Gem Roll	1			100					1	gcv							gfv																																																																																							0
+Gem Roll	1			100					1	gfv							gsv																																																																																							0
+Gem Roll	1			100					1	gsv							gzv																																																																																							0
+Gem Roll	1			100					1	gzv							gpv																																																																																							0
+Gem Roll	1			100					1	gcr							gfr																																																																																							0
+Gem Roll	1			100					1	gfr							gsr																																																																																							0
+Gem Roll	1			100					1	gsr							glr																																																																																							0
+Gem Roll	1			100					1	glr							gpr																																																																																							0
+Gem Roll	1			100					1	gcb							gfb																																																																																							0
+Gem Roll	1			100					1	gfb							gsb																																																																																							0
+Gem Roll	1			100					1	gsb							glb																																																																																							0
+Gem Roll	1			100					1	glb							gpb																																																																																							0
+Gem Roll	1			100					1	gcy							gfy																																																																																							0
+Gem Roll	1			100					1	gfy							gsy																																																																																							0
+Gem Roll	1			100					1	gsy							gly																																																																																							0
+Gem Roll	1			100					1	gly							gpy																																																																																							0
+Gem Roll	1			100					1	gcg							gfg																																																																																							0
+Gem Roll	1			100					1	gfg							gsg																																																																																							0
+Gem Roll	1			100					1	gsg							glg																																																																																							0
+Gem Roll	1			100					1	glg							gpg																																																																																							0
+Gem Roll	1			100					1	gcw							gfw																																																																																							0
+Gem Roll	1			100					1	gfw							gsw																																																																																							0
+Gem Roll	1			100					1	gsw							glw																																																																																							0
+Gem Roll	1			100					1	glw							gpw																																																																																							0
+Gem Roll	1			100					1	skc							skf																																																																																							0
+Gem Roll	1			100					1	skf							sku																																																																																							0
+Gem Roll	1			100					1	sku							skl																																																																																							0
+Gem Roll	1			100					1	skl							skz																																																																																							0
+Gem Roll	1			100					1	gpr							gcr																																																																																							0
+Gem Roll	1			100					1	gpg							gcg																																																																																							0
+Gem Roll	1			100					1	gpy							gcy																																																																																							0
+Gem Roll	1			100					1	gpb							gcb																																																																																							0
+Gem Roll	1			100					1	gpv							gcv																																																																																							0
+Gem Roll	1			100					1	gpw							gcw																																																																																							0
+Gem Roll	1			100					1	skz							skc																																																																																							0
