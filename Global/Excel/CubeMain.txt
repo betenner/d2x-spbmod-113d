@@ -158,6 +158,14 @@ Low Reroll	1			100					1	"any,low"							"usetype,hiq"			100																				
 Normal Reroll	1			100					1	"weap,nor"							"usetype,hiq"			100																																																																																				0
 Normal Reroll	1			100					1	"armo,nor"							"usetype,hiq"			100																																																																																				0
 Superior Reroll	1			100					1	"any,hiq"							"usetype,hiq"			100																																																																																				0
+Magic Reroll	1			100					2	"any,mag"	mpot						"usetype,mag"		100																																																																																					0
+Rare Reroll	1			100					2	"any,rar"	mpot						"usetype,rar"		100																																																																																					0
+Set Reroll	1			100					2	"any,set"	mpot						"usetype,set"		100																																																																																					0
+Unique Reroll	1			100					2	"any,uni"	mpot						"usetype,uni"		100																																																																																					0
+Low Reroll	1			100					2	"any,low"	mpot						"usetype,hiq"		100																																																																																					0
+Normal Reroll	1			100					2	"weap,nor"	mpot						"usetype,hiq"		100																																																																																					0
+Normal Reroll	1			100					2	"armo,nor"	mpot						"usetype,hiq"		100																																																																																					0
+Superior Reroll	1			100					2	"any,hiq"	mpot						"usetype,hiq"		100																																																																																					0
 Superior -> Magic	1			100					2	"any,hiq"	tsc						"usetype,mag"			100																																																																																				0
 Magic -> Rare	1			100					2	"any,mag"	tsc						"usetype,rar"			100																																																																																				0
 Rare -> Set	1			100					2	"any,rar"	tsc						"usetype,set"			100																																																																																				0
