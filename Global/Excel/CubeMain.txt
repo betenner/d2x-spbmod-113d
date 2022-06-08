@@ -170,6 +170,13 @@ Superior -> Magic	1			100					2	"any,hiq"	tsc						"usetype,mag"			100										
 Magic -> Rare	1			100					2	"any,mag"	tsc						"usetype,rar"			100																																																																																				0
 Rare -> Set	1			100					2	"any,rar"	tsc						"usetype,set"			100																																																																																				0
 Rare -> Unique	1			100					3	"any,rar"	"tsc,qty=2"						"usetype,uni"			100																																																																																				0
+Set -> Unique	1			100					2	"any,set"	tsc						"usetype,uni"			100																																																																																				0
+Unique -> Set	1			100					2	"any,uni"	tsc						"usetype,set"			100																																																																																				0
+Weapon -> Superior	1			100					3	weap	"isc,qty=2"						"usetype,hiq"			100																																																																																				0
+Armor -> Superior	1			100					3	armo	"isc,qty=2"						"usetype,hiq"			100																																																																																				0
+Ring -> Magic	1			100					3	rin	"isc,qty=2"						"usetype,mag"			100																																																																																				0
+Amulet -> Magic	1			100					3	amu	"isc,qty=2"						"usetype,mag"			100																																																																																				0
+Jewel -> Magic	1			100					3	jew	"isc,qty=2"						"usetype,mag"			100																																																																																				0
 Normal -> Exceptional	1			100					1	"any,bas"	isc						"useitem,mod,exc"																																																																																							0
 Exceptional -> Elite	1			100					1	"any,exc"	isc						"useitem,mod,eli"																																																																																							0
 Superior Socket	1			100					2	"any,hiq,nos"	key						useitem				sock			1	1																																																																															0
