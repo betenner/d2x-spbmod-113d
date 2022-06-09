@@ -200,26 +200,26 @@ Superior Shield Socket	1			100					5	"shld,hiq,nos"	"key,qty=4"						useitem				
 Superior Helm Socket	1			100					2	"helm,hiq,nos"	key						useitem				sock			1	1																																																																															0
 Superior Helm Socket	1			100					3	"helm,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
 Superior Helm Socket	1			100					4	"helm,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
-Magic Socket	1			100					2	"weap,mag,nos"	key						useitem				sock			6	6																																																																															0
-Rare Socket	1			100					2	"weap,rar,nos"	key						useitem				sock			6	6																																																																															0
-Set Socket	1			100					2	"weap,set,nos"	key						useitem				sock			6	6																																																																															0
-Unique Socket	1			100					2	"weap,uni,nos"	key						useitem				sock			6	6																																																																															0
-Craft Socket	1			100					2	"weap,crf,nos"	key						useitem				sock			6	6																																																																															0
-Magic Socket	1			100					2	"tors,mag,nos"	key						useitem				sock			6	6																																																																															0
-Rare Socket	1			100					2	"tors,rar,nos"	key						useitem				sock			6	6																																																																															0
-Set Socket	1			100					2	"tors,set,nos"	key						useitem				sock			6	6																																																																															0
-Unique Socket	1			100					2	"tors,uni,nos"	key						useitem				sock			6	6																																																																															0
-Craft Socket	1			100					2	"tors,crf,nos"	key						useitem				sock			6	6																																																																															0
-Magic Socket	1			100					2	"helm,mag,nos"	key						useitem				sock			6	6																																																																															0
-Rare Socket	1			100					2	"helm,rar,nos"	key						useitem				sock			6	6																																																																															0
-Set Socket	1			100					2	"helm,set,nos"	key						useitem				sock			6	6																																																																															0
-Unique Socket	1			100					2	"helm,uni,nos"	key						useitem				sock			6	6																																																																															0
-Craft Socket	1			100					2	"helm,crf,nos"	key						useitem				sock			6	6																																																																															0
-Magic Socket	1			100					2	"shld,mag,nos"	key						useitem				sock			6	6																																																																															0
-Rare Socket	1			100					2	"shld,rar,nos"	key						useitem				sock			6	6																																																																															0
-Set Socket	1			100					2	"shld,set,nos"	key						useitem				sock			6	6																																																																															0
-Unique Socket	1			100					2	"shld,uni,nos"	key						useitem				sock			6	6																																																																															0
-Craft Socket	1			100					2	"shld,crf,nos"	key						useitem				sock			6	6																																																																															0
+Magic Socket	1			100					2	"weap,mag,nos"	key						useitem				sock			4	4																																																																															0
+Rare Socket	1			100					2	"weap,rar,nos"	key						useitem				sock			2	2																																																																															0
+Set Socket	1			100					2	"weap,set,nos"	key						useitem				sock			1	1																																																																															0
+Unique Socket	1			100					2	"weap,uni,nos"	key						useitem				sock			1	1																																																																															0
+Craft Socket	1			100					2	"weap,crf,nos"	key						useitem				sock			1	1																																																																															0
+Magic Socket	1			100					2	"tors,mag,nos"	key						useitem				sock			4	4																																																																															0
+Rare Socket	1			100					2	"tors,rar,nos"	key						useitem				sock			2	2																																																																															0
+Set Socket	1			100					2	"tors,set,nos"	key						useitem				sock			1	1																																																																															0
+Unique Socket	1			100					2	"tors,uni,nos"	key						useitem				sock			1	1																																																																															0
+Craft Socket	1			100					2	"tors,crf,nos"	key						useitem				sock			1	1																																																																															0
+Magic Socket	1			100					2	"helm,mag,nos"	key						useitem				sock			4	4																																																																															0
+Rare Socket	1			100					2	"helm,rar,nos"	key						useitem				sock			2	2																																																																															0
+Set Socket	1			100					2	"helm,set,nos"	key						useitem				sock			1	1																																																																															0
+Unique Socket	1			100					2	"helm,uni,nos"	key						useitem				sock			1	1																																																																															0
+Craft Socket	1			100					2	"helm,crf,nos"	key						useitem				sock			1	1																																																																															0
+Magic Socket	1			100					2	"shld,mag,nos"	key						useitem				sock			4	4																																																																															0
+Rare Socket	1			100					2	"shld,rar,nos"	key						useitem				sock			2	2																																																																															0
+Set Socket	1			100					2	"shld,set,nos"	key						useitem				sock			1	1																																																																															0
+Unique Socket	1			100					2	"shld,uni,nos"	key						useitem				sock			1	1																																																																															0
+Craft Socket	1			100					2	"shld,crf,nos"	key						useitem				sock			1	1																																																																															0
 Rune Gen 1	1			100					1	key							r01																																																																																							0
 Rune Gen 10	1			100					2	"key,qty=2"							r10																																																																																							0
 Rune Gen 20	1			100					3	"key,qty=3"							r20																																																																																							0
