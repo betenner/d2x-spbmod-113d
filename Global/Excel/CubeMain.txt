@@ -274,4 +274,4 @@ Gem Roll	1			100					1	gpb							gcb																																												
 Gem Roll	1			100					1	gpv							gcv																																																																																							0
 Gem Roll	1			100					1	gpw							gcw																																																																																							0
 Gem Roll	1			100					1	skz							skc																																																																																							0
-Levelling Ring	1			100					2	yps	vps						"Levelling Ring,set"			99																																																																																				0
+Levelling Ring	1			100					2	yps	vps						"Levelling Ring,set"	99																																																																																						0
