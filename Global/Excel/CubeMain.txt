@@ -227,7 +227,8 @@ Rune Upgrade	1			100					1	r30							r31																																								
 Rune Upgrade	1			100					1	r31							r32																																																																																							0
 Rune Upgrade	1			100					1	r32							r33																																																																																							0
 Remove Gem	1			100					2	"any,sock"	yps						"useitem,rem"																																																																																							0
-Make Ethereal	1			100					2	"any,noe"	vps						useitem				ethereal			1	1																																																																															0
+Make Ethereal	1			100					2	"weap,noe"	vps						useitem				ethereal			1	1																																																																															0
+Make Ethereal	1			100					2	"armo,noe"	vps						useitem				ethereal			1	1																																																																															0
 Small Charm Gen	1			100					1	yps							"cm1,mag"		100																																																																																					0
 Grand Charm Gen	1			100					1	vps							"cm3,mag"		100																																																																																					0
 Repair + Recharge	1			100					2	weap	hpot						"useitem,rep,rch,qty=500"																																																																																							0
