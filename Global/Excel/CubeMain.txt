@@ -150,6 +150,10 @@ r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					use
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon	1			100					4	"weap,bas,set"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
+1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1			100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
+1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1			100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1			100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
 Magic Reroll	1			100					1	"any,mag"							"usetype,mag"			100																																																																																				0
 Rare Reroll	1			100					1	"any,rar"							"usetype,rar"			100																																																																																				0
 Set Reroll	1			100					1	"any,set"							"usetype,set"			100																																																																																				0
@@ -179,17 +183,43 @@ Amulet -> Magic	1			100					3	amu	"isc,qty=2"						"usetype,mag"			100										
 Jewel -> Magic	1			100					3	jew	"isc,qty=2"						"usetype,mag"			100																																																																																				0
 Normal -> Exceptional	1			100					1	"any,bas"	isc						"useitem,mod,exc"																																																																																							0
 Exceptional -> Elite	1			100					1	"any,exc"	isc						"useitem,mod,eli"																																																																																							0
-Superior Socket	1			100					2	"any,hiq,nos"	key						useitem				sock			1	1																																																																															0
-Superior Socket	1			100					3	"any,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
-Superior Socket	1			100					4	"any,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
-Superior Socket	1			100					5	"any,hiq,nos"	"key,qty=4"						useitem				sock			4	4																																																																															0
-Superior Socket	1			100					6	"any,hiq,nos"	"key,qty=5"						useitem				sock			5	5																																																																															0
-Superior Socket	1			100					7	"any,hiq,nos"	"key,qty=6"						useitem				sock			6	6																																																																															0
-Magic Socket	1			100					2	"any,mag,nos"	key						useitem				sock			4	4																																																																															0
-Rare Socket	1			100					2	"any,rar,nos"	key						useitem				sock			2	2																																																																															0
-Set Socket	1			100					2	"any,set,nos"	key						useitem				sock			1	1																																																																															0
-Unique Socket	1			100					2	"any,uni,nos"	key						useitem				sock			1	1																																																																															0
-Craft Socket	1			100					2	"any,crf,nos"	key						useitem				sock			1	1																																																																															0
+Superior Weapon Socket	1			100					2	"weap,hiq,nos"	key						useitem				sock			1	1																																																																															0
+Superior Weapon Socket	1			100					3	"weap,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
+Superior Weapon Socket	1			100					4	"weap,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
+Superior Weapon Socket	1			100					5	"weap,hiq,nos"	"key,qty=4"						useitem				sock			4	4																																																																															0
+Superior Weapon Socket	1			100					6	"weap,hiq,nos"	"key,qty=5"						useitem				sock			5	5																																																																															0
+Superior Weapon Socket	1			100					7	"weap,hiq,nos"	"key,qty=6"						useitem				sock			6	6																																																																															0
+Superior Torso Socket	1			100					2	"tors,hiq,nos"	key						useitem				sock			1	1																																																																															0
+Superior Torso Socket	1			100					3	"tors,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
+Superior Torso Socket	1			100					4	"tors,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
+Superior Torso Socket	1			100					5	"tors,hiq,nos"	"key,qty=4"						useitem				sock			4	4																																																																															0
+Superior Shield Socket	1			100					2	"shld,hiq,nos"	key						useitem				sock			1	1																																																																															0
+Superior Shield Socket	1			100					3	"shld,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
+Superior Shield Socket	1			100					4	"shld,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
+Superior Shield Socket	1			100					5	"shld,hiq,nos"	"key,qty=4"						useitem				sock			4	4																																																																															0
+Superior Helm Socket	1			100					2	"helm,hiq,nos"	key						useitem				sock			1	1																																																																															0
+Superior Helm Socket	1			100					3	"helm,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
+Superior Helm Socket	1			100					4	"helm,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
+Magic Socket	1			100					2	"weap,mag,nos"	key						useitem				sock			6	6																																																																															0
+Rare Socket	1			100					2	"weap,rar,nos"	key						useitem				sock			6	6																																																																															0
+Set Socket	1			100					2	"weap,set,nos"	key						useitem				sock			6	6																																																																															0
+Unique Socket	1			100					2	"weap,uni,nos"	key						useitem				sock			6	6																																																																															0
+Craft Socket	1			100					2	"weap,crf,nos"	key						useitem				sock			6	6																																																																															0
+Magic Socket	1			100					2	"tors,mag,nos"	key						useitem				sock			6	6																																																																															0
+Rare Socket	1			100					2	"tors,rar,nos"	key						useitem				sock			6	6																																																																															0
+Set Socket	1			100					2	"tors,set,nos"	key						useitem				sock			6	6																																																																															0
+Unique Socket	1			100					2	"tors,uni,nos"	key						useitem				sock			6	6																																																																															0
+Craft Socket	1			100					2	"tors,crf,nos"	key						useitem				sock			6	6																																																																															0
+Magic Socket	1			100					2	"helm,mag,nos"	key						useitem				sock			6	6																																																																															0
+Rare Socket	1			100					2	"helm,rar,nos"	key						useitem				sock			6	6																																																																															0
+Set Socket	1			100					2	"helm,set,nos"	key						useitem				sock			6	6																																																																															0
+Unique Socket	1			100					2	"helm,uni,nos"	key						useitem				sock			6	6																																																																															0
+Craft Socket	1			100					2	"helm,crf,nos"	key						useitem				sock			6	6																																																																															0
+Magic Socket	1			100					2	"shld,mag,nos"	key						useitem				sock			6	6																																																																															0
+Rare Socket	1			100					2	"shld,rar,nos"	key						useitem				sock			6	6																																																																															0
+Set Socket	1			100					2	"shld,set,nos"	key						useitem				sock			6	6																																																																															0
+Unique Socket	1			100					2	"shld,uni,nos"	key						useitem				sock			6	6																																																																															0
+Craft Socket	1			100					2	"shld,crf,nos"	key						useitem				sock			6	6																																																																															0
 Rune Gen 1	1			100					1	key							r01																																																																																							0
 Rune Gen 10	1			100					2	"key,qty=2"							r10																																																																																							0
 Rune Gen 20	1			100					3	"key,qty=3"							r20																																																																																							0
