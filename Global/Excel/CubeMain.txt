@@ -181,8 +181,10 @@ Armor -> Superior	1			100					3	armo	"isc,qty=2"						"usetype,hiq"			100							
 Ring -> Magic	1			100					3	rin	"isc,qty=2"						"usetype,mag"			100																																																																																				0
 Amulet -> Magic	1			100					3	amu	"isc,qty=2"						"usetype,mag"			100																																																																																				0
 Jewel -> Magic	1			100					3	jew	"isc,qty=2"						"usetype,mag"			100																																																																																				0
-Normal -> Exceptional	1			100					1	"any,bas"	isc						"useitem,mod,exc"																																																																																							0
-Exceptional -> Elite	1			100					1	"any,exc"	isc						"useitem,mod,eli"																																																																																							0
+Normal -> Exceptional	1			100					1	"weap,bas"	isc						"useitem,mod,exc"																																																																																							0
+Exceptional -> Elite	1			100					1	"weap,exc"	isc						"useitem,mod,eli"																																																																																							0
+Normal -> Exceptional	1			100					1	"armo,bas"	isc						"useitem,mod,exc"																																																																																							0
+Exceptional -> Elite	1			100					1	"armo,exc"	isc						"useitem,mod,eli"																																																																																							0
 Superior Weapon Socket	1			100					2	"weap,hiq,nos"	key						useitem				sock			1	1																																																																															0
 Superior Weapon Socket	1			100					3	"weap,hiq,nos"	"key,qty=2"						useitem				sock			2	2																																																																															0
 Superior Weapon Socket	1			100					4	"weap,hiq,nos"	"key,qty=3"						useitem				sock			3	3																																																																															0
