@@ -305,3 +305,4 @@ Gem Roll	1			100					1	gpv							gcv																																												
 Gem Roll	1			100					1	gpw							gcw																																																																																							0
 Gem Roll	1			100					1	skz							skc																																																																																							0
 Leveling Charm	1			100					2	yps	vps						"Leveling Charm,uni"	99																																																																																						0
+Spirit Charm	1			100					1	wms							"Spirit Charm,uni"	99																																																																																						0
