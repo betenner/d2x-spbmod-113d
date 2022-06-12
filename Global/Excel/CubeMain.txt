@@ -310,5 +310,8 @@ Leveling Charm	1			100					2	yps	vps						"Leveling Charm,uni"	99															
 Spirit Charm	1			100					1	wms							"Spirit Charm,uni"	99																																																																																						0
 Normalize Weapon	1			100					4	weap	yps	vps	wms				"usetype,hiq"			100																																																																																				0
 Normalize Armor	1			100					4	armo	yps	vps	wms				"usetype,hiq"			100																																																																																				0
-Shimmering Small Charm of Good Luck	1			100					2	cm1	key						"cm1,mag,pre=322,suf=291"	50																																																																																						0
-Harpoonist's Grand Charm of Substinence	1			100					3	cm3	jav	hpot					"cm3,mag,pre=432,suf=337"	50																																																																																						0
+Shimmering Small Charm of Vita	1			100					3	cm1	hpot	key					"cm1,mag,pre=322,suf=349"	87																																																																																						0
+Shimmering Small Charm of Balance	1			100					3	cm1	belt	key					"cm1,mag,pre=322,suf=267"	87																																																																																						0
+Harpoonist's Grand Charm of Vita	1			100					3	cm3	jave	hpot					"cm3,mag,pre=432,suf=339"	87																																																																																						0
+Harpoonist's Grand Charm of Balance	1			100					3	cm3	jave	belt					"cm3,mag,pre=432,suf=265"	87																																																																																						0
+Cheap Charm	1			100					2	"wms,qty=2"							"Cheap Charm,uni"	99																																																																																						0
