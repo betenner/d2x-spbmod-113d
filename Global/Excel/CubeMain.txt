@@ -315,3 +315,5 @@ Shimmering Small Charm of Balance	1			100					3	cm1	belt	key					"cm1,mag,pre=32
 Harpoonist's Grand Charm of Vita	1			100					3	cm3	jave	hpot					"cm3,mag,pre=432,suf=339"	87																																																																																						0
 Harpoonist's Grand Charm of Balance	1			100					3	cm3	jave	belt					"cm3,mag,pre=432,suf=265"	87																																																																																						0
 Cheap Charm	1			100					2	"wms,qty=2"							"Cheap Charm,uni"	99																																																																																						0
+Ruby Jewel of Fervor	1			100					2	jew	weap						"jew,mag,pre=198,suf=171"	87																																																																																						0
+Jeweler's Monarch of Deflecting	1			100					2	uit	key						"usetype,mag,pre=422,suf=173"	87																																																																																						0
