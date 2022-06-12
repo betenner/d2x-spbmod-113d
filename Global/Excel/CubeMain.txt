@@ -319,3 +319,4 @@ Ruby Jewel of Fervor	1			100					2	jew	weap						"jew,mag,pre=198,suf=171"	87			
 Jeweler's Monarch of Deflecting	1			100					2	uit	key						"usetype,mag,pre=422,suf=173"	87																																																																																						0
 Lancer's Glove of Alacrity	1			100					2	glov	jave						"usetype,mag,pre=441,suf=170"	87																																																																																						0
 Max Level Ring	1			100					3	yps	vps	wms					"Max Level Ring,set"	99																																																																																						0
+Scintillating Jewel of Fervor	1			100					3	jew	weap	gpw					"jew,mag,pre=337,suf=171"	87																																																																																						0
