@@ -336,7 +336,7 @@ Bloodraven's Charge	100	1		1	1	79	71	amb	matriarchal bow			5	5000	dgld	dgld		inv
 Ghostflame	100	1		1	1	70	62	7bl	legend spike			5	5000	cblu	cblu						dmg%		190	240	ignore-ac		1	1	dmg-mag		108	108	manasteal		10	15	ethereal		1	1	indestruct		1	1	light		2	2																					0
 Shadowkiller	100	1		1	1	85	78	7cs	battle cestus			5	5000				invaxfu				dmg%		170	220	reduce-ac		25	25	freeze		2	2	mana-kill		10	15	hit-skill	Frost Nova	33	8	ethereal		1	1	indestruct		1	1																					0
 Gimmershred	100	1		1	1	78	70	7ta	flying axe			5	5000	lgrn							dmg%		160	210	dmg-fire		218	483	dmg-cold	100	176	397	dmg-ltng		29	501	stack		60	60	swing2		30	30																									0
-Griffon's Eye	100	1		1	1	84	76	ci3	diadem			5	5000								ac		100	200	cast2		25	25	allskills		1	1	extra-ltng		10	15	pierce-ltng		15	20																													0
+Griffon's Eye	100	1		1	1	84	76	ci3	diadem			5	5000								ac		200	200	cast2		25	25	allskills		1	1	extra-ltng		15	15	pierce-ltng		20	20																													0
 Windhammer	100	1		1	1	76	68	7m7	ogre maul			5	5000	cblu	cblu		invmau				dmg%		180	230	crush		50	50	swing2		60	60	hit-skill	Twister	33	22																																	0
 Thunderstroke	100	1		1	1	77	69	amf	matriarchal javelin			5	5000	dblu	dblu						dmg%		150	200	dmg-ltng		1	511	hit-skill	Lightning	20	14	swing2		15	15	pierce-ltng		15	15	skill	Lightning Bolt	3	3	skilltab	2	2	4																					0
 Giantmaimer	100			1	1							5	5000	cred	cred																																																						0
