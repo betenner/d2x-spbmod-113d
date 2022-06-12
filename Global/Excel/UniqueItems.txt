@@ -392,14 +392,14 @@ Ondal's Wisdom	100	1		1	1	74	66	6cs	elder staff			3	5000				invcstu				cast2		45
 The Reedeemer	100	1		1	1	80	72	7sc	mighty scepter			3	5000								dmg%		250	300	dmg-demon		200	250	pal		2	2	ease		-60	-60	skill	Redemption	2	4	skill	Holy Bolt	2	4	light		3	3	reduce-ac		33	33	dmg		60	120													0
 Headhunter's Glory	100	1		1	1	83	75	ush	troll nest			3	5000				invbshu				ac		320	420	ac-miss		300	350	res-pois		30	40	sock		1	3	res-fire		20	30	heal-kill		5	7																									0
 Steelrend	100	1		1	1	78	70	uhg	ogre gauntlets			3	5000								ac		170	210	str		15	20	dmg%		30	60	crush		10	10																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	death-skill	Chain Lightning	100	47																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	death-skill	Blizzard	100	37																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	death-skill	Meteor	100	31																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-pois	50	187	187	pierce-pois		3	5	extra-pois		3	5	death-skill	Poison Nova	100	51																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	levelup-skill	Nova	100	41																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	levelup-skill	Frost Nova	100	43																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	levelup-skill	Blaze	100	29																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-pois	50	187	187	pierce-pois		3	5	extra-pois		3	5	levelup-skill	Venom	100	23																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		5	5	extra-ltng		5	5	death-skill	Chain Lightning	100	47																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		5	5	extra-cold		5	5	death-skill	Blizzard	100	37																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		5	5	extra-fire		5	5	death-skill	Meteor	100	31																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-pois	50	187	187	pierce-pois		5	5	extra-pois		5	5	death-skill	Poison Nova	100	51																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		5	5	extra-ltng		5	5	levelup-skill	Nova	100	41																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		5	5	extra-cold		5	5	levelup-skill	Frost Nova	100	43																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		5	5	extra-fire		5	5	levelup-skill	Blaze	100	29																																	0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-pois	50	187	187	pierce-pois		5	5	extra-pois		5	5	levelup-skill	Venom	100	23																																	0
 Hellfire Torch	100	1		1	1	110	75	cm2	charm		1	3	5000			flptrch	invtrch	item_gem	12	item_gem	randclassskill		0	6	all-stats		10	20	res-all		10	20	light		8	8	hit-skill	197	5	10	charged	Hydra	10	30																									0
 Easy BIS																																																																					0
 Leveling Charm	100	1		1	1	99	1	cm1	small charm			3	500								addxp		100	100																																													0
