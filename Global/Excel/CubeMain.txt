@@ -320,7 +320,4 @@ Jeweler's Monarch of Deflecting	1			100					2	uit	key						"usetype,mag,pre=422,
 Lancer's Glove of Alacrity	1			100					2	glov	jave						"usetype,mag,pre=441,suf=170"	87																																																																																						0
 Max Level Ring	1			100					3	yps	vps	wms					"Max Level Ring,set"	99																																																																																						0
 Scintillating Jewel of Fervor	1			100					3	jew	weap	gpw					"jew,mag,pre=337,suf=171"	87																																																																																						0
-Add Res-All	1			100					2	"any,rar"	gpw						useitem	87			res-all			11	11																																																																															0
-Add Res-Cold	1			100					2	"any,rar"	gpb						useitem	87			res-cold			30	30																																																																															0
-Add Leech	1			100					2	"any,rar"	skz						useitem	87			lifesteal			8	8	manasteal			6	6																																																																										0
-Add AR	1			100					2	"any,rar"	gpv						useitem	87			att			120	120																																																																															0
+"Ring: FCR, AR, LL, LM, ResAll, MF"	1			100					6	rin	wand	gpw	skz	gpv	gpy		"rin,mag,pre=32,suf=747"	87			cast1			10	10	lifesteal			8	8	res-all			11	11	mag%			10	10																																																																0
