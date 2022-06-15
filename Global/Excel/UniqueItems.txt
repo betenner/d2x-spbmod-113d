@@ -241,7 +241,7 @@ Infernostride	100	1		1	1	37	29	xlb	Demonhide Boots			5	5000								dmg-fire		12	
 Waterwalk	100	1		1	1	40	32	xvb	Sharkskin Boots			5	5000								ac-miss		100	100	move2		20	20	dex		15	15	ac%		180	210	hp		45	65	stam		40	40	res-fire-max		5	5	regen-stam		50	50																	0
 Silkweave	100	1		1	1	44	36	xmb	Mesh Boots			5	5000								ac%		150	190	mana-kill		5	5	ac-miss		200	200	mana%		10	10	move2		30	30																													0
 Wartraveler	100	1		1	1	50	42	xtb	Battle Boots			5	5000								vit		10	10	str		10	10	mag%		50	50	dur		30	30	move2		25	25	ac%		190	190	dmg-norm		25	25	thorns		10	10	stamdrain		40	40													0
-Gorerider	100	1		1	1	55	47	xhb	War Boots			5	5000	dred							ease		-25	-25	deadly		15	15	move2		30	30	crush		15	15	openwounds		10	10	ac%		160	200	dur		10	10	stam		20	20																	0
+Gorerider	100	1		1	1	55	47	xhb	War Boots			5	5000	dred							ease		-25	-25	deadly		15	15	move2		30	30	crush		15	15	openwounds		10	10	ac%		200	200	dur		10	10	stam		20	20																	0
 String of Ears	100	1		1	1	37	29	zlb	Demonhide Sash			5	5000	lred							red-mag		15	15	red-dmg%		15	15	lifesteal		8	8	ac%		180	180	ac		15	15	dur		10	10																									0
 Razortail	100	1		1	1	39	32	zvb	Sharkskin Belt			5	5000								thorns/lvl	8			dex		15	15	pierce		33	33	ac		15	15	ac%		120	150	dmg-max		10	10																									0
 Gloomstrap	100	1		1	1	45	36	zmb	Mesh Belt			5	5000								light		-3	-3	mana%		15	15	manasteal		5	5	ac%		120	150	vit		15	15	regen-mana		15	15																									0
