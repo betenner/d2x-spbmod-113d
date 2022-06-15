@@ -321,3 +321,5 @@ Lancer's Glove of Alacrity	1			100					2	glov	jave						"usetype,mag,pre=441,suf
 Max Level Ring	1			100					3	yps	vps	wms					"Max Level Ring,set"	99																																																																																						0
 Scintillating Jewel of Fervor	1			100					3	jew	weap	gpw					"jew,mag,pre=337,suf=171"	87																																																																																						0
 "Ring: FCR, AR, LL, LM, ResAll, MF"	1			100					6	rin	wand	gpw	skz	gpv	gpy		"rin,mag,pre=243,suf=747"	87			cast1			10	10	lifesteal			8	8	res-all			11	11	mag%			10	10																																																																0
+Fine Small Charm of Balance	1			100					3	cm1	weap	belt					"cm1,mag,pre=256,suf=267"	87																																																																																						0
+Fine Small Charm of Vita	1			100					3	cm1	hpot	weap					"cm1,mag,pre=256,suf=349"	87																																																																																						0
