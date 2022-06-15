@@ -246,7 +246,7 @@ String of Ears	100	1		1	1	37	29	zlb	Demonhide Sash			5	5000	lred							red-mag		
 Razortail	100	1		1	1	39	32	zvb	Sharkskin Belt			5	5000								thorns/lvl	8			dex		15	15	pierce		33	33	ac		15	15	ac%		120	150	dmg-max		10	10																									0
 Gloomstrap	100	1		1	1	45	36	zmb	Mesh Belt			5	5000								light		-3	-3	mana%		15	15	manasteal		5	5	ac%		120	150	vit		15	15	regen-mana		15	15																									0
 Snowclash	100	1		1	1	49	42	ztb	Battle Belt			5	5000								gethit-skill	59	5	0	abs-cold		15	15	res-cold-max		15	15	dmg-cold	75	13	21	ac%		130	170	skill	59	2	2	skill	55	3	3	skill	60	2	2																	0
-Thudergod's Vigor	100	1		1	1	55	47	zhb	War Belt			5	5000								gethit-skill	121	5	7	dmg-ltng		1	50	res-ltng-max		10	10	abs-ltng		20	20	ac%		160	200	vit		20	20	str		20	20	skill	34	3	3	skill	35	3	3													0
+Thudergod's Vigor	100	1		1	1	55	47	zhb	War Belt			5	5000								gethit-skill	121	5	7	dmg-ltng		1	50	res-ltng-max		10	10	abs-ltng		20	20	ac%		200	200	vit		20	20	str		20	20	skill	34	3	3	skill	35	3	3													0
 Elite Uniques																																																																					0
 Harlequin Crest	100	1		1	1	69	62	uap	Shako			3	5000	cgrn	cgrn						allskills		2	2	hp/lvl	12			mana/lvl	12			mag%		50	50	red-dmg%		10	10	str		2	2	dex		2	2	vit		2	2	enr		2	2													0
 Veil of Steel	100	1		1	1	77	73	uhm	Spired Helm			3	5000	lgry	lgry						res-all		50	50	ac%		60	60	str		15	15	vit		15	15	light		-4	-4	dur		20	20	ac		140	140	*mana		-30	-30																	0
@@ -344,7 +344,7 @@ Demon's Arch	100	1		1	1	76	68	7s7	balrog spear			5	5000	cred	cred						dmg%		160
 Boneflame	100	1		1	1	80	72	nee	succubae skull			3	5000	dred	dred						ac%		120	150	move2		20	20	gethit-skill	Terror	15	3	nec		2	3	res-all		20	30																													0
 Steelpillar	100	1		1	1	77	69	7p7	war pike			3	5000								dmg%		210	260	swing2		25	25	reduce-ac		20	20	ac%		50	80	indestruct		1	1	crush		25	25																									0
 Nightwing's Veil	100	1		1	1	75	67	uhm	spired helm			3	5000	cblu	cblu						ac%		90	120	allskills		2	2	dex		10	20	abs-cold		5	9	half-freeze		1	1	extra-cold		8	15	ease		-50	-50																					0
-Crown of Ages	100	1		1	1	86	82	urn	corona	1		3	5000	dgld	dgld						balance2		30	30	res-all		20	30	allskills		1	1	ac		100	150	indestruct		1	1	red-dmg%		10	15	ac%		50	50	sock		1	2																	0
+Crown of Ages	100	1		1	1	86	82	urn	corona	1		3	5000	dgld	dgld						balance2		30	30	res-all		30	30	allskills		1	1	ac		150	150	indestruct		1	1	red-dmg%		15	15	ac%		50	50	sock		2	2																	0
 Andariel's Visage	100	1		1	1	85	83	usk	demonhead	1		3	5000	dred	dred						ac%		100	150	res-pois		70	70	allskills		2	2	res-pois-max		10	10	swing2		20	20	str		25	30	gethit-skill	92	15	15	charged	278	20	3	lifesteal		8	10	res-fire		-30	-30									0
 Darkfear	100			1	1			ulm	armet			5	5000	blac			invhlmu																																																				0
 Dragonscale	100	1		1	1	84	80	pae	zakarum shield			3	5000	dgrn	dgrn						ac%		170	200	abs-fire%		10	20	res-fire-max		5	5	str		15	25	dmg-fire		211	371	oskill	Hydra	10	10	extra-fire		15	15																					0
