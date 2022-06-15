@@ -324,3 +324,5 @@ Scintillating Jewel of Fervor	1			100					3	jew	weap	gpw					"jew,mag,pre=337,su
 Fine Small Charm of Balance	1			100					3	cm1	weap	belt					"cm1,mag,pre=256,suf=267"	87																																																																																						0
 Fine Small Charm of Vita	1			100					3	cm1	hpot	weap					"cm1,mag,pre=256,suf=349"	87																																																																																						0
 Smitedin BiS Glove	1			100					2	glov	shld						"uvg,mag,pre=84,suf=170"	87			manasteal			3	3	lifesteal			3	3	crush			10	10	dex			15	15	hp			20	20																																																											0
+Lion Branded Grand Charm of Vita	1			100					3	cm3	secp	hpot					"cm3,mag,pre=466,suf=339"	87																																																																																						0
+Lion Branded Grand Charm of Balance	1			100					3	cm3	secp	belt					"cm3,mag,pre=466,suf=265"	87																																																																																						0
