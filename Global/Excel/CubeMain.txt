@@ -159,4 +159,4 @@ Rare Reroll	1			100					1	"any,rar"							"usetype,rar"			100																			
 Set Reroll	1			100					1	"any,set"							"usetype,set"			100																																																																																				0
 Unique Reroll	1			100					1	"any,uni"							"usetype,uni"			100																																																																																				0
 Superior Reroll	1			100					1	"any,hiq"							"usetype,hiq"			100																																																																																				0
-Cheap Charm	1			100					2	"wms,qty=2"							"Cheap Charm,uni"	99																																																																																						0
+Easy Ring	1			100					1	mpot							"Easy Ring,set"	99																																																																																						0
