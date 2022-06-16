@@ -27,7 +27,7 @@ Runeword25	Destruction	1		Previously Ladder Only	pole	swor								VexLoBerJahKo	
 Runeword26	Doom	1		110	axe	pole	hamm							HelOhmUmLoCham	r15	r27	r22	r28	r32		dmg%		320	320	aura	Holy Freeze	12	12	swing2		45	45	noheal		1	1	pierce-cold		60	60	allskills		2	2	hit-skill	Volcano	5	18	0
 Runeword27	Dragon	1		Previously Ladder Only	tors	shld								SurLoSol	r29	r28	r12				ac		360	360	ac-miss		230	230	str/lvl	3			hit-skill	Hydra	12	15	gethit-skill	Venom	20	18	aura	Holy Fire	14	14	all-stats		5	5	0
 Runeword28	Dread																																																0
-Runeword29	Dream	1		Previously Ladder Only	helm	shld								IoJahPul	r16	r31	r21				ac		220	220	gethit-skill	Confuse	10	15	mana/lvl	5			res-all		5	20	balance3		20	30	aura	Holy Shock	15	15	mag%		25	25	0
+Runeword29	Dream	1		Previously Ladder Only	helm	shld								IoJahPul	r16	r31	r21				ac		220	220	gethit-skill	Confuse	10	15	mana/lvl	5			res-all		20	20	balance3		30	30	aura	Holy Shock	15	15	mag%		25	25	0
 Runeword30	Duress	1		110	tors									ShaelUmThul	r13	r22	r10				dmg-cold	50	37	133	dmg%		20	20	ac%		200	200	balance2		20	20	openwounds		33	33	crush		15	15	stamdrain		-20	-20	0
 Runeword31	Edge	1		Previously Ladder Only	miss									TirTalAmn	r03	r07	r11				dmg-demon		320	380	dmg-undead		280	280	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		10	10	cheap		15	15	0
 Runeword32	Elation																																																0
