@@ -327,3 +327,4 @@ Smitedin BiS Glove	1			100					2	glov	shld						"uvg,mag,pre=84,suf=170"	87			ma
 Lion Branded Grand Charm of Vita	1			100					3	cm3	secp	hpot					"cm3,mag,pre=466,suf=339"	87																																																																																						0
 Lion Branded Grand Charm of Balance	1			100					3	cm3	secp	belt					"cm3,mag,pre=466,suf=265"	87																																																																																						0
 Zealsor BiS Ring	1			100					2	rin	r33						"rin,mag,pre=334,suf=747"	87			cast2			10	10	att			120	120	hp			40	40	res-ltng			30	30																																																																0
+Ruby Jewel of Fervor	1			100					3	jew	weap	gpr					"jew,mag,pre=376,suf=171"	87																																																																																						0
