@@ -326,3 +326,4 @@ Fine Small Charm of Vita	1			100					3	cm1	hpot	weap					"cm1,mag,pre=256,suf=34
 Smitedin BiS Glove	1			100					2	glov	shld						"uvg,mag,pre=84,suf=170"	87			manasteal			3	3	lifesteal			3	3	crush			10	10	dex			15	15	hp			20	20																																																											0
 Lion Branded Grand Charm of Vita	1			100					3	cm3	secp	hpot					"cm3,mag,pre=466,suf=339"	87																																																																																						0
 Lion Branded Grand Charm of Balance	1			100					3	cm3	secp	belt					"cm3,mag,pre=466,suf=265"	87																																																																																						0
+Zealsor BiS Ring	1			100					2	rin	r33						"rin,mag,pre=334,suf=747"	87			cast2			10	10	att			120	120	hp			40	40	res-ltng			30	30																																																																0
