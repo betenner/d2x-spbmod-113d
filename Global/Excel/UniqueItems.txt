@@ -112,7 +112,7 @@ Treads of Cthon	0	1		1	1	20	15	mbt	Chain Boots			5	5000	lgrn	lgrn						move2		30
 Goblin Toe	0	1		1	1	30	22	tbt	Light Plate Boots			5	5000	dgry	dgry						crush		25	25	red-dmg		1	1	red-mag		1	1	ac		15	15	light		-1	-1	ac%		50	60																									0
 Tearhaunch	0	1		1	1	39	29	hbt	Plate Boots			5	5000	dgrn	dgrn						ac		35	35	str		5	5	dex		5	5	move2		20	20	res-all		10	10	ac%		60	80	skill	115	2	2																					0
 Lenyms Cord	0	1		1	1	10	7	lbl	Sash			5	5000	cgrn	cgrn						mana		15	15	regen-mana		30	30	res-all		5	5	light		1	1																																	0
-Snakecord	0	1		1	1	16	12	vbl	Light Belt			5	5000	blac	blac						dmg-pois	75	40	40	res-pois		25	25	ac		10	10	ac%		20	30	regen		5	5	res-pois-len		50	50																									0
+Snakecord	0	1		1	1	16	12	vbl	Light Belt			5	5000	blac	blac						dmg-pois	75	40	40	res-pois		25	25	ac		10	10	ac%		30	30	regen		5	5	res-pois-len		50	50																									0
 Nightsmoke	0	1		1	1	27	20	mbl	Belt			5	5000	lyel	lyel						res-all		10	10	dmg-to-mana		50	50	mana		20	20	red-dmg		2	2	ac		15	15	ac%		30	50																									0
 Goldwrap	0	1		1	1	36	27	tbl	Heavy Belt			5	5000	lblu	lblu						mag%		30	30	light		2	2	ac		25	25	swing2		10	10	ac%		40	60	gold%		50	80																									0
 Bladebuckle	0	1		1	1	39	29	hbl	Girdle			5	5000	dyel	dyel						thorns		8	8	ac		30	30	red-dmg		3	3	str		5	5	dex		10	10	ac%		80	100	balance2		30	30																					0
