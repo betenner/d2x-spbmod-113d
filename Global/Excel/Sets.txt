@@ -33,4 +33,4 @@ Cow King's Leathers	Cow King's Leathers	100	20	res-pois		25	25																		
 Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175																													allskills		1	1	regen		10	10	dex		15	15	res-all		50	50	str		20	20	mana		100	100									0
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
 Easy Play																																																																				
-Easy Set	Easy Set	100	99																																	oskill	Teleport	1	1	cast3		777	777	swing3		777	777	balance3		777	777	mag%		777	777	regen-mana		77777	77777	dmg%		777	777	att%		777	777	0
+Easy Set	Easy Set	100	99																																	oskill	Teleport	77	77	cast3		777	777	swing3		777	777	balance3		777	777	mag%		777	777	regen-mana		77777	77777	dmg%		777	777	att%		777	777	0
