@@ -10,7 +10,7 @@ The Chieftan	0	1		1	1	26	19	btx	Battle Axe			5	5000	oran			invbtxu				dmg%		100	
 Brainhew	0	1		1	1	34	25	gax	Great Axe			5	5000	whit			invgaxu				dmg-min		14	14	mana		25	25	light		4	4	manasteal		10	13	dmg%		50	80	dmg-fire		15	35																									0
 The Humongous	0	1		1	1	39	29	gix	Giant Axe			5	5000	blac	blac						str		20	30	dmg-min		8	8	dmg-max		15	25	crush		33	33	ease		20	20	dmg%		80	120																									0
 Iros Torch	0	1		1	1	7	5	wnd	Wand			5	5000	cred			invwndu				nec		1	1	lifesteal		6	6	dmg-fire		5	9	light		3	3	enr		10	10	regen-mana		5	5																									0
-Maelstromwrath	0	1		1	1	19	14	ywn	Yew Wand			5	5000	dblu	dblu						ltng-min		1	1	ltng-max		9	9	res-ltng		40	40	mana		13	13	cast2		30	30	skill	74	1	3	skill	77	1	3	skill	66	1	3	skill	76	1	3													0
+Maelstromwrath	0	1		1	1	19	14	ywn	Yew Wand			5	5000	dblu	dblu						ltng-min		1	1	ltng-max		9	9	res-ltng		40	40	mana		13	13	cast2		30	30	skill	74	3	3	skill	77	3	3	skill	66	3	3	skill	76	3	3													0
 Gravenspine	0	1		1	1	27	20	bwn	Bone Wand			5	5000	cgrn			invbwnu				str		10	10	dex		10	10	cold-min		4	4	cold-max		8	8	cold-len		75	75	manasteal		5	5	nec		2	2	mana		25	50																	0
 Umes Lament	0	1		1	1	38	28	gwn	Grim Wand			5	5000	lblu	lblu						nec		2	2	mana		40	40	cast2		20	20	howl		64	64	skill	77	3	3	skill	87	2	2																									0
 Felloak	0	1		1	1	4	3	clb	Club			5	5000	lgry			invclbu				res-ltng		60	60	res-fire		20	20	knock		1	1	fire-min		6	6	fire-max		8	8	dmg%		70	80																									0
