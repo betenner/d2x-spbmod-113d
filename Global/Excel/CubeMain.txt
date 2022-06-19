@@ -158,7 +158,7 @@ Magic Reroll	1			100					1	"any,mag"							"usetype,mag"			100																		
 Rare Reroll	1			100					1	"any,rar"							"usetype,rar"			100																																																																																				0
 Set Reroll	1			100					1	"any,set"							"usetype,set"			100																																																																																				0
 Unique Reroll	1			100					1	"any,uni"							"usetype,uni"			100																																																																																				0
-Easy Ring	1			100					1	mpot							"Easy Ring,set"	99																																																																																						0
+Easy Ring	1			100					1	hpot							"Easy Ring,set"	99																																																																																						0
 Magic -> Normal	1			100					7	"weap,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,nor"			100																																																																																				0
 Magic -> Normal	1			100					7	"armo,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,nor"			100																																																																																				0
 Make Ethereal	1			100					7	"weap,noe"	"skz,qty=6"						useitem				ethereal			1	1																																																																															0
