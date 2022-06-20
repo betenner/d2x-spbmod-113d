@@ -196,3 +196,4 @@ Rune Downgrade	1			100					2	r04	key						r03																													r03			
 Rune Downgrade	1			100					2	r03	key						r02																													r02																																																										0
 Rune Downgrade	1			100					2	r02	key						r01																													r01																																																										0
 Ber	1			100					42	"gpr,qty=6"	"gpg,qty=6"	"gpy,qty=6"	"gpb,qty=6"	"gpv,qty=6"	"gpw,qty=6"	"skz,qty=6"	r30																																																																																							0
+Remove Gem	1			100					2	"any,sock"	key						"useitem,rem"																																																																																							0
