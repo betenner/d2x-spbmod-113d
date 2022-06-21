@@ -103,7 +103,7 @@ Bverrit Keep	0	1		1	1	26	19	tow	Tower Shield			5	5000	lblu			invtowu				ac		30	3
 The Ward	0	1		1	1	35	26	gts	Gothic Shield			5	5000	dblu			invgtsu				ac		40	40	red-mag		2	2	str		10	10	block		10	10	ac%		100	100	res-all		30	50																									0
 The Hand of Broc	0	1		1	1	7	5	lgl	Gloves			5	5000	cblu	cblu						manasteal		3	3	lifesteal		3	3	res-pois		10	10	mana		20	20	ac		10	10	ac%		10	20																									0
 Bloodfist	0	1		1	1	12	9	vgl	Heavy Gloves			5	5000	oran	oran						dmg-min		5	5	hp		40	40	balance2		30	30	ac		10	10	ac%		10	20	swing2		10	10																									0
-Chance Guards	0	1		1	1	20	15	mgl	Bracers			5	5000	lred	lred						gold%		200	200	mag%		25	40	att		25	25	ac		15	15	light		2	2	ac%		20	30																									0
+Chance Guards	0	1		1	1	20	15	mgl	Bracers			5	5000	lred	lred						gold%		200	200	mag%		40	40	att		25	25	ac		15	15	light		2	2	ac%		30	30																									0
 Magefist	0	1		1	1	31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		25	25	fireskill		1	1	dmg-fire		1	6	ac		10	10	ac%		30	30																									0
 Frostburn	0	1		1	1	39	29	hgl	Gauntlets			5	5000	dred	dred						ac		30	30	dmg%		5	5	mana%		40	40	dmg-cold	50	1	6	ac%		10	20																													0
 Hotspur	0	1		1	1	7	5	lbt	Leather Boots			5	5000	cred	cred						res-fire-max		15	15	hp		15	15	dmg-fire		3	6	ac		6	6	res-fire		45	45	ac%		10	20																									0
