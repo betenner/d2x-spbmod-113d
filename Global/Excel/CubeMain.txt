@@ -158,7 +158,6 @@ Magic Reroll	1			100					1	"any,mag"							"usetype,mag"			100																		
 Rare Reroll	1			100					1	"any,rar"							"usetype,rar"			100																																																																																				0
 Set Reroll	1			100					1	"any,set"							"usetype,set"			100																																																																																				0
 Unique Reroll	1			100					1	"any,uni"							"usetype,uni"			100																																																																																				0
-Easy Ring	1			100					1	hpot							"Easy Ring,set"	99																																																																																						0
 Magic -> Normal	1			100					7	"weap,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,nor"			100																																																																																				0
 Magic -> Normal	1			100					7	"armo,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,nor"			100																																																																																				0
 Make Ethereal	1			100					7	"weap,noe"	"skz,qty=6"						useitem				ethereal			1	1																																																																															0
@@ -197,3 +196,5 @@ Rune Downgrade	1			100					2	r03	key						r02																													r02			
 Rune Downgrade	1			100					2	r02	key						r01																													r01																																																										0
 Ber	1			100					42	"gpr,qty=6"	"gpg,qty=6"	"gpy,qty=6"	"gpb,qty=6"	"gpv,qty=6"	"gpw,qty=6"	"skz,qty=6"	r30																																																																																							0
 Remove Gem	1			100					2	"any,sock"	key						"useitem,rem"																																																																																							0
+Physical Ring	1			100					1	hpot							"Physical Ring,set"	99																																																																																						0
+Magical Ring	1			100					1	mpot							"Magical Ring,set"	99																																																																																						0
