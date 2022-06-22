@@ -99,7 +99,7 @@ Stormguild	0	1		1	1	18	13	lrg	Large Shield			5	5000	dgry			invlrgu				red-mag		1
 Wall of the Eyeless	0	1		1	1	27	20	bsh	Bone Shield			5	5000	lgld			invbshu				mana-kill		5	5	manasteal		3	3	cast2		20	20	res-pois		20	20	ac%		40	40	ac		10	10																									0
 Swordback Hold	0	1		1	1	20	15	spk	Spiked Shield			5	5000	lred			invspku				thorns		5	5	block		20	20	openwounds		50	50	bloody		3	5	ac%		30	60	thorns		5	5	ac		10	10																					0
 Steelclash	0	1		1	1	23	17	kit	Kite Shield			5	5000	blac			invkitu				block		25	25	pal		1	1	red-dmg		3	3	light		3	3	ac%		60	100	block2		20	20	res-all		15	15	ac		20	20	dur		15	20													0
-Bverrit Keep	0	1		1	1	26	19	tow	Tower Shield			5	5000	lblu			invtowu				ac		30	30	res-fire		75	75	str		5	5	red-mag		5	5	ac%		80	120	block		10	10	dur		80	100																					0
+Bverrit Keep	0	1		1	1	26	19	tow	Tower Shield			5	5000	lblu			invtowu				ac		30	30	res-fire		75	75	str		5	5	red-mag		5	5	ac%		120	120	block		10	10	dur		100	100																					0
 The Ward	0	1		1	1	35	26	gts	Gothic Shield			5	5000	dblu			invgtsu				ac		40	40	red-mag		2	2	str		10	10	block		10	10	ac%		100	100	res-all		30	50																									0
 The Hand of Broc	0	1		1	1	7	5	lgl	Gloves			5	5000	cblu	cblu						manasteal		3	3	lifesteal		3	3	res-pois		10	10	mana		20	20	ac		10	10	ac%		10	20																									0
 Bloodfist	0	1		1	1	12	9	vgl	Heavy Gloves			5	5000	oran	oran						dmg-min		5	5	hp		40	40	balance2		30	30	ac		10	10	ac%		10	20	swing2		10	10																									0
