@@ -51,7 +51,7 @@ Dimoaks Hew	0	1		1	1	11	8	bar	Bardiche			5	5000	blac	blac						dex		15	15	dmg%		
 Steelgoad	0	1		1	1	19	14	vou	Voulge			5	5000	cgrn	cgrn						howl		96	96	deadly		30	30	att		30	30	res-all		5	5	dmg%		60	80	dur		20	40																									0
 Soul Harvest	0	1		1	1	26	19	scy	Scythe			5	5000	dgry			invscyu				openwounds		30	30	att		45	45	res-all		20	20	dmg%		50	90	manasteal		10	10	enr		5	5																									0
 The Battlebranch	0	1		1	1	34	25	pax	Poleaxe			5	5000	lblu	lblu						swing3		30	30	dex		10	10	dmg%		50	70	att		50	100	lifesteal		7	7																													0
-Woestave	0	1		1	1	38	28	hal	Halberd			5	5000	dblu	dblu						slow		50	50	openwounds		50	50	stupidity		3	3	dmg-ac		-50	-50	freeze		1	1	light		-3	-3	noheal		1	1	dmg%		20	40	*enr		-30	-30													0
+Woestave	0	1		1	1	38	28	hal	Halberd			5	5000	dblu	dblu						slow		50	50	openwounds		50	50	stupidity		3	3	dmg-ac		-50	-50	freeze		1	1	light		-3	-3	noheal		1	1	dmg%		40	40	*enr		-30	-30													0
 The Grim Reaper	0	1		1	1	39	29	wsc	War Scythe			5	5000	lpur	lpur						deadly		100	100	noheal		1	1	manasteal		5	5	dmg%		20	20	dmg-min		15	15	*hp		-20	-20																									0
 Bane Ash	0	1		1	1	7	5	sst	Short Staff			5	5000	lgrn	lgrn						fire-min		4	4	fire-max		6	6	res-fire		50	50	mana		30	30	swing2		20	20	dmg%		50	60	skill	36	5	5	skill	37	2	2																	0
 Serpent Lord	0	1		1	1	12	9	lst	Long Staff			5	5000	cgrn	cgrn						dmg-pois	75	40	40	res-pois		50	50	light		-1	-1	mana		10	10	dmg%		30	40	manasteal		100	100	reduce-ac		50	50																					0
