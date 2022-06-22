@@ -33,5 +33,5 @@ Cow King's Leathers	Cow King's Leathers	100	20	res-pois		25	25																		
 Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175																													allskills		1	1	regen		10	10	dex		15	15	res-all		50	50	str		20	20	mana		100	100									0
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
 Easy Play																																																																				
-Easy Physical	Easy Physical	100	99																																	swing2		77777	77777	regen-mana		77777	77777	dmg%		3333	3333																					0
+Easy Physical	Easy Physical	100	99																																	swing2		77777	77777	regen-mana		77777	77777	dmg%		1111	1111																					0
 Easy Magical	Easy Magical	100	99																																	cast2		77777	77777	regen-mana		77777	77777	extra-fire		333	333	extra-cold		333	333	extra-ltng		333	333	extra-pois		333	333									0

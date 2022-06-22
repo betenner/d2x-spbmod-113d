@@ -128,5 +128,5 @@ McAuley's Riprap	McAuley's Folly	vbt	Heavy Boots	7	20	20	lpur	lpur						5	5000		
 McAuley's Taboo	McAuley's Folly	vgl	Heavy Gloves	7	20	28	lpur	lpur						5	5000		ac		25	25	swing2		20	20	hp		40	40	dmg-pois	75	30	36																																																													0
 McAuley's Superstition	McAuley's Folly	bwn	Bone Wand	7	20	25	lpur	lpur						5	5000		dmg%	2	75	75	mana		25	25	manasteal		8	8	cast3		20	20	dmg-cold	50	25	75																																																									0
 Easy Play																																																																																													
-Physical Ring	Easy Physical	rin	Ring	7	99	1								5	5000		all-stats		77	77	cheap		100	100	ignore-ac		1	1	dmg/lvl	56			mag%/lvl	24																																																											0
-Magical Ring	Easy Magical	rin	Ring	7	99	1								5	5000		all-stats		77	77	cheap		100	100	pierce-fire		111	111	pierce-cold		111	111	pierce-ltng		111	111	pierce-pois		111	111	mag%/lvl	24																																																			0
+Physical Ring	Easy Physical	rin	Ring	7	99	1								5	5000		str/lvl	6			cheap		100	100	ignore-ac		1	1	dmg/lvl	56			mag%/lvl	8			dex/lvl	6			vit/lvl	6																																																			0
+Magical Ring	Easy Magical	rin	Ring	7	99	1								5	5000		str/lvl	6			cheap		100	100	pierce-fire		111	111	pierce-cold		111	111	pierce-ltng		111	111	pierce-pois		111	111	mag%/lvl	8			dex/lvl	6			vit/lvl	6																																											0
