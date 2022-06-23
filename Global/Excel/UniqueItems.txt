@@ -149,7 +149,7 @@ The Fetid Sprinkler	100	1		1	1	46	38	9qs	Holy Water Sprinkler			5	5000								pa
 Hand of Blessed Light	100	1		1	1	50	42	9ws	Divine Scepter			5	5000	lyel							pal		2	2	dmg%		130	160	att%		100	100	ac		50	50	regen-mana		15	15	light		4	4	dmg-norm		20	45	skill	101	4	4	skill	121	2	2	hit-skill	121	5	4									0
 Fleshrender	100	1		1	1	46	38	9sp	Barbed Club			5	5000	blac			invspcu				openwounds		25	25	noheal		1	1	crush		20	20	deadly		20	20	dmg-norm		35	50	dmg%		130	200	dru		1	1	skilltab	16	2	2	dur		20	20													0
 Sureshrill Frost	100	1		1	1	47	39	9ma	Flanged Mace			5	5000								dmg-cold	125	63	112	nofreeze		1	1	dmg%		150	180	dmg-norm		5	10	freeze		3	3	charged	64	50	9																									0
-Moonfall	100	1		1	1	50	42	9mt	Jagged Star			5	5000				invmstu				hit-skill	56	5	6	dmg-fire		55	115	red-mag		9	12	dmg%		120	150	light		2	2	charged	56	60	11	dmg-norm		10	15																					0
+Moonfall	100	1		1	1	50	42	9mt	Jagged Star			5	5000				invmstu				hit-skill	56	5	6	dmg-fire		55	115	red-mag		12	12	dmg%		150	150	light		2	2	charged	56	60	11	dmg-norm		10	15																					0
 Baezil's Vortex	100	1		1	1	53	45	9fl	Knout			5	5000	dblu	dblu						hit-skill	48	5	8	dmg-ltng		1	150	mana		100	100	res-ltng		25	25	dmg%		160	200	swing2		20	20	charged	48	80	15																					0
 Earthshaker	100	1		1	1	51	43	9wh	Battle Hammer			5	5000								hit-skill	234	5	7	knock		1	1	swing3		30	30	dmg%		180	180	stupidity		1	1	skilltab	17	3	3	dur		50	50																					0
 Bloodtree Stump	100	1		1	1	56	48	9m9	War Club			5	5000	dred							crush		50	50	dmg%		180	220	res-all		20	20	str		25	25	skilltab	13	2	2	skill	129	3	3	dur		40	40																					0
