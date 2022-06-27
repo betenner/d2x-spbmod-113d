@@ -73,7 +73,7 @@ Doomspittle	0	1		1	1	38	28	rxb	Repeating Crossbow			5	5000	lpur			invrxbu				ama
 War Bonnet	0	1		1	1	4	3	cap	Cap			5	5000	dpur			invcapu				hp		15	15	att		30	30	dmg%		30	30	mana		15	15	ac		14	14																													0
 Tarnhelm	0	1		1	1	20	15	skp	Skull Cap			5	5000	oran	oran						gold%		75	75	mag%		25	50	allskills		1	1																																					0
 Coif of Glory	0	1		1	1	19	14	hlm	Helm			5	5000	whit			invhlmu				light-thorns		7	7	stupidity		1	1	res-ltng		15	15	ac-miss		100	100	ac		10	10																													0
-Duskdeep	0	1		1	1	23	17	fhl	Full Helm			5	5000	lgry			invfhlu				light		-2	-2	res-all		15	15	red-dmg		7	7	dmg-max		8	8	ac		10	20	ac%		30	50																									0
+Duskdeep	0	1		1	1	23	17	fhl	Full Helm			5	5000	lgry			invfhlu				light		-2	-2	res-all		15	15	red-dmg		7	7	dmg-max		8	8	ac		20	20	ac%		50	50																									0
 Wormskull	0	1		1	1	28	21	bhm	Bone Helm			5	5000	lgrn			invbhmu				nec		1	1	lifesteal		5	5	mana		10	10	res-pois		25	25	dmg-pois	200	102	102																													0
 Howltusk	0	1		1	1	34	25	ghm	Great Helm			5	5000	dgry	dgry						red-mag		2	2	thorns		3	3	ac%		80	80	dmg-to-mana		35	35	knock		1	1	howl		33	33																									0
 Undead Crown	0	1		1	1	39	29	crn	Crown			5	5000	blac	blac						lifesteal		5	5	ac		40	40	res-pois		50	50	half-freeze		1	1	ac%		30	60	dmg-undead		50	50	att-undead		50	100	skill	69	3	3																	0
