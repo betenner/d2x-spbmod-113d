@@ -196,7 +196,7 @@ Whichwild String	100	1		1	1	47	39	8s8	Short Siege Bow			5	5000	lblu	lblu		inv8s8
 Cliffkiller	100	1		1	1	49	41	8l8	Long Siege Bow			5	5000	dgld							ama		2	2	dmg%		190	230	ac-miss		80	80	knock		1	1	hp		50	50	dmg-min		5	10	dmg-max		20	30																					0
 Magewrath	100	1		1	1	51	43	8sw	Rune Bow			5	5000	oran			invswbu				manasteal		15	15	red-mag		9	13	skill	22	3	3	att		200	250	dex		10	10	stupidity		1	1	dmg-norm		25	50	dmg%		120	150	ama		1	1													0
 Godstrike Arch	100	1		1	1	54	46	8lw	Gothic Bow			5	5000	lgry	lgry						dmg%		200	250	att%		100	150	dmg-undead		100	200	dmg-demon		100	200	hit-skill	121	5	7	swing2		50	50	regen		12	12																					0
-Langer Briser	100	1		1	1	40	32	8lx	Arbalest			5	5000				inv8lxu				knock		1	1	dmg%		170	200	mag%		30	60	hp		30	30	dmg-max		10	30	openwounds		33	33	dmg-ltng		1	212																					0
+Langer Briser	100	1		1	1	40	32	8lx	Arbalest			5	5000				inv8lxu				knock		1	1	dmg%		200	200	mag%		60	60	hp		30	30	dmg-max		30	30	openwounds		33	33	dmg-ltng		1	212																					0
 Pus Spiter	100	1		1	1	44	36	8mx	Siege Crossbow			5	5000	cgrn	cgrn		inv8mxu				dmg-pois	200	192	192	hit-skill	91	4	1	nec		2	2	ease		-60	-60	gethit-skill	92	9	6	swing2		10	10	dmg%		150	220	att/lvl	10																			0
 Buriza-Do Kyanon	100	1		1	1	59	41	8hx	Balista			5	5000				invhxbu				pierce		100	100	dex		35	35	ac		75	150	dmg/lvl	20			swing2		80	80	dmg%		150	200	freeze		3	3	dmg-cold	200	32	196																	0
 Demon Machine	100	1		1	1	57	49	8rx	Chu-Ko-Nu			5	5000	blac	blac		invrxbu				ac		321	321	mana		36	36	pierce		66	66	explosivearrow		6	6	dmg-max		66	66	dmg%		123	123	att		632	632																					0
