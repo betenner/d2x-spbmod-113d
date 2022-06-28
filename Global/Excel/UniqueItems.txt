@@ -65,7 +65,7 @@ Piercerib	0	1		1	1	27	20	cbw	Composite Bow			5	5000	cred			invcbwu				res-all		1
 Pullspite	0	1		1	1	34	25	sbb	Short Battle Bow			5	5000	lgrn			invsbbu				dmg-ltng		1	30	str		8	8	att		28	28	pierce		25	25	res-ltng		25	25	dmg%		90	90																									0
 Wizendraw	0	1		1	1	35	26	lbb	Long Battle Bow			5	5000	dgrn	dgrn						magicarrow		5	5	mana		30	30	swing2		20	20	res-cold		26	26	att		50	100	dmg%		70	80	enr		15	15	pierce-cold		20	35																	0
 Hellclap	0	1		1	1	36	27	swb	Short War Bow			5	5000	cgrn			invswbu				swing1		10	10	fire-min		15	15	fire-max		30	50	att		50	75	res-fire		40	40	dex		12	12	dmg%		70	90	fireskill		1	1																	0
-Blastbark	0	1		1	1	38	28	lwb	Long War Bow			5	5000	lyel	lyel						dmg%		70	130	str		5	5	ama		1	1	manasteal		3	3	skill	16	2	2																													0
+Blastbark	0	1		1	1	38	28	lwb	Long War Bow			5	5000	lyel	lyel						dmg%		130	130	str		5	5	ama		1	1	manasteal		3	3	skill	16	2	2																													0
 Leadcrow	0	1		1	1	12	9	lxb	Light Crossbow			5	5000	dyel			invlxbu				dex		10	10	hp		10	10	dmg%		70	70	res-pois		30	30	deadly		25	25	att		40	40																									0
 Ichorsting	0	1		1	1	24	18	mxb	Crossbow			5	5000	lgld			invmxbu				dmg-pois	75	102	102	dex		20	20	pierce		50	50	att		50	50	dmg%		50	50	swing2		20	20																									0
 Hellcast	0	1		1	1	36	27	hxb	Heavy Crossbow			5	5000	dgld			invhxbu				explosivearrow		5	5	res-fire-max		15	15	res-fire		15	15	att		70	70	swing2		20	20	dmg%		80	80	dmg-fire		15	35																					0
