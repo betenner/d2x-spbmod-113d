@@ -35,7 +35,7 @@ Culwens Point	0	1		1	1	39	29	wsd	War Sword			5	5000	whit	whit						allskills		1	
 Shadowfang	0	1		1	1	16	12	2hs	2-Handed Sword			5	5000	cgrn			inv2hsu				manasteal		9	9	res-cold		20	20	light		-2	-2	dmg-cold	150	10	30	dmg%		100	100	lifesteal		9	9																									0
 Soulflay	0	1		1	1	26	19	clm	Claymore			5	5000	dgrn	dgrn						manasteal		4	10	lifesteal		4	4	dmg%		70	100	res-all		5	5	swing2		10	10																													0
 Kinemils Awl	0	1		1	1	31	23	gis	Giant Sword			5	5000	dblu			invgisu				att		150	150	mana		20	20	fire-min		6	6	fire-max		40	40	dmg%		100	100	skill	102	6	6																									0
-Blacktongue	0	1		1	1	35	26	bsw	Bastard Sword			5	5000	lgrn			invbswu				dmg-pois	150	192	192	noheal		1	1	att		50	50	res-pois		50	50	dmg%		50	60	*hp		-10	-10																									0
+Blacktongue	0	1		1	1	35	26	bsw	Bastard Sword			5	5000	lgrn			invbswu				dmg-pois	150	192	192	noheal		1	1	att		50	50	res-pois		50	50	dmg%		60	60	*hp		-10	-10																									0
 Ripsaw	0	1		1	1	35	26	flb	Flamberge			5	5000	cblu	cblu						openwounds		80	80	dmg-max		15	15	manasteal		6	6	dmg%		100	100																																	0
 The Patriarch	0	1		1	1	39	29	gsd	Great Sword			5	5000	cred			invgsdu				red-dmg		3	3	red-mag		3	3	stupidity		1	1	gold%		100	100	dmg%		100	120	str		10	10																									0
 Gull	0	1		1	1	6	4	dgr	Dagger			5	5000	lgry	lgry						dmg-min		1	1	dmg-max		15	15	mag%		100	100	mana		-5	-5							0	0																									0
