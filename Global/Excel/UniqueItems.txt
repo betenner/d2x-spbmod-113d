@@ -31,7 +31,7 @@ Gleamscythe	0	1		1	1	18	13	flc	Falchion			5	5000	lred			invflcu				light		3	3	ma
 Azurewrath	0	0		1	1	18	13	crs	Crystal Sword			5	5000	lgry			invcrsu				deadly		50	50	mag%		10	10	dmg-cold	100	3	6	dmg%		100	100	dur		25	25	dmg-mag		5	10																									0
 Griswolds Edge	0	1		1	1	23	17	bsd	Broad Sword			5	5000	cred			invbsdu				fire-min		10	12	fire-max		15	25	att		100	100	swing1		10	10	knock		1	1	dmg%		80	120	str		12	12																					0
 Hellplague	0	1		1	1	30	22	lsd	Long Sword			5	5000	dred			invlsdu				manasteal		5	5	lifesteal		5	5	pois-min		48	48	pois-max		96	96	pois-len		150	150	dmg%		70	80	dmg-fire		25	75	fireskill		2	2																	0
-Culwens Point	0	1		1	1	39	29	wsd	War Sword			5	5000	whit	whit						allskills		1	1	res-pois-len		50	50	balance2		20	20	swing2		20	20	att		60	60	dmg%		70	80																									0
+Culwens Point	0	1		1	1	39	29	wsd	War Sword			5	5000	whit	whit						allskills		1	1	res-pois-len		50	50	balance2		20	20	swing2		20	20	att		60	60	dmg%		80	80																									0
 Shadowfang	0	1		1	1	16	12	2hs	2-Handed Sword			5	5000	cgrn			inv2hsu				manasteal		9	9	res-cold		20	20	light		-2	-2	dmg-cold	150	10	30	dmg%		100	100	lifesteal		9	9																									0
 Soulflay	0	1		1	1	26	19	clm	Claymore			5	5000	dgrn	dgrn						manasteal		10	10	lifesteal		4	4	dmg%		100	100	res-all		5	5	swing2		10	10																													0
 Kinemils Awl	0	1		1	1	31	23	gis	Giant Sword			5	5000	dblu			invgisu				att		150	150	mana		20	20	fire-min		6	6	fire-max		40	40	dmg%		100	100	skill	102	6	6																									0
