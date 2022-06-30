@@ -226,7 +226,7 @@ Corpsemourn	100	1		1	1	63	55	xar	Ornate Armor			3	5000	blac	blac		invxaru				str
 Que-Hegan's Wisdon	100	1		1	1	59	51	xtp	Mage Plate			3	5000								cast2		20	20	mana-kill		3	3	red-mag		6	10	enr		15	15	balance2		20	20	ac%		140	160	allskills		1	1																					0
 Visceratuant	100	1		1	1	36	28	xuc	Defender			3	5000	dred			invbucu				sor		1	1	block2		30	30	block		30	30	ac%		100	150	light-thorns		10	10																													0
 Mosers Blessed Circle	100	1		1	1	39	31	xml	Round Shield			3	5000				invxmlu				res-all		25	25	block		25	25	sock	2			ac%		180	220	block2		30	30																													0
-Stormchaser	100	1		1	1	43	35	xrg	Scutum			3	5000	cblu	cblu		invxrgu				dmg-ltng		1	60	block		20	20	half-freeze		1	1	res-ltng		50	50	att		150	150	ac%		160	220	block2		10	10	gethit-skill	59	4	6	gethit-skill	245	4	5													0
+Stormchaser	100	1		1	1	43	35	xrg	Scutum			3	5000	cblu	cblu		invxrgu				dmg-ltng		1	60	block		20	20	half-freeze		1	1	res-ltng		50	50	att		150	150	ac%		220	220	block2		10	10	gethit-skill	59	4	6	gethit-skill	245	4	5													0
 Tiamat's Rebuke	100	1		1	1	46	38	xit	Dragon Shield			3	5000	lgry	lgry		invkitu				dmg-cold	150	27	53	dmg-fire		35	95	dmg-ltng		1	120	res-all		25	35	ac%		140	200	gethit-skill	44	5	9	gethit-skill	48	5	7	gethit-skill	62	3	6	dur		40	40													0
 Kerke's Sanctuary	100	1		1	1	52	44	xow	Pavise			3	5000	lgrn	lgrn		invtowu				red-dmg		11	16	red-mag		14	18	regen		15	15	ac%		180	240	dur		100	100	block		30	30	res-all		20	30																					0
 Radimant's Sphere	100	1		1	1	58	50	xts	Ancient Shield			3	5000				invgtsu				dmg-pois	100	204	204	gethit-skill	92	5	5	res-pois		75	75	ac%		160	200	block		20	20	block2		20	20	charged	83	40	6	dur		20	20																	0
