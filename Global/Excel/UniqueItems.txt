@@ -190,7 +190,7 @@ Warpspear	100	1		1	1	47	39	8bs	Gothic Staff			5	5000	cblu	cblu						sor		3	3	ign
 Skullcollector	100	1		1	1	49	41	8ws	Rune Staff			5	5000	blac	blac		inv8wsu				mana%		20	20	mana-kill		20	20	allskills		2	2	mag%/lvl	8																																			0
 Skystrike	100	1		1	1	36	28	8sb	Edge Bow			5	5000								dmg-ltng		1	250	att		100	100	enr		10	10	swing3		30	30	dmg%		150	200	hit-skill	56	2	6	ama		1	1																					0
 Riphook	100	1		1	1	39	31	8hb	Razor Bow			5	5000	cred	cred						openwounds		30	30	dmg%		180	220	slow		30	30	mana		35	35	swing2		30	30	lifesteal		7	10																									0
-Kuko Shakaku	100	1		1	1	41	33	8lb	CedarBow			5	5000	lpur	lpur		inv8lbu				skill	27	3	3	explosivearrow		7	7	dmg%		150	180	pierce		50	50	dmg-fire		40	180	skilltab	0	3	3																									0
+Kuko Shakaku	100	1		1	1	41	33	8lb	CedarBow			5	5000	lpur	lpur		inv8lbu				skill	27	3	3	explosivearrow		7	7	dmg%		180	180	pierce		50	50	dmg-fire		40	180	skilltab	0	3	3																									0
 Endlesshail	100	1		1	1	44	36	8cb	Double Bow			5	5000				invcbwu				res-cold		35	35	mana		40	40	ac-miss		50	50	skill	26	3	5	dmg%		180	220	dmg-cold	75	15	30																									0
 Whichwild String	100	1		1	1	47	39	8s8	Short Siege Bow			5	5000	lblu	lblu		inv8s8u				hit-skill	66	2	5	res-all		40	40	deadly/lvl	8			dmg%		150	170	magicarrow		20	20	sock	2																											0
 Cliffkiller	100	1		1	1	49	41	8l8	Long Siege Bow			5	5000	dgld							ama		2	2	dmg%		190	230	ac-miss		80	80	knock		1	1	hp		50	50	dmg-min		5	10	dmg-max		20	30																					0
