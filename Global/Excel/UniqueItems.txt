@@ -90,7 +90,7 @@ Iceblink	0	1		1	1	30	22	spl	Splint Mail			5	5000	lgld	lgld						freeze		1	1	res-
 Boneflesh	0	1		1	1	35	26	plt	Plate Mail			5	5000	dgld	dgld						lifesteal		5	5	ac%		120	120	att		35	35	openwounds		25	25																																	0
 Rockfleece	0	1		1	1	38	28	fld	Field Plate			5	5000	dgry	dgry						ease		-10	-10	ac%		100	130	red-dmg%		10	10	red-dmg		5	5	str		5	5																													0
 Rattlecage	0	1		1	1	39	29	gth	Gothic Plate			5	5000	dpur	dpur						howl		52	52	att		45	45	crush		25	25	ac		200	200																																	0
-Goldskin	0	1		1	1	38	28	ful	Full Plate Mail			5	5000	oran			invfulu				ac%		120	150	res-all		35	35	thorns		10	10	light		2	2	gold%		100	100																													0
+Goldskin	0	1		1	1	38	28	ful	Full Plate Mail			5	5000	oran			invfulu				ac%		150	150	res-all		35	35	thorns		10	10	light		2	2	gold%		100	100																													0
 Victors Silk	0	1		1	1	38	28	aar	AncientArmor			5	5000	dblu			invaaru				manasteal		5	5	allskills		1	1	light		2	2	ac%		100	120																																	0
 Heavenly Garb	0	1		1	1	39	29	ltp	Light Plate			5	5000	cblu	cblu						ac%		100	100	res-all		10	10	regen-mana		25	25	enr		15	15	dmg-undead		50	50	att-undead		100	100																									0
 Pelta Lunata	0	1		1	1	3	2	buc	Buckler			5	5000	whit			invbucu				ac		30	30	vit		10	10	str		2	2	enr		10	10	ac%		30	40	block		20	20	block2		40	40	dur		8	12																	0
