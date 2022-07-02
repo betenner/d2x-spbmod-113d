@@ -40,7 +40,7 @@ Ripsaw	0	1		1	1	35	26	flb	Flamberge			5	5000	cblu	cblu						openwounds		80	80	dm
 The Patriarch	0	1		1	1	39	29	gsd	Great Sword			5	5000	cred			invgsdu				red-dmg		3	3	red-mag		3	3	stupidity		1	1	gold%		100	100	dmg%		120	120	str		10	10																									0
 Gull	0	1		1	1	6	4	dgr	Dagger			5	5000	lgry	lgry						dmg-min		1	1	dmg-max		15	15	mag%		100	100	mana		-5	-5							0	0																									0
 The Diggler	0	1		1	1	15	11	dir	Dirk			5	5000	dgry	dgry						dex		10	10	dmg%		50	50	swing3		30	30	res-cold		25	25	res-fire		25	25	ignore-ac		1	1																									0
-The Jade Tan Do	0	1		1	1	26	19	kri	Kris			5	5000	oran			invkrsu				att		100	150	nofreeze		1	1	dmg-pois	100	460	460	res-pois		95	95	res-pois-max		20	20																													0
+The Jade Tan Do	0	1		1	1	26	19	kri	Kris			5	5000	oran			invkrsu				att		150	150	nofreeze		1	1	dmg-pois	100	460	460	res-pois		95	95	res-pois-max		20	20																													0
 Irices Shard	0	1		1	1	34	25	bld	Blade			5	5000	dblu	dblu						cast3		50	50	mana		50	50	att		55	55	res-all		10	10																																	0
 The Dragon Chang	0	1		1	1	11	8	spr	Spear			5	5000	dpur	dpur						att		35	35	dmg-min		10	10	light		2	2	dmg-undead		100	100	dmg-fire		3	6																													0
 Razortine	0	1		1	1	16	12	tri	Trident			5	5000	oran			invtriu				slow		25	25	reduce-ac		50	50	str		15	15	dex		8	8	swing2		30	30	dmg%		50	50																									0
