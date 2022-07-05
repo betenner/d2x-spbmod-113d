@@ -18,7 +18,7 @@ Knell Striker	0	1		1	1	7	5	scp	Scepter			5	5000	dred	dred						crush		25	25	res-
 Rusthandle	0	1		1	1	23	17	gsc	Grand Scepter			5	5000	lgld	lgld						pal		1	1	dmg-norm		3	7	red-mag		1	1	lifesteal		8	8	dmg%		60	60	dmg-undead		60	60	skill	111	3	3	skill	103	3	3																	0
 Stormeye	0	1		1	1	31	23	wsp	War Scepter			5	5000	cred	cred						dmg-ltng		1	6	dmg-cold	75	3	5	regen		10	10	dmg%		80	120	skill	110	3	5	skill	118	3	3	skill	121	1	1																					0
 Stoutnail	0	1		1	1	7	5	spc	Spiked Club			5	5000	dgry			invspcu				thorns		3	10	dmg%		100	100	vit		7	7	red-mag		2	2																																	0
-Crushflange	0	1		1	1	12	9	mac	Mace			5	5000	blac	blac						str		15	15	knock		1	1	light		2	2	res-fire		50	50	dmg%		50	60	crush		33	33																									0
+Crushflange	0	1		1	1	12	9	mac	Mace			5	5000	blac	blac						str		15	15	knock		1	1	light		2	2	res-fire		50	50	dmg%		60	60	crush		33	33																									0
 Bloodrise	0	1		1	1	20	15	mst	Morning Star			5	5000	lblu			invmstu				dmg%		120	120	att%		50	50	openwounds		25	25	light		2	2	swing1		10	10	skill	96	3	3	lifesteal		5	5																					0
 The Generals Tan Do Li Ga	0	1		1	1	28	21	fla	Flail			5	5000	dblu	dblu						dmg-min		1	1	dmg-max		20	20	slow		50	50	ac		25	25	manasteal		5	5	dmg%		50	60	swing2		20	20																					0
 Ironstone	0	1		1	1	36	27	whm	War Hammer			5	5000	cblu	cblu						att		150	150	dmg%		150	150	ltng-min		1	1	ltng-max		10	10	str		10	10	*enr		-5	-5																									0
