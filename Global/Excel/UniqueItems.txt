@@ -76,7 +76,7 @@ Coif of Glory	0	1		1	1	19	14	hlm	Helm			5	5000	whit			invhlmu				light-thorns		7
 Duskdeep	0	1		1	1	23	17	fhl	Full Helm			5	5000	lgry			invfhlu				light		-2	-2	res-all		15	15	red-dmg		7	7	dmg-max		8	8	ac		20	20	ac%		50	50																									0
 Wormskull	0	1		1	1	28	21	bhm	Bone Helm			5	5000	lgrn			invbhmu				nec		1	1	lifesteal		5	5	mana		10	10	res-pois		25	25	dmg-pois	200	102	102																													0
 Howltusk	0	1		1	1	34	25	ghm	Great Helm			5	5000	dgry	dgry						red-mag		2	2	thorns		3	3	ac%		80	80	dmg-to-mana		35	35	knock		1	1	howl		33	33																									0
-Undead Crown	0	1		1	1	39	29	crn	Crown			5	5000	blac	blac						lifesteal		5	5	ac		40	40	res-pois		50	50	half-freeze		1	1	ac%		30	60	dmg-undead		50	50	att-undead		50	100	skill	69	3	3																	0
+Undead Crown	0	1		1	1	39	29	crn	Crown			5	5000	blac	blac						lifesteal		5	5	ac		40	40	res-pois		50	50	half-freeze		1	1	ac%		60	60	dmg-undead		50	50	att-undead		100	100	skill	69	3	3																	0
 The Face of Horror	0	1		1	1	27	20	msk	Mask			5	5000	lblu	lblu						howl		64	64	str		20	20	res-all		10	10	dmg-undead		50	50	ac		25	25																													0
 Greyform	0	1		1	1	10	7	qui	Quilted Armor			5	5000	lgry	lgry						red-mag		3	3	res-cold		20	20	res-fire		20	20	dex		10	10	lifesteal		5	5	ac		20	20																									0
 Blinkbats Form	0	1		1	1	16	12	lea	Leather Armor			5	5000	dred	dred						ac-miss		50	50	move2		10	10	ac		25	25	fire-min		3	3	fire-max		6	6	balance2		40	40																									0
