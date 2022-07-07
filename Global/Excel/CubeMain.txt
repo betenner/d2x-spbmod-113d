@@ -103,25 +103,25 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				1
 3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					4	"r11,qty=3"	gcv						r12																																																																																							0
 3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					4	"r12,qty=3"	gcb						r13																																																																																							0
 3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					4	"r13,qty=3"	gcr						r14																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1	1		100					4	"r14,qty=3"	gcg						r15																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1	1		100					4	"r15,qty=3"	gcw						r16																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1	1		100					4	"r16,qty=3"	gfy						r17																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1	1		100					4	"r17,qty=3"	gfv						r18																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1	1		100					4	"r18,qty=3"	gfb						r19																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1	1		100					4	"r19,qty=3"	gfr						r20																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1	1		100					4	"r20,qty=3"	gfg						r21																																																																																							0
-2 Pul Runes + 1 Flawed Diamond -> Um Rune	1	1		100					3	"r21,qty=2"	gfw						r22																																																																																							0
-2 Um Runes + 1 Standard Topaz -> Mal Rune	1	1		100					3	"r22,qty=2"	gsy						r23																																																																																							0
-2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1	1		100					3	"r23,qty=2"	gsv						r24																																																																																							0
-2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1	1		100					3	"r24,qty=2"	gsb						r25																																																																																							0
-2 Gul Runes + 1 Standard Ruby -> Vex Rune	1	1		100					3	"r25,qty=2"	gsr						r26																																																																																							0
-2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1	1		100					3	"r26,qty=2"	gsg						r27																																																																																							0
-2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1	1		100					3	"r27,qty=2"	gsw						r28																																																																																							0
-2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1	1		100					3	"r28,qty=2"	gly						r29																																																																																							0
-2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1	1		100					3	"r29,qty=2"	gzv						r30																																																																																							0
-2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1	1		100					3	"r30,qty=2"	glb						r31																																																																																							0
-2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1	1		100					3	"r31,qty=2"	glr						r32																																																																																							0
-2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1	1		100					3	"r32,qty=2"	glg						r33																																																																																							0
+3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					4	"r14,qty=3"	gcg						r15																																																																																							0
+3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					4	"r15,qty=3"	gcw						r16																																																																																							0
+3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					4	"r16,qty=3"	gfy						r17																																																																																							0
+3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					4	"r17,qty=3"	gfv						r18																																																																																							0
+3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					4	"r18,qty=3"	gfb						r19																																																																																							0
+3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					4	"r19,qty=3"	gfr						r20																																																																																							0
+3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					4	"r20,qty=3"	gfg						r21																																																																																							0
+2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100					3	"r21,qty=2"	gfw						r22																																																																																							0
+2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100					3	"r22,qty=2"	gsy						r23																																																																																							0
+2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100					3	"r23,qty=2"	gsv						r24																																																																																							0
+2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1			100					3	"r24,qty=2"	gsb						r25																																																																																							0
+2 Gul Runes + 1 Standard Ruby -> Vex Rune	1			100					3	"r25,qty=2"	gsr						r26																																																																																							0
+2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1			100					3	"r26,qty=2"	gsg						r27																																																																																							0
+2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1			100					3	"r27,qty=2"	gsw						r28																																																																																							0
+2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1			100					3	"r28,qty=2"	gly						r29																																																																																							0
+2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1			100					3	"r29,qty=2"	gzv						r30																																																																																							0
+2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1			100					3	"r30,qty=2"	glb						r31																																																																																							0
+2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1			100					3	"r31,qty=2"	glr						r32																																																																																							0
+2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1			100					3	"r32,qty=2"	glg						r33																																																																																							0
 1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
 1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
 1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
@@ -130,8 +130,8 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				1
 1 El Rune + 1 Chipped Gem (Any) + 1 Low Quality Armor -> Normal Armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Unique Weapon -> Exceptional Unique Weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Unique Armor -> Exceptional Unique Armor	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
-1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
-1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor -> Elite Unique Armor	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
+1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	1			100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor -> Elite Unique Armor	1			100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Normal Rare Weapon -> Exceptional Rare Weapon	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Ral Rune + 1 Thul Rune + 1 Perfect Amethyst + 1 Normal Rare Armor -> Exceptional Rare Armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Fal Rune + 1 Um Rune + 1 Perfect Sapphire + 1 Exceptional Rare Weapon -> Elite Rare Weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
@@ -154,12 +154,6 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				1
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1			100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1			100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1			100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-Magic Reroll	1			100					2	"any,mag"	gem4						"usetype,mag"			100																																																																																				0
-Rare Reroll	1			100					2	"any,rar"	gem4						"usetype,rar"			100																																																																																				0
-Set Reroll	1			100					1	"any,set"							"usetype,set"			100																																																																																				0
-Unique Reroll	1			100					1	"any,uni"							"usetype,uni"			100																																																																																				0
-Magic -> Normal	1			100					7	"weap,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,nor"			100																																																																																				0
-Magic -> Normal	1			100					7	"armo,mag"	gpr	gpg	gpy	gpb	gpv	gpw	"usetype,nor"			100																																																																																				0
 Make Ethereal	1			100					7	"weap,noe"	"skz,qty=6"						useitem				ethereal			1	1																																																																															0
 Make Ethereal	1			100					7	"armo,noe"	"skz,qty=6"						useitem				ethereal			1	1																																																																															0
 Rune Downgrade	1			100					2	r33	key						r32																													r32																																																										0
@@ -196,21 +190,5 @@ Rune Downgrade	1			100					2	r03	key						r02																													r02			
 Rune Downgrade	1			100					2	r02	key						r01																													r01																																																										0
 Ber	1			100					42	"gpr,qty=6"	"gpg,qty=6"	"gpy,qty=6"	"gpb,qty=6"	"gpv,qty=6"	"gpw,qty=6"	"skz,qty=6"	r30																																																																																							0
 Remove Gem	1			100					2	"any,sock"	key						"useitem,rem"																																																																																							0
-Physical Ring	1			100					1	hpot							"Physical Ring,set"	99																																																																																						0
-Magical Ring	1			100					1	mpot							"Magical Ring,set"	99																																																																																						0
-Remove Socket	1			100					2	"any,sock"	yps						"usetype,nor"			100																																																																																				0
-1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor (2)	1			100					6	"tors,nor,nos"	r07	r10	gpy	"key,qty=2"			useitem				sock			2	2																																																																															0
-1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor (3)	1			100					7	"tors,nor,nos"	r07	r10	gpy	"key,qty=3"			useitem				sock			3	3																																																																															0
-1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor (4)	1			100					8	"tors,nor,nos"	r07	r10	gpy	"key,qty=4"			useitem				sock			4	4																																																																															0
-1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon (2)	1			100					6	"weap,nor,nos"	r08	r11	gpv	"key,qty=2"			useitem				sock			2	2																																																																															0
-1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon (3)	1			100					7	"weap,nor,nos"	r08	r11	gpv	"key,qty=3"			useitem				sock			3	3																																																																															0
-1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon (4)	1			100					8	"weap,nor,nos"	r08	r11	gpv	"key,qty=4"			useitem				sock			4	4																																																																															0
-1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon (5)	1			100					9	"weap,nor,nos"	r08	r11	gpv	"key,qty=5"			useitem				sock			5	5																																																																															0
-1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon (6)	1			100					10	"weap,nor,nos"	r08	r11	gpv	"key,qty=6"			useitem				sock			6	6																																																																															0
-1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm (2)	1			100					6	"helm,nor,nos"	r08	r10	gpb	"key,qty=2"			useitem				sock			2	2																																																																															0
-1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm (3)	1			100					7	"helm,nor,nos"	r08	r10	gpb	"key,qty=3"			useitem				sock			3	3																																																																															0
-1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield (2)	1			100					6	"shld,nor,nos"	r07	r11	gpr	"key,qty=2"			useitem				sock			2	2																																																																															0
-1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield (3)	1			100					7	"shld,nor,nos"	r07	r11	gpr	"key,qty=3"			useitem				sock			3	3																																																																															0
-1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield (4)	1			100					8	"shld,nor,nos"	r07	r11	gpr	"key,qty=4"			useitem				sock			4	4																																																																															0
 1 Ort Rune + 1 Ral Rune + 1 Perfect Gem (Any) + 1 Weapon -> Fully Repaired and Recharged Weapon	1			100					4	weap	r09	r08	gem4				"useitem,rep,rch,qty=255"																																																																																							0
 1 Ort Rune + 1 Ral Rune + 1 Perfect Gem (Any) + 1 Armor -> Fully Repaired and Recharged Armor	1			100					4	armo	r08	r09	gem4				"useitem,rep,rch,qty=255"																																																																																							0
