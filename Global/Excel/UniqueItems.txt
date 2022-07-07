@@ -234,7 +234,7 @@ Lidless Wall	100	1		1	1	49	41	xsh	Grim Shield			3	5000	dgld	dgld		invxshu				lig
 Lance Guard	100	1		1	1	43	35	xpk	Barbed Shield			3	5000				invxpku				hp		50	50	balance2		30	30	dmg-to-mana		15	15	thorns		47	47	ac%		70	120	deadly		20	20																									0
 Venom Grip	100	1		1	1	37	29	xlg	Demonhide Gloves			5	5000	dgrn							res-pois		30	30	res-pois-max		5	5	dmg-pois	100	153	153	crush		5	5	lifesteal		5	5	ac		15	25	ac%		130	160																					0
 Gravepalm	100	1		1	1	39	32	xvg	Sharkskin Gloves			5	5000								enr		10	10	str		10	10	dmg-undead		100	200	att-undead		100	200	ac%		140	180																													0
-Ghoulhide	100	1		1	1	44	36	xmg	Heavy Bracers			5	5000								att-und/lvl	16			dmg-und/lvl	16			manasteal		4	5	hp		20	20	ac%		150	190																													0
+Ghoulhide	100	1		1	1	44	36	xmg	Heavy Bracers			5	5000								att-und/lvl	16			dmg-und/lvl	16			manasteal		5	5	hp		20	20	ac%		190	190																													0
 Lavagout	100	1		1	1	50	42	xtg	Battle Guantlets			5	5000	lyel							res-fire		24	24	half-freeze		1	1	hit-skill	52	2	10	swing2		20	20	ac%		150	200	dmg-fire		13	46	dur		20	20																					0
 Hellmouth	100	1		1	1	55	47	xhg	War Gauntlets			5	5000								dmg-fire		15	72	abs-fire		15	15	ac%		150	200	dur		15	15	hit-skill	56	2	4	hit-skill	225	4	12																									0
 Infernostride	100	1		1	1	37	29	xlb	Demonhide Boots			5	5000								dmg-fire		12	33	move2		20	20	res-fire-max		10	10	res-fire		30	30	light		2	2	ac%		120	150	gold%		40	70	ac		15	15	gethit-skill	46	5	8													0
