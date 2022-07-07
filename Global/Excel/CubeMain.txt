@@ -192,3 +192,4 @@ Ber	1			100					42	"gpr,qty=6"	"gpg,qty=6"	"gpy,qty=6"	"gpb,qty=6"	"gpv,qty=6"	"
 Remove Gem	1			100					2	"any,sock"	key						"useitem,rem"																																																																																							0
 1 Ort Rune + 1 Ral Rune + 1 Perfect Gem (Any) + 1 Weapon -> Fully Repaired and Recharged Weapon	1			100					4	weap	r09	r08	gem4				"useitem,rep,rch,qty=255"																																																																																							0
 1 Ort Rune + 1 Ral Rune + 1 Perfect Gem (Any) + 1 Armor -> Fully Repaired and Recharged Armor	1			100					4	armo	r08	r09	gem4				"useitem,rep,rch,qty=255"																																																																																							0
+Fine Ring	1			100					1	hpot							"Fine Ring,set"	99																																																																																						0
