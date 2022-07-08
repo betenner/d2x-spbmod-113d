@@ -193,3 +193,122 @@ Remove Gem	1			100					2	"any,sock"	key						"useitem,rem"																						
 1 Ort Rune + 1 Ral Rune + 1 Perfect Gem (Any) + 1 Weapon -> Fully Repaired and Recharged Weapon	1			100					4	weap	r09	r08	gem4				"useitem,rep,rch,qty=255"																																																																																							0
 1 Ort Rune + 1 Ral Rune + 1 Perfect Gem (Any) + 1 Armor -> Fully Repaired and Recharged Armor	1			100					4	armo	r08	r09	gem4				"useitem,rep,rch,qty=255"																																																																																							0
 Fine Charm	1			100					1	hpot							"Fine Charm,uni"	99																																																																																						0
+Ruby Upgrade	1			100					6	"gcr,qty=6"							gfr																													gfr																																																										0
+Ruby Upgrade	1			100					9	"gcr,qty=9"							gsr																																																																																							0
+Ruby Upgrade	1			100					5	"gcr,qty=3"	"gfr,qty=2"						gsr																																																																																							0
+Ruby Upgrade	1			100					7	"gcr,qty=6"	gfr						gsr																																																																																							0
+Ruby Upgrade	1			100					7	"gcr,qty=3"	"gfr,qty=2"	"gsr,qty=2"					glr																																																																																							0
+Ruby Upgrade	1			100					9	"gcr,qty=3"	"gfr,qty=2"	"gsr,qty=2"	"glr,qty=2"				gpr																																																																																							0
+Ruby Upgrade	1			100					6	"gfr,qty=6"							gsr																													gsr																																																										0
+Ruby Upgrade	1			100					9	"gfr,qty=9"							glr																																																																																							0
+Ruby Upgrade	1			100					5	"gfr,qty=3"	"gsr,qty=2"						glr																																																																																							0
+Ruby Upgrade	1			100					7	"gfr,qty=6"	gsr						glr																																																																																							0
+Ruby Upgrade	1			100					7	"gfr,qty=3"	"gsr,qty=2"	"glr,qty=2"					gpr																																																																																							0
+Ruby Upgrade	1			100					6	"gsr,qty=6"							glr																													glr																																																										0
+Ruby Upgrade	1			100					9	"gsr,qty=9"							gpr																																																																																							0
+Ruby Upgrade	1			100					5	"gsr,qty=3"	"glr,qty=2"						gpr																																																																																							0
+Ruby Upgrade	1			100					7	"gsr,qty=6"	glr						gpr																																																																																							0
+Ruby Upgrade	1			100					6	"glr,qty=6"							gpr																													gpr																																																										0
+Ruby Upgrade	1			100					9	"glr,qty=9"							gpr																													gpr																													gpr																													0
+Emerald Upgrade	1			100					6	"gcg,qty=6"							gfg																													gfg																																																										0
+Emerald Upgrade	1			100					9	"gcg,qty=9"							gsg																																																																																							0
+Emerald Upgrade	1			100					5	"gcg,qty=3"	"gfg,qty=2"						gsg																																																																																							0
+Emerald Upgrade	1			100					7	"gcg,qty=6"	gfg						gsg																																																																																							0
+Emerald Upgrade	1			100					7	"gcg,qty=3"	"gfg,qty=2"	"gsg,qty=2"					glg																																																																																							0
+Emerald Upgrade	1			100					9	"gcg,qty=3"	"gfg,qty=2"	"gsg,qty=2"	"glg,qty=2"				gpg																																																																																							0
+Emerald Upgrade	1			100					6	"gfg,qty=6"							gsg																													gsg																																																										0
+Emerald Upgrade	1			100					9	"gfg,qty=9"							glg																																																																																							0
+Emerald Upgrade	1			100					5	"gfg,qty=3"	"gsg,qty=2"						glg																																																																																							0
+Emerald Upgrade	1			100					7	"gfg,qty=6"	gsg						glg																																																																																							0
+Emerald Upgrade	1			100					7	"gfg,qty=3"	"gsg,qty=2"	"glg,qty=2"					gpg																																																																																							0
+Emerald Upgrade	1			100					6	"gsg,qty=6"							glg																													glg																																																										0
+Emerald Upgrade	1			100					9	"gsg,qty=9"							gpg																																																																																							0
+Emerald Upgrade	1			100					5	"gsg,qty=3"	"glg,qty=2"						gpg																																																																																							0
+Emerald Upgrade	1			100					7	"gsg,qty=6"	glg						gpg																																																																																							0
+Emerald Upgrade	1			100					6	"glg,qty=6"							gpg																													gpg																																																										0
+Emerald Upgrade	1			100					9	"glg,qty=9"							gpg																													gpg																													gpg																													0
+Topaz Upgrade	1			100					6	"gcy,qty=6"							gfy																													gfy																																																										0
+Topaz Upgrade	1			100					9	"gcy,qty=9"							gsy																																																																																							0
+Topaz Upgrade	1			100					5	"gcy,qty=3"	"gfy,qty=2"						gsy																																																																																							0
+Topaz Upgrade	1			100					7	"gcy,qty=6"	gfy						gsy																																																																																							0
+Topaz Upgrade	1			100					7	"gcy,qty=3"	"gfy,qty=2"	"gsy,qty=2"					gly																																																																																							0
+Topaz Upgrade	1			100					9	"gcy,qty=3"	"gfy,qty=2"	"gsy,qty=2"	"gly,qty=2"				gpy																																																																																							0
+Topaz Upgrade	1			100					6	"gfy,qty=6"							gsy																													gsy																																																										0
+Topaz Upgrade	1			100					9	"gfy,qty=9"							gly																																																																																							0
+Topaz Upgrade	1			100					5	"gfy,qty=3"	"gsy,qty=2"						gly																																																																																							0
+Topaz Upgrade	1			100					7	"gfy,qty=6"	gsy						gly																																																																																							0
+Topaz Upgrade	1			100					7	"gfy,qty=3"	"gsy,qty=2"	"gly,qty=2"					gpy																																																																																							0
+Topaz Upgrade	1			100					6	"gsy,qty=6"							gly																													gly																																																										0
+Topaz Upgrade	1			100					9	"gsy,qty=9"							gpy																																																																																							0
+Topaz Upgrade	1			100					5	"gsy,qty=3"	"gly,qty=2"						gpy																																																																																							0
+Topaz Upgrade	1			100					7	"gsy,qty=6"	gly						gpy																																																																																							0
+Topaz Upgrade	1			100					6	"gly,qty=6"							gpy																													gpy																																																										0
+Topaz Upgrade	1			100					9	"gly,qty=9"							gpy																													gpy																													gpy																													0
+Sapphire Upgrade	1			100					6	"gcb,qty=6"							gfb																													gfb																																																										0
+Sapphire Upgrade	1			100					9	"gcb,qty=9"							gsb																																																																																							0
+Sapphire Upgrade	1			100					5	"gcb,qty=3"	"gfb,qty=2"						gsb																																																																																							0
+Sapphire Upgrade	1			100					7	"gcb,qty=6"	gfb						gsb																																																																																							0
+Sapphire Upgrade	1			100					7	"gcb,qty=3"	"gfb,qty=2"	"gsb,qty=2"					glb																																																																																							0
+Sapphire Upgrade	1			100					9	"gcb,qty=3"	"gfb,qty=2"	"gsb,qty=2"	"glb,qty=2"				gpb																																																																																							0
+Sapphire Upgrade	1			100					6	"gfb,qty=6"							gsb																													gsb																																																										0
+Sapphire Upgrade	1			100					9	"gfb,qty=9"							glb																																																																																							0
+Sapphire Upgrade	1			100					5	"gfb,qty=3"	"gsb,qty=2"						glb																																																																																							0
+Sapphire Upgrade	1			100					7	"gfb,qty=6"	gsb						glb																																																																																							0
+Sapphire Upgrade	1			100					7	"gfb,qty=3"	"gsb,qty=2"	"glb,qty=2"					gpb																																																																																							0
+Sapphire Upgrade	1			100					6	"gsb,qty=6"							glb																													glb																																																										0
+Sapphire Upgrade	1			100					9	"gsb,qty=9"							gpb																																																																																							0
+Sapphire Upgrade	1			100					5	"gsb,qty=3"	"glb,qty=2"						gpb																																																																																							0
+Sapphire Upgrade	1			100					7	"gsb,qty=6"	glb						gpb																																																																																							0
+Sapphire Upgrade	1			100					6	"glb,qty=6"							gpb																													gpb																																																										0
+Sapphire Upgrade	1			100					9	"glb,qty=9"							gpb																													gpb																													gpb																													0
+Amethyst Upgrade	1			100					6	"gcv,qty=6"							gfv																													gfv																																																										0
+Amethyst Upgrade	1			100					9	"gcv,qty=9"							gsv																																																																																							0
+Amethyst Upgrade	1			100					5	"gcv,qty=3"	"gfv,qty=2"						gsv																																																																																							0
+Amethyst Upgrade	1			100					7	"gcv,qty=6"	gfv						gsv																																																																																							0
+Amethyst Upgrade	1			100					7	"gcv,qty=3"	"gfv,qty=2"	"gsv,qty=2"					gzv																																																																																							0
+Amethyst Upgrade	1			100					9	"gcv,qty=3"	"gfv,qty=2"	"gsv,qty=2"	"gzv,qty=2"				gpv																																																																																							0
+Amethyst Upgrade	1			100					6	"gfv,qty=6"							gsv																													gsv																																																										0
+Amethyst Upgrade	1			100					9	"gfv,qty=9"							gzv																																																																																							0
+Amethyst Upgrade	1			100					5	"gfv,qty=3"	"gsv,qty=2"						gzv																																																																																							0
+Amethyst Upgrade	1			100					7	"gfv,qty=6"	gsv						gzv																																																																																							0
+Amethyst Upgrade	1			100					7	"gfv,qty=3"	"gsv,qty=2"	"gzv,qty=2"					gpv																																																																																							0
+Amethyst Upgrade	1			100					6	"gsv,qty=6"							gzv																													gzv																																																										0
+Amethyst Upgrade	1			100					9	"gsv,qty=9"							gpv																																																																																							0
+Amethyst Upgrade	1			100					5	"gsv,qty=3"	"gzv,qty=2"						gpv																																																																																							0
+Amethyst Upgrade	1			100					7	"gsv,qty=6"	gzv						gpv																																																																																							0
+Amethyst Upgrade	1			100					6	"gzv,qty=6"							gpv																													gpv																																																										0
+Amethyst Upgrade	1			100					9	"gzv,qty=9"							gpv																													gpv																													gpv																													0
+Diamond Upgrade	1			100					6	"gcw,qty=6"							gfw																													gfw																																																										0
+Diamond Upgrade	1			100					9	"gcw,qty=9"							gsw																																																																																							0
+Diamond Upgrade	1			100					5	"gcw,qty=3"	"gfw,qty=2"						gsw																																																																																							0
+Diamond Upgrade	1			100					7	"gcw,qty=6"	gfw						gsw																																																																																							0
+Diamond Upgrade	1			100					7	"gcw,qty=3"	"gfw,qty=2"	"gsw,qty=2"					glw																																																																																							0
+Diamond Upgrade	1			100					9	"gcw,qty=3"	"gfw,qty=2"	"gsw,qty=2"	"glw,qty=2"				gpw																																																																																							0
+Diamond Upgrade	1			100					6	"gfw,qty=6"							gsw																													gsw																																																										0
+Diamond Upgrade	1			100					9	"gfw,qty=9"							glw																																																																																							0
+Diamond Upgrade	1			100					5	"gfw,qty=3"	"gsw,qty=2"						glw																																																																																							0
+Diamond Upgrade	1			100					7	"gfw,qty=6"	gsw						glw																																																																																							0
+Diamond Upgrade	1			100					7	"gfw,qty=3"	"gsw,qty=2"	"glw,qty=2"					gpw																																																																																							0
+Diamond Upgrade	1			100					6	"gsw,qty=6"							glw																													glw																																																										0
+Diamond Upgrade	1			100					9	"gsw,qty=9"							gpw																																																																																							0
+Diamond Upgrade	1			100					5	"gsw,qty=3"	"glw,qty=2"						gpw																																																																																							0
+Diamond Upgrade	1			100					7	"gsw,qty=6"	glw						gpw																																																																																							0
+Diamond Upgrade	1			100					6	"glw,qty=6"							gpw																													gpw																																																										0
+Diamond Upgrade	1			100					9	"glw,qty=9"							gpw																													gpw																													gpw																													0
+Skull Upgrade	1			100					6	"skc,qty=6"							skf																													skf																																																										0
+Skull Upgrade	1			100					9	"skc,qty=9"							sku																																																																																							0
+Skull Upgrade	1			100					5	"skc,qty=3"	"skf,qty=2"						sku																																																																																							0
+Skull Upgrade	1			100					7	"skc,qty=6"	skf						sku																																																																																							0
+Skull Upgrade	1			100					7	"skc,qty=3"	"skf,qty=2"	"sku,qty=2"					skl																																																																																							0
+Skull Upgrade	1			100					9	"skc,qty=3"	"skf,qty=2"	"sku,qty=2"	"skl,qty=2"				skz																																																																																							0
+Skull Upgrade	1			100					6	"skf,qty=6"							sku																													sku																																																										0
+Skull Upgrade	1			100					9	"skf,qty=9"							skl																																																																																							0
+Skull Upgrade	1			100					5	"skf,qty=3"	"sku,qty=2"						skl																																																																																							0
+Skull Upgrade	1			100					7	"skf,qty=6"	sku						skl																																																																																							0
+Skull Upgrade	1			100					7	"skf,qty=3"	"sku,qty=2"	"skl,qty=2"					skz																																																																																							0
+Skull Upgrade	1			100					6	"sku,qty=6"							skl																													skl																																																										0
+Skull Upgrade	1			100					9	"sku,qty=9"							skz																																																																																							0
+Skull Upgrade	1			100					5	"sku,qty=3"	"skl,qty=2"						skz																																																																																							0
+Skull Upgrade	1			100					7	"sku,qty=6"	skl						skz																																																																																							0
+Skull Upgrade	1			100					6	"skl,qty=6"							skz																													skz																																																										0
+Skull Upgrade	1			100					9	"skl,qty=9"							skz																													skz																													skz																													0
