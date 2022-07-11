@@ -647,21 +647,21 @@ Act 4 (H) Unique B	15	80	-3						Act 4 (H) Uitem B	1	Act 4 (H) Cpot B	2									
 Act 5 (H) Unique A	15	81	-3						Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																				0
 Act 5 (H) Unique B	15	83	-3						Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																				0
 Act 5 (H) Unique C	15	85	-3						Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																				0
-Quill 1	16	0	1						gld	0	Act 1 Junk	0																				0
-Quill 2	16	4	1						gld	0	Act 1 Junk	0																				0
-Quill 3	16	8	1						gld	0	Act 1 Junk	0	Act 1 Good	1																		0
-Quill 4	16	12	1						gld	0	Act 1 Junk	0	Act 1 Good	1																		0
-Quill 5	16	20	1						gld	0	Act 3 Junk	0	Act 3 Good	1																		0
-Quill 1 (N)	16	32	1						gld	0	Act 1 (N) Junk	0																				0
-Quill 2 (N)	16	35	1						gld	0	Act 1 (N) Junk	0	Act 1 (N) Good	1																		0
-Quill 3 (N)	16	38	1						gld	0	Act 1 (N) Junk	0	Act 1 (N) Good	1																		0
-Quill 4 (N)	16	40	1						gld	0	Act 1 (N) Junk	0	Act 1 (N) Good	1																		0
-Quill 5 (N)	16	46	1						gld	0	Act 3 (N) Junk	0	Act 3 (N) Good	1																		0
-Quill 1 (H)	16	60	1						gld	0	Act 1 (H) Junk	0																				0
-Quill 2 (H)	16	62	1						gld	0	Act 1 (H) Junk	0	Act 1 (H) Good	3																		0
-Quill 3 (H)	16	65	1						gld	0	Act 1 (H) Junk	0	Act 1 (H) Good	3																		0
-Quill 4 (H)	16	68	1						gld	0	Act 1 (H) Junk	0	Act 1 (H) Good	3																		0
-Quill 5 (H)	16	85	1						gld	0	Act 3 (H) Junk	0	Act 3 (H) Good	3																		0
+Quill 1	16	0	1					20	gld	0	Act 1 Junk	0																				0
+Quill 2	16	4	1					20	gld	0	Act 1 Junk	0																				0
+Quill 3	16	8	1					20	gld	0	Act 1 Junk	0	Act 1 Good	1																		0
+Quill 4	16	12	1					20	gld	0	Act 1 Junk	0	Act 1 Good	1																		0
+Quill 5	16	20	1					20	gld	0	Act 3 Junk	0	Act 3 Good	1																		0
+Quill 1 (N)	16	32	1					20	gld	0	Act 1 (N) Junk	0																				0
+Quill 2 (N)	16	35	1					20	gld	0	Act 1 (N) Junk	0	Act 1 (N) Good	1																		0
+Quill 3 (N)	16	38	1					20	gld	0	Act 1 (N) Junk	0	Act 1 (N) Good	1																		0
+Quill 4 (N)	16	40	1					20	gld	0	Act 1 (N) Junk	0	Act 1 (N) Good	1																		0
+Quill 5 (N)	16	46	1					20	gld	0	Act 3 (N) Junk	0	Act 3 (N) Good	1																		0
+Quill 1 (H)	16	60	1					20	gld	0	Act 1 (H) Junk	0																				0
+Quill 2 (H)	16	62	1					20	gld	0	Act 1 (H) Junk	0	Act 1 (H) Good	3																		0
+Quill 3 (H)	16	65	1					20	gld	0	Act 1 (H) Junk	0	Act 1 (H) Good	3																		0
+Quill 4 (H)	16	68	1					20	gld	0	Act 1 (H) Junk	0	Act 1 (H) Good	3																		0
+Quill 5 (H)	16	85	1					20	gld	0	Act 3 (H) Junk	0	Act 3 (H) Good	3																		0
 Swarm 1	17	0	1						Potion 2	0	Misc 1	0	Act 2 Good	1	Act 2 Magic A	6																0
 Swarm 2	17	20	1						Potion 3	0	Misc 2	0	Act 3 Good	1	Act 3 Magic A	6																0
 Swarm 1 (N)	17	40	1						Potion 6	0	Misc 2	0	Act 2 (N) Good	1	Act 2 (N) Magic A	6																0
