@@ -32,4 +32,3 @@ Bul-Kathos' Children	Bul-Kathos' Children	100	50																																
 Cow King's Leathers	Cow King's Leathers	100	20	res-pois		25	25																													stam		100	100	str		20	20	gold%		100	100	mag%		100	100	gethit-skill	42	25	5	swing3		30	30									0
 Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175																													allskills		1	1	regen		10	10	dex		15	15	res-all		50	50	str		20	20	mana		100	100									0
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
-Fine Set	Fine Set	100	1																																	dmg%		1234	1234	extra-all		333	333	pierce-all		333	333	regen-mana		98765	98765	regen-stam		98765	98765	cheap		100	100	addxp		666	666					0
