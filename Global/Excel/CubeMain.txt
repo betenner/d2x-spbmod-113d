@@ -311,10 +311,7 @@ Skull Upgrade	1			100					5	"sku,qty=3"	"skl,qty=2"						skz																				
 Skull Upgrade	1			100					7	"sku,qty=6"	skl						skz																																																																																							0
 Skull Upgrade	1			100					6	"skl,qty=6"							skz																													skz																																																										0
 Skull Upgrade	1			100					9	"skl,qty=9"							skz																													skz																													skz																													0
-Charm of Elemental	1			100					1	hpot							"Charm of Elemental,uni"	99																																																																																						0
-Charm of Weakness	1			100					1	key							"Charm of Weakness,uni"	99																																																																																						0
-Charm of Energy	1			100					1	mpot							"Charm of Energy,uni"	99																																																																																						0
-Charm of Damage	1			100					1	yps							"Charm of Damage,uni"	99																																																																																						0
+Charm of Skill	1			100					1	hpot							"Charm of Skill,uni"	99																																																																																						0
 Charm of Cheap	1			100					1	vps							"Charm of Cheap,uni"	99																																																																																						0
 Charm of Experience	1			100					1	wms							"Charm of Experience,uni"	99																																																																																						0
 #17 + #20 + 3 Perfect Topaz + 1 Set Torso Armor -> Socketed Torso Armor	1			100					6	"tors,set,nos"	r17	r20	"gpy,qty=3"				useitem				sock			6	6																																																																															0
