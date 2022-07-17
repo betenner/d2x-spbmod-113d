@@ -8,7 +8,7 @@ Fechmars Axe	0	1		1	1	11	8	lax	Large Axe			5	5000	lpur	lpur						dmg%		90	90	fre
 Goreshovel	0	1		1	1	19	14	bax	Broad Axe			5	5000	dpur	dpur						swing3		30	30	str		25	25	openwounds		60	60	dmg%		50	50	dmg-max		9	9																													0
 The Chieftan	0	1		1	1	26	19	btx	Battle Axe			5	5000	oran			invbtxu				dmg%		100	100	res-all		20	20	mana-kill		6	6	swing2		20	20	dmg-ltng		1	40																													0
 Brainhew	0	1		1	1	34	25	gax	Great Axe			5	5000	whit			invgaxu				dmg-min		14	14	mana		25	25	light		4	4	manasteal		13	13	dmg%		80	80	dmg-fire		15	35																									0
-The Humongous	0	1		1	1	39	29	gix	Giant Axe			5	5000	blac	blac						str		20	30	dmg-min		8	8	dmg-max		25	25	crush		33	33	ease		20	20	dmg%		120	120																									0
+The Humongous	0	1		1	1	39	29	gix	Giant Axe			5	5000	blac	blac						str		30	30	dmg-min		8	8	dmg-max		25	25	crush		33	33	ease		20	20	dmg%		120	120																									0
 Iros Torch	0	1		1	1	7	5	wnd	Wand			5	5000	cred			invwndu				nec		1	1	lifesteal		6	6	dmg-fire		5	9	light		3	3	enr		10	10	regen-mana		5	5																									0
 Maelstromwrath	0	1		1	1	19	14	ywn	Yew Wand			5	5000	dblu	dblu						ltng-min		1	1	ltng-max		9	9	res-ltng		40	40	mana		13	13	cast2		30	30	skill	74	3	3	skill	77	3	3	skill	66	3	3	skill	76	3	3													0
 Gravenspine	0	1		1	1	27	20	bwn	Bone Wand			5	5000	cgrn			invbwnu				str		10	10	dex		10	10	cold-min		4	4	cold-max		8	8	cold-len		75	75	manasteal		5	5	nec		2	2	mana		50	50																	0
