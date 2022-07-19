@@ -89,7 +89,7 @@ Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		10	10	lig
 Runeword89	Nature's Kingdom																																																0
 Runeword90	Night																																																0
 Runeword91	Oath	1		Previously Ladder Only	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		340	340	swing1		30	30	hit-skill	Bone Spirit	30	20	charged	IronGolem	14	17	charged	Heart of Wolverine	20	16	abs-mag		15	15	indestruct		1	1	0
-Runeword92	Obedience	1		Previously Ladder Only	pole	spea								HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	crush		40	40	kill-skill	enchant	30	21	pierce-fire		25	25	ac		300	300	balance3		40	40	res-all		20	30	0
+Runeword92	Obedience	1		Previously Ladder Only	pole	spea								HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	crush		40	40	kill-skill	enchant	30	21	pierce-fire		25	25	ac		300	300	balance3		40	40	res-all		30	30	0
 Runeword93	Oblivion																																																0
 Runeword94	Obsession	1	1	D2R Ladder 1	staf									ZodIstLemLumIoNef	r33	r24	r20	r17	r16	r04	allskills		4	4	gethit-skill	Weaken	24	10	cast3		65	65	balance3		60	60	res-all		70	70	hp%		25	25	regen-mana		30	30	0
 Runeword95	Passion	1		110	weap									DolOrtEldLem	r14	r09	r02	r20			dmg%		210	210	oskill	Zeal	1	1	att%		80	80	oskill	Berserk	1	1	swing2		25	25	charged	Heart of Wolverine	12	3	stupidity		10	10	0
