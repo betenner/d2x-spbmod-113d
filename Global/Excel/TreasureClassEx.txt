@@ -436,48 +436,48 @@ Act 4 (H) Wraith B	10	80	1						Act 4 (H) Good	4	Act 4 (H) Magic B	25											
 Act 5 (H) Wraith A	10	81	1						Act 5 (H) Good	4	Act 5 (H) Magic A	25																				0
 Act 5 (H) Wraith B	10	83	1						Act 5 (H) Good	4	Act 5 (H) Magic B	25																				0
 Act 5 (H) Wraith C	10	85	1						Act 5 (H) Good	4	Act 5 (H) Magic C	25																				0
-Act 1 Citem A	11	0	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 Equip A	37	Act 1 Good	3																		0
-Act 1 Citem B	11	5	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 Equip B	37	Act 1 Good	3																		0
-Act 1 Citem C	11	9	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 Equip C	37	Act 1 Good	3																		0
-Act 2 Citem A	11	12	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 Equip A	37	Act 2 Good	3																		0
-Act 2 Citem B	11	15	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 Equip B	37	Act 2 Good	3																		0
-Act 2 Citem C	11	18	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 Equip C	37	Act 3 Good	3																		0
-Act 3 Citem A	11	20	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 Equip A	37	Act 3 Good	3																		0
-Act 3 Citem B	11	22	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 Equip B	37	Act 3 Good	3																		0
-Act 3 Citem C	11	24	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 Equip C	37	Act 3 Good	3																		0
-Act 4 Citem A	11	26	1	922	960	1024	1024		"gld,mul=1280"	0	Act 4 Equip A	37	Act 4 Good	3																		0
-Act 4 Citem B	11	29	1	922	960	1024	1024		"gld,mul=1280"	0	Act 4 Equip B	37	Act 4 Good	3																		0
-Act 5 Citem A	11	32	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 Equip A	37	Act 5 Good	3																		0
-Act 5 Citem B	11	34	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 Equip B	37	Act 5 Good	3																		0
-Act 5 Citem C	11	36	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 Equip C	37	Act 5 Good	3																		0
-Act 1 (N) Citem A	11	38	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip A	37	Act 1 (N) Good	3																		0
-Act 1 (N) Citem B	11	40	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip B	37	Act 1 (N) Good	3																		0
-Act 1 (N) Citem C	11	41	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip B	37	Act 1 (N) Good	3																		0
-Act 2 (N) Citem A	11	42	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 (N) Equip A	37	Act 2 (N) Good	3																		0
-Act 2 (N) Citem B	11	44	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 (N) Equip B	37	Act 2 (N) Good	3																		0
-Act 2 (N) Citem C	11	45	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 (N) Equip B	37	Act 2 (N) Good	3																		0
-Act 3 (N) Citem A	11	46	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 (N) Equip A	37	Act 3 (N) Good	3																		0
-Act 3 (N) Citem B	11	48	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 (N) Equip B	37	Act 3 (N) Good	3																		0
-Act 3 (N) Citem C	11	50	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 (N) Equip B	37	Act 3 (N) Good	3																		0
-Act 4 (N) Citem A	11	51	1	922	960	1024	1024		"gld,mul=1280"	0	Act 4 (N) Equip A	37	Act 4 (N) Good	3																		0
-Act 4 (N) Citem B	11	54	1	922	960	1024	1024		"gld,mul=1280"	0	Act 4 (N) Equip B	37	Act 4 (N) Good	3																		0
-Act 5 (N) Citem A	11	57	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 (N) Equip A	37	Act 5 (N) Good	3																		0
-Act 5 (N) Citem B	11	60	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 (N) Equip B	37	Act 5 (N) Good	3																		0
-Act 5 (N) Citem C	11	62	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 (N) Equip C	37	Act 5 (N) Good	3																		0
-Act 1 (H) Citem A	11	63	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 (H) Equip A	37	Act 1 (H) Good	3																		0
-Act 1 (H) Citem B	11	66	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 (H) Equip B	37	Act 1 (H) Good	3																		0
-Act 1 (H) Citem C	11	68	1	922	960	1024	1024		"gld,mul=1280"	0	Act 1 (H) Equip B	37	Act 1 (H) Good	3																		0
-Act 2 (H) Citem A	11	69	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 (H) Equip A	37	Act 2 (H) Good	3																		0
-Act 2 (H) Citem B	11	71	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 (H) Equip B	37	Act 2 (H) Good	3																		0
-Act 2 (H) Citem C	11	72	1	922	960	1024	1024		"gld,mul=1280"	0	Act 2 (H) Equip B	37	Act 2 (H) Good	3																		0
-Act 3 (H) Citem A	11	74	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 (H) Equip A	37	Act 3 (H) Good	3																		0
-Act 3 (H) Citem B	11	75	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 (H) Equip B	37	Act 3 (H) Good	3																		0
-Act 3 (H) Citem C	11	77	1	922	960	1024	1024		"gld,mul=1280"	0	Act 3 (H) Equip B	37	Act 3 (H) Good	3																		0
-Act 4 (H) Citem A	11	78	1	922	960	1024	1024		"gld,mul=1280"	0	Act 4 (H) Equip A	37	Act 4 (H) Good	3																		0
-Act 4 (H) Citem B	11	80	1	922	960	1024	1024		"gld,mul=1280"	0	Act 4 (H) Equip B	37	Act 4 (H) Good	3																		0
-Act 5 (H) Citem A	11	81	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 (H) Equip A	37	Act 5 (H) Good	3																		0
-Act 5 (H) Citem B	11	83	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 (H) Equip B	37	Act 5 (H) Good	3																		0
-Act 5 (H) Citem C	11	85	1	922	960	1024	1024		"gld,mul=1280"	0	Act 5 (H) Equip C	37	Act 5 (H) Good	3																		0
+Act 1 Citem A	11	0	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 Equip A	37	Act 1 Good	3																		0
+Act 1 Citem B	11	5	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 Equip B	37	Act 1 Good	3																		0
+Act 1 Citem C	11	9	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 Equip C	37	Act 1 Good	3																		0
+Act 2 Citem A	11	12	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 Equip A	37	Act 2 Good	3																		0
+Act 2 Citem B	11	15	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 Equip B	37	Act 2 Good	3																		0
+Act 2 Citem C	11	18	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 Equip C	37	Act 3 Good	3																		0
+Act 3 Citem A	11	20	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 Equip A	37	Act 3 Good	3																		0
+Act 3 Citem B	11	22	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 Equip B	37	Act 3 Good	3																		0
+Act 3 Citem C	11	24	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 Equip C	37	Act 3 Good	3																		0
+Act 4 Citem A	11	26	1	983	993	1024	1024		"gld,mul=1280"	0	Act 4 Equip A	37	Act 4 Good	3																		0
+Act 4 Citem B	11	29	1	983	993	1024	1024		"gld,mul=1280"	0	Act 4 Equip B	37	Act 4 Good	3																		0
+Act 5 Citem A	11	32	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 Equip A	37	Act 5 Good	3																		0
+Act 5 Citem B	11	34	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 Equip B	37	Act 5 Good	3																		0
+Act 5 Citem C	11	36	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 Equip C	37	Act 5 Good	3																		0
+Act 1 (N) Citem A	11	38	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip A	37	Act 1 (N) Good	3																		0
+Act 1 (N) Citem B	11	40	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip B	37	Act 1 (N) Good	3																		0
+Act 1 (N) Citem C	11	41	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip B	37	Act 1 (N) Good	3																		0
+Act 2 (N) Citem A	11	42	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 (N) Equip A	37	Act 2 (N) Good	3																		0
+Act 2 (N) Citem B	11	44	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 (N) Equip B	37	Act 2 (N) Good	3																		0
+Act 2 (N) Citem C	11	45	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 (N) Equip B	37	Act 2 (N) Good	3																		0
+Act 3 (N) Citem A	11	46	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 (N) Equip A	37	Act 3 (N) Good	3																		0
+Act 3 (N) Citem B	11	48	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 (N) Equip B	37	Act 3 (N) Good	3																		0
+Act 3 (N) Citem C	11	50	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 (N) Equip B	37	Act 3 (N) Good	3																		0
+Act 4 (N) Citem A	11	51	1	983	993	1024	1024		"gld,mul=1280"	0	Act 4 (N) Equip A	37	Act 4 (N) Good	3																		0
+Act 4 (N) Citem B	11	54	1	983	993	1024	1024		"gld,mul=1280"	0	Act 4 (N) Equip B	37	Act 4 (N) Good	3																		0
+Act 5 (N) Citem A	11	57	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 (N) Equip A	37	Act 5 (N) Good	3																		0
+Act 5 (N) Citem B	11	60	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 (N) Equip B	37	Act 5 (N) Good	3																		0
+Act 5 (N) Citem C	11	62	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 (N) Equip C	37	Act 5 (N) Good	3																		0
+Act 1 (H) Citem A	11	63	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 (H) Equip A	37	Act 1 (H) Good	3																		0
+Act 1 (H) Citem B	11	66	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 (H) Equip B	37	Act 1 (H) Good	3																		0
+Act 1 (H) Citem C	11	68	1	983	993	1024	1024		"gld,mul=1280"	0	Act 1 (H) Equip B	37	Act 1 (H) Good	3																		0
+Act 2 (H) Citem A	11	69	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 (H) Equip A	37	Act 2 (H) Good	3																		0
+Act 2 (H) Citem B	11	71	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 (H) Equip B	37	Act 2 (H) Good	3																		0
+Act 2 (H) Citem C	11	72	1	983	993	1024	1024		"gld,mul=1280"	0	Act 2 (H) Equip B	37	Act 2 (H) Good	3																		0
+Act 3 (H) Citem A	11	74	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 (H) Equip A	37	Act 3 (H) Good	3																		0
+Act 3 (H) Citem B	11	75	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 (H) Equip B	37	Act 3 (H) Good	3																		0
+Act 3 (H) Citem C	11	77	1	983	993	1024	1024		"gld,mul=1280"	0	Act 3 (H) Equip B	37	Act 3 (H) Good	3																		0
+Act 4 (H) Citem A	11	78	1	983	993	1024	1024		"gld,mul=1280"	0	Act 4 (H) Equip A	37	Act 4 (H) Good	3																		0
+Act 4 (H) Citem B	11	80	1	983	993	1024	1024		"gld,mul=1280"	0	Act 4 (H) Equip B	37	Act 4 (H) Good	3																		0
+Act 5 (H) Citem A	11	81	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 (H) Equip A	37	Act 5 (H) Good	3																		0
+Act 5 (H) Citem B	11	83	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 (H) Equip B	37	Act 5 (H) Good	3																		0
+Act 5 (H) Citem C	11	85	1	983	993	1024	1024		"gld,mul=1280"	0	Act 5 (H) Equip C	37	Act 5 (H) Good	3																		0
 Act 1 Cpot A	12	0	2						Hpotion 1	1																						0
 Act 1 Cpot B	12	5	2						Hpotion 1	1																						0
 Act 1 Cpot C	12	9	2						Hpotion 1	1																						0
@@ -563,48 +563,48 @@ Act 4 (H) Champ B	13	80	-1						Act 4 (H) Citem B	1																						0
 Act 5 (H) Champ A	13	81	-1						Act 5 (H) Citem A	1																						0
 Act 5 (H) Champ B	13	83	-1						Act 5 (H) Citem B	1																						0
 Act 5 (H) Champ C	13	85	-1						Act 5 (H) Citem C	1																						0
-Act 1 Uitem A	14	0	1	960	992	1024	1024		Act 1 Equip A	58	Act 1 Good	4																				0
-Act 1 Uitem B	14	5	1	960	992	1024	1024		Act 1 Equip B	58	Act 1 Good	4																				0
-Act 1 Uitem C	14	9	1	960	992	1024	1024		Act 1 Equip C	58	Act 1 Good	4																				0
-Act 2 Uitem A	14	12	1	960	992	1024	1024		Act 2 Equip A	58	Act 2 Good	4																				0
-Act 2 Uitem B	14	15	1	960	992	1024	1024		Act 2 Equip B	58	Act 2 Good	4																				0
-Act 2 Uitem C	14	18	1	960	992	1024	1024		Act 2 Equip C	58	Act 3 Good	4																				0
-Act 3 Uitem A	14	20	1	960	992	1024	1024		Act 3 Equip A	58	Act 3 Good	4																				0
-Act 3 Uitem B	14	22	1	960	992	1024	1024		Act 3 Equip B	58	Act 3 Good	4																				0
-Act 3 Uitem C	14	24	1	960	992	1024	1024		Act 3 Equip C	58	Act 3 Good	4																				0
-Act 4 Uitem A	14	26	1	960	992	1024	1024		Act 4 Equip A	58	Act 4 Good	4																				0
-Act 4 Uitem B	14	29	1	960	992	1024	1024		Act 4 Equip B	58	Act 4 Good	4																				0
-Act 5 Uitem A	14	32	1	960	992	1024	1024		Act 5 Equip A	58	Act 5 Good	4																				0
-Act 5 Uitem B	14	34	1	960	992	1024	1024		Act 5 Equip B	58	Act 5 Good	4																				0
-Act 5 Uitem C	14	36	1	960	992	1024	1024		Act 5 Equip C	58	Act 5 Good	4																				0
-Act 1 (N) Uitem A	14	38	1	960	992	1024	1024		Act 1 (N) Equip A	58	Act 1 (N) Good	4																				0
-Act 1 (N) Uitem B	14	40	1	960	992	1024	1024		Act 1 (N) Equip B	58	Act 1 (N) Good	4																				0
-Act 1 (N) Uitem C	14	41	1	960	992	1024	1024		Act 1 (N) Equip B	58	Act 1 (N) Good	4																				0
-Act 2 (N) Uitem A	14	42	1	960	992	1024	1024		Act 2 (N) Equip A	58	Act 2 (N) Good	4																				0
-Act 2 (N) Uitem B	14	44	1	960	992	1024	1024		Act 2 (N) Equip B	58	Act 2 (N) Good	4																				0
-Act 2 (N) Uitem C	14	45	1	960	992	1024	1024		Act 2 (N) Equip B	58	Act 2 (N) Good	4																				0
-Act 3 (N) Uitem A	14	46	1	960	992	1024	1024		Act 3 (N) Equip A	58	Act 3 (N) Good	4																				0
-Act 3 (N) Uitem B	14	48	1	960	992	1024	1024		Act 3 (N) Equip B	58	Act 3 (N) Good	4																				0
-Act 3 (N) Uitem C	14	50	1	960	992	1024	1024		Act 3 (N) Equip B	58	Act 3 (N) Good	4																				0
-Act 4 (N) Uitem A	14	51	1	960	992	1024	1024		Act 4 (N) Equip A	58	Act 4 (N) Good	4																				0
-Act 4 (N) Uitem B	14	54	1	960	992	1024	1024		Act 4 (N) Equip B	58	Act 4 (N) Good	4																				0
-Act 5 (N) Uitem A	14	57	1	960	992	1024	1024		Act 5 (N) Equip A	58	Act 5 (N) Good	4																				0
-Act 5 (N) Uitem B	14	60	1	960	992	1024	1024		Act 5 (N) Equip B	58	Act 5 (N) Good	4																				0
-Act 5 (N) Uitem C	14	62	1	960	992	1024	1024		Act 5 (N) Equip C	58	Act 5 (N) Good	4																				0
-Act 1 (H) Uitem A	14	63	1	960	992	1024	1024		Act 1 (H) Equip A	58	Act 1 (H) Good	4																				0
-Act 1 (H) Uitem B	14	66	1	960	992	1024	1024		Act 1 (H) Equip B	58	Act 1 (H) Good	4																				0
-Act 1 (H) Uitem C	14	68	1	960	992	1024	1024		Act 1 (H) Equip B	58	Act 1 (H) Good	4																				0
-Act 2 (H) Uitem A	14	69	1	960	992	1024	1024		Act 2 (H) Equip A	58	Act 2 (H) Good	4																				0
-Act 2 (H) Uitem B	14	71	1	960	992	1024	1024		Act 2 (H) Equip B	58	Act 2 (H) Good	4																				0
-Act 2 (H) Uitem C	14	72	1	960	992	1024	1024		Act 2 (H) Equip B	58	Act 2 (H) Good	4																				0
-Act 3 (H) Uitem A	14	74	1	960	992	1024	1024		Act 3 (H) Equip A	58	Act 3 (H) Good	4																				0
-Act 3 (H) Uitem B	14	75	1	960	992	1024	1024		Act 3 (H) Equip B	58	Act 3 (H) Good	4																				0
-Act 3 (H) Uitem C	14	77	1	960	992	1024	1024		Act 3 (H) Equip B	58	Act 3 (H) Good	4																				0
-Act 4 (H) Uitem A	14	78	1	960	992	1024	1024		Act 4 (H) Equip A	58	Act 4 (H) Good	4																				0
-Act 4 (H) Uitem B	14	80	1	960	992	1024	1024		Act 4 (H) Equip B	58	Act 4 (H) Good	4																				0
-Act 5 (H) Uitem A	14	81	1	960	992	1024	1024		Act 5 (H) Equip A	58	Act 5 (H) Good	4																				0
-Act 5 (H) Uitem B	14	83	1	960	992	1024	1024		Act 5 (H) Equip B	58	Act 5 (H) Good	4																				0
-Act 5 (H) Uitem C	14	85	1	960	992	1024	1024		Act 5 (H) Equip C	58	Act 5 (H) Good	4																				0
+Act 1 Uitem A	14	0	1	995	1004	1024	1024		Act 1 Equip A	58	Act 1 Good	4																				0
+Act 1 Uitem B	14	5	1	995	1004	1024	1024		Act 1 Equip B	58	Act 1 Good	4																				0
+Act 1 Uitem C	14	9	1	995	1004	1024	1024		Act 1 Equip C	58	Act 1 Good	4																				0
+Act 2 Uitem A	14	12	1	995	1004	1024	1024		Act 2 Equip A	58	Act 2 Good	4																				0
+Act 2 Uitem B	14	15	1	995	1004	1024	1024		Act 2 Equip B	58	Act 2 Good	4																				0
+Act 2 Uitem C	14	18	1	995	1004	1024	1024		Act 2 Equip C	58	Act 3 Good	4																				0
+Act 3 Uitem A	14	20	1	995	1004	1024	1024		Act 3 Equip A	58	Act 3 Good	4																				0
+Act 3 Uitem B	14	22	1	995	1004	1024	1024		Act 3 Equip B	58	Act 3 Good	4																				0
+Act 3 Uitem C	14	24	1	995	1004	1024	1024		Act 3 Equip C	58	Act 3 Good	4																				0
+Act 4 Uitem A	14	26	1	995	1004	1024	1024		Act 4 Equip A	58	Act 4 Good	4																				0
+Act 4 Uitem B	14	29	1	995	1004	1024	1024		Act 4 Equip B	58	Act 4 Good	4																				0
+Act 5 Uitem A	14	32	1	995	1004	1024	1024		Act 5 Equip A	58	Act 5 Good	4																				0
+Act 5 Uitem B	14	34	1	995	1004	1024	1024		Act 5 Equip B	58	Act 5 Good	4																				0
+Act 5 Uitem C	14	36	1	995	1004	1024	1024		Act 5 Equip C	58	Act 5 Good	4																				0
+Act 1 (N) Uitem A	14	38	1	995	1004	1024	1024		Act 1 (N) Equip A	58	Act 1 (N) Good	4																				0
+Act 1 (N) Uitem B	14	40	1	995	1004	1024	1024		Act 1 (N) Equip B	58	Act 1 (N) Good	4																				0
+Act 1 (N) Uitem C	14	41	1	995	1004	1024	1024		Act 1 (N) Equip B	58	Act 1 (N) Good	4																				0
+Act 2 (N) Uitem A	14	42	1	995	1004	1024	1024		Act 2 (N) Equip A	58	Act 2 (N) Good	4																				0
+Act 2 (N) Uitem B	14	44	1	995	1004	1024	1024		Act 2 (N) Equip B	58	Act 2 (N) Good	4																				0
+Act 2 (N) Uitem C	14	45	1	995	1004	1024	1024		Act 2 (N) Equip B	58	Act 2 (N) Good	4																				0
+Act 3 (N) Uitem A	14	46	1	995	1004	1024	1024		Act 3 (N) Equip A	58	Act 3 (N) Good	4																				0
+Act 3 (N) Uitem B	14	48	1	995	1004	1024	1024		Act 3 (N) Equip B	58	Act 3 (N) Good	4																				0
+Act 3 (N) Uitem C	14	50	1	995	1004	1024	1024		Act 3 (N) Equip B	58	Act 3 (N) Good	4																				0
+Act 4 (N) Uitem A	14	51	1	995	1004	1024	1024		Act 4 (N) Equip A	58	Act 4 (N) Good	4																				0
+Act 4 (N) Uitem B	14	54	1	995	1004	1024	1024		Act 4 (N) Equip B	58	Act 4 (N) Good	4																				0
+Act 5 (N) Uitem A	14	57	1	995	1004	1024	1024		Act 5 (N) Equip A	58	Act 5 (N) Good	4																				0
+Act 5 (N) Uitem B	14	60	1	995	1004	1024	1024		Act 5 (N) Equip B	58	Act 5 (N) Good	4																				0
+Act 5 (N) Uitem C	14	62	1	995	1004	1024	1024		Act 5 (N) Equip C	58	Act 5 (N) Good	4																				0
+Act 1 (H) Uitem A	14	63	1	995	1004	1024	1024		Act 1 (H) Equip A	58	Act 1 (H) Good	4																				0
+Act 1 (H) Uitem B	14	66	1	995	1004	1024	1024		Act 1 (H) Equip B	58	Act 1 (H) Good	4																				0
+Act 1 (H) Uitem C	14	68	1	995	1004	1024	1024		Act 1 (H) Equip B	58	Act 1 (H) Good	4																				0
+Act 2 (H) Uitem A	14	69	1	995	1004	1024	1024		Act 2 (H) Equip A	58	Act 2 (H) Good	4																				0
+Act 2 (H) Uitem B	14	71	1	995	1004	1024	1024		Act 2 (H) Equip B	58	Act 2 (H) Good	4																				0
+Act 2 (H) Uitem C	14	72	1	995	1004	1024	1024		Act 2 (H) Equip B	58	Act 2 (H) Good	4																				0
+Act 3 (H) Uitem A	14	74	1	995	1004	1024	1024		Act 3 (H) Equip A	58	Act 3 (H) Good	4																				0
+Act 3 (H) Uitem B	14	75	1	995	1004	1024	1024		Act 3 (H) Equip B	58	Act 3 (H) Good	4																				0
+Act 3 (H) Uitem C	14	77	1	995	1004	1024	1024		Act 3 (H) Equip B	58	Act 3 (H) Good	4																				0
+Act 4 (H) Uitem A	14	78	1	995	1004	1024	1024		Act 4 (H) Equip A	58	Act 4 (H) Good	4																				0
+Act 4 (H) Uitem B	14	80	1	995	1004	1024	1024		Act 4 (H) Equip B	58	Act 4 (H) Good	4																				0
+Act 5 (H) Uitem A	14	81	1	995	1004	1024	1024		Act 5 (H) Equip A	58	Act 5 (H) Good	4																				0
+Act 5 (H) Uitem B	14	83	1	995	1004	1024	1024		Act 5 (H) Equip B	58	Act 5 (H) Good	4																				0
+Act 5 (H) Uitem C	14	85	1	995	1004	1024	1024		Act 5 (H) Equip C	58	Act 5 (H) Good	4																				0
 Act 1 Unique A	15	0	-1						Act 1 Uitem A	1																						0
 Act 1 Unique B	15	5	-1						Act 1 Uitem B	1																						0
 Act 1 Unique C	15	9	-1						Act 1 Uitem C	1																						0
@@ -668,36 +668,36 @@ Swarm 1 (N)	17	40	1					40	Potion 6	0	Misc 2	0	Act 2 (N) Good	1	Act 2 (N) Magic 
 Swarm 2 (N)	17	46	1					40	Potion 6	0	Misc 2	0	Act 3 (N) Good	1	Act 3 (N) Magic A	6																0
 Swarm 1 (H)	17	68	1					40	Potion 6	0	Misc 2	0	Act 2 (H) Good	1	Act 2 (H) Magic A	6																0
 Swarm 2 (H)	17	74	1					40	Potion 6	0	Misc 2	0	Act 3 (H) Good	1	Act 3 (H) Magic A	6																0
-Andariel			7	1004	1014	1024	1024		"gld,mul=1280"	0	Act 2 Equip A	19	Act 2 Junk	0	Act 2 Good	3																0
-Andariel (N)			7	1004	1014	1024	1024		"gld,mul=1536"	0	Act 2 (N) Equip A	19	Act 2 (N) Junk	0	Act 2 (N) Good	3																0
-Andariel (H)			7	1004	1014	1024	1024		"gld,mul=2048"	0	Act 2 (H) Equip A	19	Act 2 (H) Junk	0	Act 2 (H) Good	3	tes	1														0
-Andarielq			7	1004	1014	1024	1024		Act 2 Equip A	19	Act 2 Good	3																				0
-Andarielq (N)			7	1004	1014	1024	1024		Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
-Andarielq (H)			7	1004	1014	1024	1024		Act 2 (H) Equip A	19	Act 2 (H) Good	3	tes	1																		0
-Duriel - Base			7	1004	1014	1024	1024		"gld,mul=1280"	0	Act 3 Equip A	19	Act 3 Junk	0	Act 3 Good	3																0
-Duriel (N) - Base			7	1004	1014	1024	1024		"gld,mul=1536"	0	Act 3 (N) Equip A	19	Act 3 (N) Junk	0	Act 3 (N) Good	3																0
-Duriel (H) - Base			7	1004	1014	1024	1024		"gld,mul=2048"	0	Act 3 (H) Equip A	19	Act 3 (H) Junk	0	Act 3 (H) Good	3	tes	2														0
-Durielq - Base			7	1004	1014	1024	1024		Act 3 Equip A	19	Act 3 Good	3																				0
-Durielq (N) - Base			7	1004	1014	1024	1024		Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
-Durielq (H) - Base			7	1004	1014	1024	1024		Act 3 (H) Equip A	19	Act 3 (H) Good	3	tes	2																		0
+Andariel			7	1014	1024	1024	1024		"gld,mul=1280"	0	Act 2 Equip A	19	Act 2 Junk	0	Act 2 Good	3																0
+Andariel (N)			7	1014	1024	1024	1024		"gld,mul=1536"	0	Act 2 (N) Equip A	19	Act 2 (N) Junk	0	Act 2 (N) Good	3																0
+Andariel (H)			7	1014	1024	1024	1024		"gld,mul=2048"	0	Act 2 (H) Equip A	19	Act 2 (H) Junk	0	Act 2 (H) Good	3	tes	1														0
+Andarielq			7	1014	1024	1024	1024		Act 2 Equip A	19	Act 2 Good	3																				0
+Andarielq (N)			7	1014	1024	1024	1024		Act 2 (N) Equip A	19	Act 2 (N) Good	3																				0
+Andarielq (H)			7	1014	1024	1024	1024		Act 2 (H) Equip A	19	Act 2 (H) Good	3	tes	1																		0
+Duriel - Base			7	1014	1024	1024	1024		"gld,mul=1280"	0	Act 3 Equip A	19	Act 3 Junk	0	Act 3 Good	3																0
+Duriel (N) - Base			7	1014	1024	1024	1024		"gld,mul=1536"	0	Act 3 (N) Equip A	19	Act 3 (N) Junk	0	Act 3 (N) Good	3																0
+Duriel (H) - Base			7	1014	1024	1024	1024		"gld,mul=2048"	0	Act 3 (H) Equip A	19	Act 3 (H) Junk	0	Act 3 (H) Good	3	tes	2														0
+Durielq - Base			7	1014	1024	1024	1024		Act 3 Equip A	19	Act 3 Good	3																				0
+Durielq (N) - Base			7	1014	1024	1024	1024		Act 3 (N) Equip A	19	Act 3 (N) Good	3																				0
+Durielq (H) - Base			7	1014	1024	1024	1024		Act 3 (H) Equip A	19	Act 3 (H) Good	3	tes	2																		0
 Radament			5	900	900	900	1024		"gld,mul=1280"	0	Act 3 Equip B	19	Act 3 Junk	0	Act 3 Good	3																0
 Radament (N)			5	900	900	900	1024		"gld,mul=1536"	0	Act 3 (N) Equip B	19	Act 3 (N) Junk	0	Act 3 (N) Good	3																0
 Radament (H)			5	900	900	900	1024		"gld,mul=2048"	0	Act 3 (H) Equip C	19	Act 3 (H) Junk	0	Act 3 (H) Good	3																0
 Flying Scimitar			1						Act 2 Good	3	scm	57																				0
 Flying Scimitar (N)			1						Act 2 (N) Good	3	scm	25	9sm	32																		0
 Flying Scimitar (H)			1						Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
-Mephisto			7	1004	1014	1024	1024		"gld,mul=1280"	0	Act 4 Equip A	52	Act 4 Junk	0	Act 4 Good	3																0
-Mephisto (N)			7	1004	1014	1024	1024		"gld,mul=1536"	0	Act 4 (N) Equip A	52	Act 4 (N) Junk	0	Act 4 (N) Good	3																0
-Mephisto (H)			7	1004	1014	1024	1024		"gld,mul=2048"	0	Act 4 (H) Equip A	52	Act 4 (H) Junk	0	Act 4 (H) Good	3	ceh	1														0
-Mephistoq			7	1004	1014	1024	1024		Act 4 Equip A	52	Act 4 Good	3																				0
-Mephistoq (N)			7	1004	1014	1024	1024		Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
-Mephistoq (H)			7	1004	1014	1024	1024		Act 4 (H) Equip A	52	Act 4 (H) Good	3	ceh	1																		0
-Diablo			7	1004	1014	1024	1024		"gld,mul=1280"	0	Act 5 Equip A	52	Act 5 Junk	0	Act 5 Good	3																0
-Diablo (N)			7	1004	1014	1024	1024		"gld,mul=1536"	0	Act 5 (N) Equip A	52	Act 5 (N) Junk	0	Act 5 (N) Good	3																0
-Diablo (H)			7	1004	1014	1024	1024		"gld,mul=2048"	0	Act 5 (H) Equip A	52	Act 5 (H) Junk	0	Act 5 (H) Good	3	bet	1														0
-Diabloq			7	1004	1014	1024	1024		Act 5 Equip A	52	Act 5 Good	3																				0
-Diabloq (N)			7	1004	1014	1024	1024		Act 5 (N) Equip A	52	Act 5 (N) Good	3																				0
-Diabloq (H)			7	1004	1014	1024	1024		Act 5 (H) Equip A	52	Act 5 (H) Good	3	bet	1																		0
+Mephisto			7	1014	1024	1024	1024		"gld,mul=1280"	0	Act 4 Equip A	52	Act 4 Junk	0	Act 4 Good	3																0
+Mephisto (N)			7	1014	1024	1024	1024		"gld,mul=1536"	0	Act 4 (N) Equip A	52	Act 4 (N) Junk	0	Act 4 (N) Good	3																0
+Mephisto (H)			7	1014	1024	1024	1024		"gld,mul=2048"	0	Act 4 (H) Equip A	52	Act 4 (H) Junk	0	Act 4 (H) Good	3	ceh	1														0
+Mephistoq			7	1014	1024	1024	1024		Act 4 Equip A	52	Act 4 Good	3																				0
+Mephistoq (N)			7	1014	1024	1024	1024		Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
+Mephistoq (H)			7	1014	1024	1024	1024		Act 4 (H) Equip A	52	Act 4 (H) Good	3	ceh	1																		0
+Diablo			7	1014	1024	1024	1024		"gld,mul=1280"	0	Act 5 Equip A	52	Act 5 Junk	0	Act 5 Good	3																0
+Diablo (N)			7	1014	1024	1024	1024		"gld,mul=1536"	0	Act 5 (N) Equip A	52	Act 5 (N) Junk	0	Act 5 (N) Good	3																0
+Diablo (H)			7	1014	1024	1024	1024		"gld,mul=2048"	0	Act 5 (H) Equip A	52	Act 5 (H) Junk	0	Act 5 (H) Good	3	bet	1														0
+Diabloq			7	1014	1024	1024	1024		Act 5 Equip A	52	Act 5 Good	3																				0
+Diabloq (N)			7	1014	1024	1024	1024		Act 5 (N) Equip A	52	Act 5 (N) Good	3																				0
+Diabloq (H)			7	1014	1024	1024	1024		Act 5 (H) Equip A	52	Act 5 (H) Good	3	bet	1																		0
 Summoner			5	900	900	972	1024		"gld,mul=1280"	0	Act 2 Equip C	15	Act 3 Junk	0	Act 2 Good	3	Act 3 Magic A	4														0
 Summoner (N)			5	900	900	972	1024		"gld,mul=1536"	0	Act 2 (N) Equip C	15	Act 3 (N) Junk	0	Act 2 (N) Good	3	Act 3 (N) Magic A	4														0
 Summoner (H)			5	900	900	972	1024		"gld,mul=2048"	0	Act 2 (H) Equip C	15	Act 3 (H) Junk	0	Act 2 (H) Good	3	Act 3 (H) Magic A	4	pk2	78												0
@@ -719,12 +719,12 @@ Haphesto (H)			5	800	800	900	1024		"gld,mul=2048"	0	Act 5 (H) Equip A	19	Act 5 (
 Nihlathak			5	900	900	900	1024		"gld,mul=1280"	0	Act 5 Equip B	19	Act 5 Junk	0	Act 5 Good	3																0
 Nihlathak (N)			5	900	900	900	1024		"gld,mul=1536"	0	Act 5 (N) Equip B	19	Act 5 (N) Junk	0	Act 5 (N) Good	3																0
 Nihlathak (H)			5	900	900	900	1024		"gld,mul=2048"	0	Act 5 (H) Equip B	19	Act 5 (H) Junk	0	Act 5 (H) Good	3	pk3	78														0
-Baal			7	1004	1014	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip A	52	Act 1 (N) Junk	0	Act 1 (N) Good	3																0
-Baal (N)			7	1004	1014	1024	1024		"gld,mul=1536"	0	Act 1 (H) Equip A	52	Act 1 (H) Junk	0	Act 1 (H) Good	3																0
-Baal (H)			7	1004	1014	1024	1024		"gld,mul=2048"	0	Act 5 (H) Equip B	52	Act 5 (H) Junk	0	Act 5 (H) Good	3	fed	1														0
-Baalq			7	1004	1014	1024	1024		Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
-Baalq (N)			7	1004	1014	1024	1024		Act 1 (H) Equip A	52	Act 1 (H) Good	3																				0
-Baalq (H)			7	1004	1014	1024	1024		Act 5 (H) Equip B	52	Act 5 (H) Good	3	fed	1																		0
+Baal			7	1014	1024	1024	1024		"gld,mul=1280"	0	Act 1 (N) Equip A	52	Act 1 (N) Junk	0	Act 1 (N) Good	3																0
+Baal (N)			7	1014	1024	1024	1024		"gld,mul=1536"	0	Act 1 (H) Equip A	52	Act 1 (H) Junk	0	Act 1 (H) Good	3																0
+Baal (H)			7	1014	1024	1024	1024		"gld,mul=2048"	0	Act 5 (H) Equip B	52	Act 5 (H) Junk	0	Act 5 (H) Good	3	fed	1														0
+Baalq			7	1014	1024	1024	1024		Act 1 (N) Equip A	52	Act 1 (N) Good	3																				0
+Baalq (N)			7	1014	1024	1024	1024		Act 1 (H) Equip A	52	Act 1 (H) Good	3																				0
+Baalq (H)			7	1014	1024	1024	1024		Act 5 (H) Equip B	52	Act 5 (H) Good	3	fed	1																		0
 Blood Raven			5	800	800	972	1024		"gld,mul=1280"	0	Act 1 Equip B	19	Act 1 Junk	0	Act 1 Good	3																0
 Blood Raven (N)			5	800	800	972	1024		"gld,mul=1536"	0	Act 1 (N) Equip B	19	Act 1 (N) Junk	0	Act 1 (N) Good	3																0
 Blood Raven (H)			5	800	800	972	1024		"gld,mul=2048"	0	Act 1 (H) Equip B	19	Act 1 (H) Junk	0	Act 1 (H) Good	3																0
@@ -734,99 +734,99 @@ Smith (H)			-3						Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Izual			5	800	800	972	1024		"gld,mul=1280"	0	Act 4 Equip B	19	Act 4 Junk	0	Act 4 Good	3																0
 Izual (N)			5	800	800	972	1024		"gld,mul=1536"	0	Act 4 (N) Equip B	19	Act 4 (N) Junk	0	Act 4 (N) Good	3																0
 Izual (H)			5	800	800	972	1024		"gld,mul=2048"	0	Act 4 (H) Equip B	19	Act 4 (H) Junk	0	Act 4 (H) Good	3																0
-Act 1 Super A	18	0	-2	992	992	1024	1024		Act 1 Uitem A	2																						0
-Act 1 Super B	18	5	-2	992	992	1024	1024		Act 1 Uitem B	2																						0
-Act 1 Super C	18	9	-2	992	992	1024	1024		Act 1 Uitem C	2																						0
-Act 2 Super A	18	12	-2	992	992	1024	1024		Act 2 Uitem A	2																						0
-Act 2 Super B	18	15	-2	992	992	1024	1024		Act 2 Uitem B	2																						0
-Act 2 Super C	18	18	-2	992	992	1024	1024		Act 2 Uitem C	2																						0
-Act 3 Super A	18	20	-2	992	992	1024	1024		Act 3 Uitem A	2																						0
-Act 3 Super B	18	22	-2	992	992	1024	1024		Act 3 Uitem B	2																						0
-Act 3 Super C	18	24	-2	992	992	1024	1024		Act 3 Uitem C	2																						0
-Act 4 Super A	18	26	-2	992	992	1024	1024		Act 4 Uitem A	2																						0
-Act 4 Super B	18	29	-2	992	992	1024	1024		Act 4 Uitem B	2																						0
-Act 4 Super C	18	32	-2	992	992	1024	1024		Act 4 Uitem B	2																						0
-Act 5 Super A	18	34	-2	992	992	1024	1024		Act 5 Uitem A	2																						0
-Act 5 Super B	18	36	-2	992	992	1024	1024		Act 5 Uitem B	2																						0
-Act 5 Super C	18	38	-2	992	992	1024	1024		Act 5 Uitem C	2																						0
-Act 1 (N) Super A	18	40	-2	992	992	1024	1024		Act 1 (N) Uitem A	2																						0
-Act 1 (N) Super B	18	41	-2	992	992	1024	1024		Act 1 (N) Uitem B	2																						0
-Act 1 (N) Super C	18	42	-2	992	992	1024	1024		Act 1 (N) Uitem C	2																						0
-Act 2 (N) Super A	18	44	-2	992	992	1024	1024		Act 2 (N) Uitem A	2																						0
-Act 2 (N) Super B	18	45	-2	992	992	1024	1024		Act 2 (N) Uitem B	2																						0
-Act 2 (N) Super C	18	46	-2	992	992	1024	1024		Act 2 (N) Uitem C	2																						0
-Act 3 (N) Super A	18	48	-2	992	992	1024	1024		Act 3 (N) Uitem A	2																						0
-Act 3 (N) Super B	18	50	-2	992	992	1024	1024		Act 3 (N) Uitem B	2																						0
-Act 3 (N) Super C	18	51	-2	992	992	1024	1024		Act 3 (N) Uitem C	2																						0
-Act 4 (N) Super A	18	54	-2	992	992	1024	1024		Act 4 (N) Uitem A	2																						0
-Act 4 (N) Super B	18	57	-2	992	992	1024	1024		Act 4 (N) Uitem B	2																						0
-Act 4 (N) Super C	18	60	-2	992	992	1024	1024		Act 4 (N) Uitem B	2																						0
-Act 5 (N) Super A	18	62	-2	992	992	1024	1024		Act 5 (N) Uitem A	2																						0
-Act 5 (N) Super B	18	63	-2	992	992	1024	1024		Act 5 (N) Uitem B	2																						0
-Act 5 (N) Super C	18	66	-2	992	992	1024	1024		Act 5 (N) Uitem C	2																						0
-Act 1 (H) Super A	18	67	-2	992	992	1024	1024		Act 1 (H) Uitem A	2																						0
-Act 1 (H) Super B	18	67	-2	992	992	1024	1024		Act 1 (H) Uitem B	2																						0
-Act 1 (H) Super C	18	68	-2	992	992	1024	1024		Act 1 (H) Uitem C	2																						0
-Act 2 (H) Super A	18	68	-2	992	992	1024	1024		Act 2 (H) Uitem A	2																						0
-Act 2 (H) Super B	18	69	-2	992	992	1024	1024		Act 2 (H) Uitem B	2																						0
-Act 2 (H) Super C	18	72	-2	992	992	1024	1024		Act 2 (H) Uitem C	2																						0
-Act 3 (H) Super A	18	73	-2	992	992	1024	1024		Act 3 (H) Uitem A	2																						0
-Act 3 (H) Super B	18	75	-2	992	992	1024	1024		Act 3 (H) Uitem B	2																						0
-Act 3 (H) Super C	18	78	-2	992	992	1024	1024		Act 3 (H) Uitem C	2																						0
-Act 4 (H) Super A	18	81	-2	992	992	1024	1024		Act 4 (H) Uitem A	2																						0
-Act 4 (H) Super B	18	84	-2	992	992	1024	1024		Act 4 (H) Uitem B	2																						0
-Act 4 (H) Super C	18	87	-2	992	992	1024	1024		Act 4 (H) Uitem B	2																						0
-Act 5 (H) Super A	18	90	-2	992	992	1024	1024		Act 5 (H) Uitem A	2																						0
-Act 5 (H) Super B	18	93	-2	992	992	1024	1024		Act 5 (H) Uitem B	2																						0
-Act 5 (H) Super C	18	96	-2	992	992	1024	1024		Act 5 (H) Uitem C	2																						0
-Act 1 Super Ax	18	0	-2	992	992	1024	1024		Act 1 Uitem A	2																						0
-Act 1 Super Bx	18	5	-2	992	992	1024	1024		Act 1 Uitem B	2																						0
-Act 1 Super Cx	18	9	-2	992	992	1024	1024		Act 1 Uitem C	2																						0
-Act 2 Super Ax	18	12	-2	992	992	1024	1024		Act 2 Uitem A	2																						0
-Act 2 Super Bx	18	15	-2	992	992	1024	1024		Act 2 Uitem B	2																						0
-Act 2 Super Cx	18	18	-2	992	992	1024	1024		Act 2 Uitem C	2																						0
-Act 3 Super Ax	18	20	-2	992	992	1024	1024		Act 3 Uitem A	2																						0
-Act 3 Super Bx	18	22	-2	992	992	1024	1024		Act 3 Uitem B	2																						0
-Act 3 Super Cx	18	24	-2	992	992	1024	1024		Act 3 Uitem C	2																						0
-Act 4 Super Ax	18	26	-2	992	992	1024	1024		Act 4 Uitem A	2																						0
-Act 4 Super Bx	18	29	-2	992	992	1024	1024		Act 4 Uitem B	2																						0
-Act 4 Super Cx	18	32	-2	992	992	1024	1024		Act 4 Uitem B	2																						0
-Act 5 Super Ax	18	34	-2	992	992	1024	1024		Act 5 Uitem A	2																						0
-Act 5 Super Bx	18	36	-2	992	992	1024	1024		Act 5 Uitem B	2																						0
-Act 5 Super Cx	18	38	-2	992	992	1024	1024		Act 5 Uitem C	2																						0
-Act 1 (N) Super Ax	18	40	-2	992	992	1024	1024		Act 1 (N) Uitem A	2																						0
-Act 1 (N) Super Bx	18	41	-2	992	992	1024	1024		Act 1 (N) Uitem B	2																						0
-Act 1 (N) Super Cx	18	42	-2	992	992	1024	1024		Act 1 (N) Uitem C	2																						0
-Act 2 (N) Super Ax	18	44	-2	992	992	1024	1024		Act 2 (N) Uitem A	2																						0
-Act 2 (N) Super Bx	18	45	-2	992	992	1024	1024		Act 2 (N) Uitem B	2																						0
-Act 2 (N) Super Cx	18	46	-2	992	992	1024	1024		Act 2 (N) Uitem C	2																						0
-Act 3 (N) Super Ax	18	48	-2	992	992	1024	1024		Act 3 (N) Uitem A	2																						0
-Act 3 (N) Super Bx	18	50	-2	992	992	1024	1024		Act 3 (N) Uitem B	2																						0
-Act 3 (N) Super Cx	18	51	-2	992	992	1024	1024		Act 3 (N) Uitem C	2																						0
-Act 4 (N) Super Ax	18	54	-2	992	992	1024	1024		Act 4 (N) Uitem A	2																						0
-Act 4 (N) Super Bx	18	57	-2	992	992	1024	1024		Act 4 (N) Uitem B	2																						0
-Act 4 (N) Super Cx	18	60	-2	992	992	1024	1024		Act 4 (N) Uitem B	2																						0
-Act 5 (N) Super Ax	18	62	-2	992	992	1024	1024		Act 5 (N) Uitem A	2																						0
-Act 5 (N) Super Bx	18	63	-2	992	992	1024	1024		Act 5 (N) Uitem B	2																						0
-Act 5 (N) Super Cx	18	66	-2	992	992	1024	1024		Act 5 (N) Uitem C	2																						0
-Act 1 (H) Super Ax	18	67	-2	992	992	1024	1024		Act 1 (H) Uitem A	2																						0
-Act 1 (H) Super Bx	18	67	-2	992	992	1024	1024		Act 1 (H) Uitem B	2																						0
-Act 1 (H) Super Cx	18	68	-2	992	992	1024	1024		Act 1 (H) Uitem C	2																						0
-Act 2 (H) Super Ax	18	68	-2	992	992	1024	1024		Act 2 (H) Uitem A	2																						0
-Act 2 (H) Super Bx	18	69	-2	992	992	1024	1024		Act 2 (H) Uitem B	2																						0
-Act 2 (H) Super Cx	18	72	-2	992	992	1024	1024		Act 2 (H) Uitem C	2																						0
-Act 3 (H) Super Ax	18	73	-2	992	992	1024	1024		Act 3 (H) Uitem A	2																						0
-Act 3 (H) Super Bx	18	75	-2	992	992	1024	1024		Act 3 (H) Uitem B	2																						0
-Act 3 (H) Super Cx	18	78	-2	992	992	1024	1024		Act 3 (H) Uitem C	2																						0
-Act 4 (H) Super Ax	18	81	-2	992	992	1024	1024		Act 4 (H) Uitem A	2																						0
-Act 4 (H) Super Bx	18	84	-2	992	992	1024	1024		Act 4 (H) Uitem B	2																						0
-Act 4 (H) Super Cx	18	87	-2	992	992	1024	1024		Act 4 (H) Uitem B	2																						0
-Act 5 (H) Super Ax	18	90	-2	992	992	1024	1024		Act 5 (H) Uitem A	2																						0
-Act 5 (H) Super Bx	18	93	-2	992	992	1024	1024		Act 5 (H) Uitem B	2																						0
-Act 5 (H) Super Cx	18	96	-2	992	992	1024	1024		Act 5 (H) Uitem C	2																						0
-Cow King			5	992	992	1024	1024		Act 1 Uitem C	1	Act 1 Melee B	2																				0
-Cow King (N)			5	992	992	1024	1024		Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
-Cow King (H)			5	992	992	1024	1024		Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
+Act 1 Super A	18	0	-2	995	1004	1024	1024		Act 1 Uitem A	2																						0
+Act 1 Super B	18	5	-2	995	1004	1024	1024		Act 1 Uitem B	2																						0
+Act 1 Super C	18	9	-2	995	1004	1024	1024		Act 1 Uitem C	2																						0
+Act 2 Super A	18	12	-2	995	1004	1024	1024		Act 2 Uitem A	2																						0
+Act 2 Super B	18	15	-2	995	1004	1024	1024		Act 2 Uitem B	2																						0
+Act 2 Super C	18	18	-2	995	1004	1024	1024		Act 2 Uitem C	2																						0
+Act 3 Super A	18	20	-2	995	1004	1024	1024		Act 3 Uitem A	2																						0
+Act 3 Super B	18	22	-2	995	1004	1024	1024		Act 3 Uitem B	2																						0
+Act 3 Super C	18	24	-2	995	1004	1024	1024		Act 3 Uitem C	2																						0
+Act 4 Super A	18	26	-2	995	1004	1024	1024		Act 4 Uitem A	2																						0
+Act 4 Super B	18	29	-2	995	1004	1024	1024		Act 4 Uitem B	2																						0
+Act 4 Super C	18	32	-2	995	1004	1024	1024		Act 4 Uitem B	2																						0
+Act 5 Super A	18	34	-2	995	1004	1024	1024		Act 5 Uitem A	2																						0
+Act 5 Super B	18	36	-2	995	1004	1024	1024		Act 5 Uitem B	2																						0
+Act 5 Super C	18	38	-2	995	1004	1024	1024		Act 5 Uitem C	2																						0
+Act 1 (N) Super A	18	40	-2	995	1004	1024	1024		Act 1 (N) Uitem A	2																						0
+Act 1 (N) Super B	18	41	-2	995	1004	1024	1024		Act 1 (N) Uitem B	2																						0
+Act 1 (N) Super C	18	42	-2	995	1004	1024	1024		Act 1 (N) Uitem C	2																						0
+Act 2 (N) Super A	18	44	-2	995	1004	1024	1024		Act 2 (N) Uitem A	2																						0
+Act 2 (N) Super B	18	45	-2	995	1004	1024	1024		Act 2 (N) Uitem B	2																						0
+Act 2 (N) Super C	18	46	-2	995	1004	1024	1024		Act 2 (N) Uitem C	2																						0
+Act 3 (N) Super A	18	48	-2	995	1004	1024	1024		Act 3 (N) Uitem A	2																						0
+Act 3 (N) Super B	18	50	-2	995	1004	1024	1024		Act 3 (N) Uitem B	2																						0
+Act 3 (N) Super C	18	51	-2	995	1004	1024	1024		Act 3 (N) Uitem C	2																						0
+Act 4 (N) Super A	18	54	-2	995	1004	1024	1024		Act 4 (N) Uitem A	2																						0
+Act 4 (N) Super B	18	57	-2	995	1004	1024	1024		Act 4 (N) Uitem B	2																						0
+Act 4 (N) Super C	18	60	-2	995	1004	1024	1024		Act 4 (N) Uitem B	2																						0
+Act 5 (N) Super A	18	62	-2	995	1004	1024	1024		Act 5 (N) Uitem A	2																						0
+Act 5 (N) Super B	18	63	-2	995	1004	1024	1024		Act 5 (N) Uitem B	2																						0
+Act 5 (N) Super C	18	66	-2	995	1004	1024	1024		Act 5 (N) Uitem C	2																						0
+Act 1 (H) Super A	18	67	-2	995	1004	1024	1024		Act 1 (H) Uitem A	2																						0
+Act 1 (H) Super B	18	67	-2	995	1004	1024	1024		Act 1 (H) Uitem B	2																						0
+Act 1 (H) Super C	18	68	-2	995	1004	1024	1024		Act 1 (H) Uitem C	2																						0
+Act 2 (H) Super A	18	68	-2	995	1004	1024	1024		Act 2 (H) Uitem A	2																						0
+Act 2 (H) Super B	18	69	-2	995	1004	1024	1024		Act 2 (H) Uitem B	2																						0
+Act 2 (H) Super C	18	72	-2	995	1004	1024	1024		Act 2 (H) Uitem C	2																						0
+Act 3 (H) Super A	18	73	-2	995	1004	1024	1024		Act 3 (H) Uitem A	2																						0
+Act 3 (H) Super B	18	75	-2	995	1004	1024	1024		Act 3 (H) Uitem B	2																						0
+Act 3 (H) Super C	18	78	-2	995	1004	1024	1024		Act 3 (H) Uitem C	2																						0
+Act 4 (H) Super A	18	81	-2	995	1004	1024	1024		Act 4 (H) Uitem A	2																						0
+Act 4 (H) Super B	18	84	-2	995	1004	1024	1024		Act 4 (H) Uitem B	2																						0
+Act 4 (H) Super C	18	87	-2	995	1004	1024	1024		Act 4 (H) Uitem B	2																						0
+Act 5 (H) Super A	18	90	-2	995	1004	1024	1024		Act 5 (H) Uitem A	2																						0
+Act 5 (H) Super B	18	93	-2	995	1004	1024	1024		Act 5 (H) Uitem B	2																						0
+Act 5 (H) Super C	18	96	-2	995	1004	1024	1024		Act 5 (H) Uitem C	2																						0
+Act 1 Super Ax	18	0	-2	995	1004	1024	1024		Act 1 Uitem A	2																						0
+Act 1 Super Bx	18	5	-2	995	1004	1024	1024		Act 1 Uitem B	2																						0
+Act 1 Super Cx	18	9	-2	995	1004	1024	1024		Act 1 Uitem C	2																						0
+Act 2 Super Ax	18	12	-2	995	1004	1024	1024		Act 2 Uitem A	2																						0
+Act 2 Super Bx	18	15	-2	995	1004	1024	1024		Act 2 Uitem B	2																						0
+Act 2 Super Cx	18	18	-2	995	1004	1024	1024		Act 2 Uitem C	2																						0
+Act 3 Super Ax	18	20	-2	995	1004	1024	1024		Act 3 Uitem A	2																						0
+Act 3 Super Bx	18	22	-2	995	1004	1024	1024		Act 3 Uitem B	2																						0
+Act 3 Super Cx	18	24	-2	995	1004	1024	1024		Act 3 Uitem C	2																						0
+Act 4 Super Ax	18	26	-2	995	1004	1024	1024		Act 4 Uitem A	2																						0
+Act 4 Super Bx	18	29	-2	995	1004	1024	1024		Act 4 Uitem B	2																						0
+Act 4 Super Cx	18	32	-2	995	1004	1024	1024		Act 4 Uitem B	2																						0
+Act 5 Super Ax	18	34	-2	995	1004	1024	1024		Act 5 Uitem A	2																						0
+Act 5 Super Bx	18	36	-2	995	1004	1024	1024		Act 5 Uitem B	2																						0
+Act 5 Super Cx	18	38	-2	995	1004	1024	1024		Act 5 Uitem C	2																						0
+Act 1 (N) Super Ax	18	40	-2	995	1004	1024	1024		Act 1 (N) Uitem A	2																						0
+Act 1 (N) Super Bx	18	41	-2	995	1004	1024	1024		Act 1 (N) Uitem B	2																						0
+Act 1 (N) Super Cx	18	42	-2	995	1004	1024	1024		Act 1 (N) Uitem C	2																						0
+Act 2 (N) Super Ax	18	44	-2	995	1004	1024	1024		Act 2 (N) Uitem A	2																						0
+Act 2 (N) Super Bx	18	45	-2	995	1004	1024	1024		Act 2 (N) Uitem B	2																						0
+Act 2 (N) Super Cx	18	46	-2	995	1004	1024	1024		Act 2 (N) Uitem C	2																						0
+Act 3 (N) Super Ax	18	48	-2	995	1004	1024	1024		Act 3 (N) Uitem A	2																						0
+Act 3 (N) Super Bx	18	50	-2	995	1004	1024	1024		Act 3 (N) Uitem B	2																						0
+Act 3 (N) Super Cx	18	51	-2	995	1004	1024	1024		Act 3 (N) Uitem C	2																						0
+Act 4 (N) Super Ax	18	54	-2	995	1004	1024	1024		Act 4 (N) Uitem A	2																						0
+Act 4 (N) Super Bx	18	57	-2	995	1004	1024	1024		Act 4 (N) Uitem B	2																						0
+Act 4 (N) Super Cx	18	60	-2	995	1004	1024	1024		Act 4 (N) Uitem B	2																						0
+Act 5 (N) Super Ax	18	62	-2	995	1004	1024	1024		Act 5 (N) Uitem A	2																						0
+Act 5 (N) Super Bx	18	63	-2	995	1004	1024	1024		Act 5 (N) Uitem B	2																						0
+Act 5 (N) Super Cx	18	66	-2	995	1004	1024	1024		Act 5 (N) Uitem C	2																						0
+Act 1 (H) Super Ax	18	67	-2	995	1004	1024	1024		Act 1 (H) Uitem A	2																						0
+Act 1 (H) Super Bx	18	67	-2	995	1004	1024	1024		Act 1 (H) Uitem B	2																						0
+Act 1 (H) Super Cx	18	68	-2	995	1004	1024	1024		Act 1 (H) Uitem C	2																						0
+Act 2 (H) Super Ax	18	68	-2	995	1004	1024	1024		Act 2 (H) Uitem A	2																						0
+Act 2 (H) Super Bx	18	69	-2	995	1004	1024	1024		Act 2 (H) Uitem B	2																						0
+Act 2 (H) Super Cx	18	72	-2	995	1004	1024	1024		Act 2 (H) Uitem C	2																						0
+Act 3 (H) Super Ax	18	73	-2	995	1004	1024	1024		Act 3 (H) Uitem A	2																						0
+Act 3 (H) Super Bx	18	75	-2	995	1004	1024	1024		Act 3 (H) Uitem B	2																						0
+Act 3 (H) Super Cx	18	78	-2	995	1004	1024	1024		Act 3 (H) Uitem C	2																						0
+Act 4 (H) Super Ax	18	81	-2	995	1004	1024	1024		Act 4 (H) Uitem A	2																						0
+Act 4 (H) Super Bx	18	84	-2	995	1004	1024	1024		Act 4 (H) Uitem B	2																						0
+Act 4 (H) Super Cx	18	87	-2	995	1004	1024	1024		Act 4 (H) Uitem B	2																						0
+Act 5 (H) Super Ax	18	90	-2	995	1004	1024	1024		Act 5 (H) Uitem A	2																						0
+Act 5 (H) Super Bx	18	93	-2	995	1004	1024	1024		Act 5 (H) Uitem B	2																						0
+Act 5 (H) Super Cx	18	96	-2	995	1004	1024	1024		Act 5 (H) Uitem C	2																						0
+Cow King			5	995	1004	1024	1024		Act 1 Uitem C	1	Act 1 Melee B	2																				0
+Cow King (N)			5	995	1004	1024	1024		Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
+Cow King (H)			5	995	1004	1024	1024		Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Duriel			5						tsc	1	Duriel - Base	2																				0
 Duriel (N)			5						tsc	1	Duriel (N) - Base	2																				0
 Duriel (H)			5						tsc	1	Duriel (H) - Base	2																				0
