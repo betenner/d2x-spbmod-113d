@@ -202,7 +202,7 @@ Buriza-Do Kyanon	100	1		1	1	59	41	8hx	Balista			5	5000				invhxbu				pierce		100
 Demon Machine	100	1		1	1	57	49	8rx	Chu-Ko-Nu			5	5000	blac	blac		invrxbu				ac		321	321	mana		36	36	pierce		66	66	explosivearrow		6	6	dmg-max		66	66	dmg%		123	123	att		632	632																					0
 Armor																																																																					0
 Peasent Crown	100	1		1	1	36	28	xap	War Hat			3	5000	lgry							enr		20	20	vit		20	20	allskills		1	1	move2		15	15	regen		12	12	ac%		100	100																									0
-Rockstopper	100	1		1	1	39	31	xkp	Sallet			3	5000				invxkpu				res-ltng		20	40	red-dmg%		10	10	balance2		30	30	ac%		220	220	res-fire		50	50	res-cold		40	40	vit		15	15																					0
+Rockstopper	100	1		1	1	39	31	xkp	Sallet			3	5000				invxkpu				res-ltng		40	40	red-dmg%		10	10	balance2		30	30	ac%		220	220	res-fire		50	50	res-cold		40	40	vit		15	15																					0
 Stealskull	100	1		1	1	43	35	xlm	Casque			3	5000				invhlmu				manasteal		5	5	lifesteal		5	5	balance2		10	10	swing2		10	10	ac%		240	240	mag%		50	50																									0
 Darksight Helm	100	1		1	1	46	38	xhl	Basinet			3	5000	blac	blac		invfhlu				light		-4	-4	ac/lvl	16			nofreeze		1	1	manasteal		5	5	gethit-skill	71	6	3	charged	264	30	5	res-fire		40	40																					0
 Valkiry Wing	100	1		1	1	52	44	xhm	Winged Helm			3	5000	lgld							ac%		200	200	move2		20	20	balance2		20	20	ama		2	2	mana-kill		4	4																													0
