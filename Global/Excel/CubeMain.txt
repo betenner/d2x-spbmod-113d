@@ -310,6 +310,7 @@ Skull Upgrade	1			100					7	"sku,qty=6"	skl						skz																												
 Skull Upgrade	1			100					6	"skl,qty=6"							skz																													skz																																																										0
 Skull Upgrade	1			100					9	"skl,qty=9"							skz																													skz																													skz																													0
 Cool Ring	1			100					1	hpot							"Cool Ring,set"	99																																																																																						0
+Merc Cap	1			100					1	mpot							"Merc Cap,set"	99																																																																																						0
 #17 + #20 + 3 Perfect Topaz + 1 Set Torso Armor -> Socketed Torso Armor	1			100					6	"tors,set,nos"	r17	r20	"gpy,qty=3"				useitem				sock			1	1																																																																															0
 #18 + #21 + 3 Perfect Amethyst + 1 Set Weapon -> Socketed Weapon	1			100					6	"weap,set,nos"	r18	r21	"gpv,qty=3"				useitem				sock			1	1																																																																															0
 #18 + #20 + 3 Perfect Sapphire + 1 Set Helm -> Socketed Helm	1			100					6	"helm,set,nos"	r18	r20	"gpb,qty=3"				useitem				sock			1	1																																																																															0
