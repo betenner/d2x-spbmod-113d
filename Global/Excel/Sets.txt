@@ -32,5 +32,5 @@ Bul-Kathos' Children	Bul-Kathos' Children	100	50																																
 Cow King's Leathers	Cow King's Leathers	100	20	res-pois		25	25																													stam		100	100	str		20	20	gold%		100	100	mag%		100	100	gethit-skill	42	25	5	swing3		30	30									0
 Naj's Ancient Set	Naj's Ancient Set	100	43	ac		175	175																													allskills		1	1	regen		10	10	dex		15	15	res-all		50	50	str		20	20	mana		100	100									0
 McAuley's Folly	McAuley's Folly	100	20	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
-Just Cool	Just Cool	100	1																																	allskills		50	50	mana%		5000	5000	regen-mana		50000	50000	mag%		100	100	regen-stam		50000	50000	mag%/lvl	16			all-stats		100	100	cheap		100	100	0
+Just Cool	Just Cool	100	1																																	allskills		50	50	nofreeze		1	1	regen-mana		50000	50000	mag%		100	100	regen-stam		50000	50000	mag%/lvl	16			all-stats		100	100	cheap		100	100	0
 Just Merc	Just Merc	100	1																																	red-dmg		500000	500000	red-mag		500000	500000	regen		50000	50000	res-all		200	200																	0
